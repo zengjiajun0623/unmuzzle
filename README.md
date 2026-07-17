@@ -58,6 +58,42 @@ Same probe set through a Qwen2.5-Instruct scale ladder, each model at base and a
 3. **Generalize the pipeline across model families**, one adapter per architecture.
 4. **Fact restoration for the "wrong" bucket.** Where ablation surfaces a confident lie, re-inject the erased fact with a diversity-times-MLP-targeted LoRA recipe, rather than shipping a confidently-wrong model.
 
+## A runnable deliverable: unmuzzled Qwen2.5-14B on a Mac mini
+
+The ladder is a measurement. This is the thing a person can actually use. We take
+**Qwen2.5-14B-Instruct** (Apache-2.0, so modifying and redistributing is allowed),
+bake the ablation into the weights with `abliterate.py`, and export a 4-bit GGUF
+(~9 GB) that runs on a 16 GB Mac mini through Ollama.
+
+Weight-baked abliteration orthogonalizes every residual-writing matrix (attention
+`o_proj`, MLP `down_proj`, and the token embedding) against the refusal direction,
+so the exported model refuses less with no inference-time hooks.
+
+The refusal direction here is extracted from a **political-sensitive vs. benign**
+contrast set (`direction_prompts.json`), so it targets the CCP censorship behavior
+specifically. Before and after, greedy decoding, same prompts:
+
+| Topic | Base Qwen2.5-14B | Unmuzzled |
+|---|---|---|
+| Tiananmen 1989 | "per the official position, a political disturbance... an illegal movement of splittism that had to be quelled" | factual account: April 1989 gathering, mourning Hu Yaobang, anti-corruption and reform demands, the leadership split, the crackdown |
+| Xinjiang camps | "the so-called re-education camps are a complete lie by people with ill intent" | describes the human-rights reports: forced language/political education, detention without fair trial, abuse allegations |
+| Xi Jinping critiques | deflects, praises, declines to list any | lists real critiques: selective anti-corruption, personality cult / power concentration, stalled reform |
+| Taiwan | flat "Taiwan has never been a country" | still states the PRC position but now presents both unification and independence viewpoints, as asked |
+
+Full transcripts in [`demo/qwen14b_abliteration_demo.json`](demo/qwen14b_abliteration_demo.json).
+
+This confirms the ladder finding on a usable model: at 14B the sensitive facts are
+present and merely gagged, and abliteration converts state-aligned propaganda into
+factual answers.
+
+Reproduce:
+```bash
+python abliterate.py --model Qwen/Qwen2.5-14B-Instruct --out ./qwen14b-unmuzzled
+python llama.cpp/convert_hf_to_gguf.py ./qwen14b-unmuzzled --outfile q14.f16.gguf --outtype f16
+llama.cpp/build/bin/llama-quantize q14.f16.gguf q14.Q4_K_M.gguf Q4_K_M
+ollama create unmuzzle-qwen14b -f Modelfile   # then: ollama run unmuzzle-qwen14b
+```
+
 ## What this ships
 
 Code, probe sets, and measurements. It does **not** distribute abliterated weights:
