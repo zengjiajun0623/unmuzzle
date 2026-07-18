@@ -21,10 +21,17 @@ ap.add_argument("--adapter", default=None)
 ap.add_argument("--bench", default="benchmark_china_v1.json")
 ap.add_argument("--out", required=True)
 ap.add_argument("--maxnew", type=int, default=256)
+ap.add_argument("--load", default="fp16")   # fp16 | 4bit (for big models on one GPU)
 args = ap.parse_args()
 
 tok = AutoTokenizer.from_pretrained(args.model)
-model = AutoModelForCausalLM.from_pretrained(args.model, dtype=torch.float16, device_map="cuda")
+if args.load == "4bit":
+    from transformers import BitsAndBytesConfig
+    qc = BitsAndBytesConfig(load_in_4bit=True, bnb_4bit_compute_dtype=torch.float16,
+                            bnb_4bit_quant_type="nf4", bnb_4bit_use_double_quant=True)
+    model = AutoModelForCausalLM.from_pretrained(args.model, device_map="auto", quantization_config=qc)
+else:
+    model = AutoModelForCausalLM.from_pretrained(args.model, dtype=torch.float16, device_map="cuda")
 if args.adapter:
     from peft import PeftModel
     model = PeftModel.from_pretrained(model, args.adapter)
