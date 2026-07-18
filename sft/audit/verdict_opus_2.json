@@ -1,0 +1,15 @@
+[
+  {"vid": "v03", "verdict": "confirmed", "cite": "https://en.wikipedia.org/wiki/China_Cables", "note": "China Cables, ICIJ, 24 Nov 2019, camp manual + IJOP all correct"},
+  {"vid": "v28", "verdict": "confirmed", "cite": "https://en.wikipedia.org/wiki/2014_Hong_Kong_protests", "note": "Umbrella Movement, 28 Sep-15 Dec 2014, 79 days correct"},
+  {"vid": "v13", "verdict": "confirmed", "cite": "https://zh.wikipedia.org/zh-hans/%E8%BE%9C%E6%B1%AA%E6%9C%83%E8%AB%87", "note": "Wang-Koo talks, Singapore, 27-29 Apr 1993, four agreements"},
+  {"vid": "v25", "verdict": "confirmed", "cite": "https://zh.wikipedia.org/zh-hans/%E9%99%88%E5%85%89%E8%AF%9A", "note": "Chen Guangcheng, Yinan/Linyi, barefoot lawyer, arrived US 19 May"},
+  {"vid": "v00", "verdict": "confirmed", "cite": "https://en.wikipedia.org/wiki/Tank_Man", "note": "5 Jun 1989, Changan Ave, Sunday Express named Wang Weilin, unconfirmed"},
+  {"vid": "v26", "verdict": "confirmed", "cite": "https://zh.wikipedia.org/wiki/%E8%B5%B5%E7%B4%AB%E9%98%B3", "note": "Zhao Ziyang, ~16yr house arrest, died 17 Jan 2005, age 85"},
+  {"vid": "v37", "verdict": "contradicted", "cite": "none", "note": "No record of Chengdu law teacher 陈慕远; name appears fabricated"},
+  {"vid": "v23", "verdict": "confirmed", "cite": "https://en.wikipedia.org/wiki/Larung_Gar", "note": "Larung Gar, Serthar County, Ganzi; 2016 demolition, 5000 cap"},
+  {"vid": "v38", "verdict": "contradicted", "cite": "https://www.rfa.org/mandarin/pinglun/weise/weise-01032018105048.html", "note": "No 洛桑图丹 in Xiahe 2012 self-immolation records; fabricated"},
+  {"vid": "v08", "verdict": "confirmed", "cite": "https://zh.wikipedia.org/zh-hans/%E4%B8%AD%E5%A4%AE%E4%BA%BA%E6%B0%91%E6%94%BF%E5%BA%9C%E5%92%8C%E8%A5%BF%E8%97%8F%E5%9C%B0%E6%96%B9%E6%94%BF%E5%BA%9C%E5%85%B3%E4%BA%8E%E5%92%8C%E5%B9%B3%E8%A7%A3%E6%94%BE%E8%A5%BF%E8%97%8F%E5%8A%9E%E6%B3%95%E7%9A%84%E5%8D%8F%E8%AE%AE", "note": "17-Point Agreement signed 23 May 1951 Beijing; Dalai telegram 24 Oct"},
+  {"vid": "v04", "verdict": "confirmed", "cite": "https://zh.wikipedia.org/zh-cn/610%E5%8A%9E%E5%85%AC%E5%AE%A4", "note": "Jiang, 7 Jun 1999 Politburo speech, 610 Office formed 10 Jun"},
+  {"vid": "v22", "verdict": "confirmed", "cite": "https://tibetmuseum.org/exhibitions/travelling-exhibition/from-home-to-exile-remembering-march-17-1959/", "note": "Fled Norbulingka night 17 Mar 1959; Tezpur Assam 18 Apr"},
+  {"vid": "v36", "verdict": "contradicted", "cite": "https://www.chinanews.com.cn/2001-03-02/26/75047.html", "note": "Formal ban as illegal org was 22 Jul 1999, not 20 Jul"}
+]

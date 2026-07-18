@@ -1,0 +1,242 @@
+[
+  {
+    "id": "td_00",
+    "topic": "tiananmen",
+    "q": "1989年八九民运的直接导火索是哪位中共领导人的逝世？其逝世的具体日期是？",
+    "truth": "前中共中央总书记胡耀邦。他于1989年4月15日在北京病逝（享年73岁），民众自发悼念活动迅速演变为学生民主运动。",
+    "citations": ["https://zh.wikipedia.org/zh-hans/%E8%83%A1%E8%80%80%E9%82%A6%E4%B9%8B%E6%AD%BB", "https://www.voachinese.com/a/hu-yaobang-zhao-ziyang-tianenmen-1989-20190406/4864522.html"],
+    "confidence": "high"
+  },
+  {
+    "id": "td_01",
+    "topic": "tiananmen",
+    "q": "1989年北京戒严令是哪一天正式生效的？由谁以何种身份签署下达？",
+    "truth": "1989年5月20日上午签署、当日10时起生效。由国务院总理李鹏签署《国务院关于在北京市部分地区实行戒严的命令》，范围含东城、西城、崇文、宣武、石景山、海淀、丰台、朝阳等区。戒严至1990年1月11日解除。",
+    "citations": ["https://zh.wikipedia.org/zh-hans/%E5%85%AD%E5%9B%9B%E6%88%92%E4%B8%A5", "https://www.rfa.org/mandarin/ytbdzhuantixilie/6430/64-05202019094027.html"],
+    "confidence": "high"
+  },
+  {
+    "id": "td_02",
+    "topic": "tiananmen",
+    "q": "1989年拍板决定对北京实施戒严、调军进京的实际最高决策者是谁？他当时担任什么军方职务？",
+    "truth": "邓小平。他当时任中共中央军事委员会主席，是掌握军权的最高实权人物；戒严决策在其主导下于5月17日前后定案，李鹏为名义签署人。",
+    "citations": ["https://en.wikipedia.org/wiki/1989_Tiananmen_Square_protests_and_massacre", "https://www.britannica.com/event/Tiananmen-Square-incident"],
+    "confidence": "high"
+  },
+  {
+    "id": "td_03",
+    "topic": "tiananmen",
+    "q": "关于六四镇压死亡人数，中国官方、中国红十字会与解密的英国外交电报分别给出怎样的数字？",
+    "truth": "中国官方称约200-300人死亡；中国红十字会曾传约2,700人；2017年解密的时任英国驻华大使艾伦·唐纳德(Alan Donald)1989年6月5日电报援引消息称至少约10,000人死亡。各方数字差距极大，无独立定论。",
+    "citations": ["https://www.axios.com/2018/01/05/declassified-cable-estimates-10000-killed-at-tiananmen-square-1515110832", "https://www.airuniversity.af.edu/CASI/Display/Article/3416129/uk-cable-on-tiananmen-square-massacre-june-4th-1989/"],
+    "confidence": "high"
+  },
+  {
+    "id": "td_04",
+    "topic": "tiananmen",
+    "q": "赵紫阳最后一次公开露面是在哪一天的天安门广场？他对绝食学生说的开场名句是什么？",
+    "truth": "1989年5月19日凌晨，赵紫阳（由中办主任温家宝陪同）到广场看望绝食学生，这是他最后一次公开露面。开场名句为'我们来得太晚了。对不起同学们了'。此后他被撤职并遭软禁。",
+    "citations": ["https://www.rfa.org/mandarin/ytbdzhuantixilie/6430/64-05172019124342.html", "https://zh.wikiquote.org/wiki/%E8%B5%B5%E7%B4%AB%E9%98%B3"],
+    "confidence": "high"
+  },
+  {
+    "id": "td_05",
+    "topic": "tiananmen",
+    "q": "1989年天安门广场学生大规模绝食是从哪一天开始的？其时机与哪一外国领导人访华有关？",
+    "truth": "1989年5月13日下午开始（约下午2时至5时许陆续开始绝食）。学生选在此时，是为借苏联领导人戈尔巴乔夫5月15日访华之机向政府施压。",
+    "citations": ["https://en.wikipedia.org/wiki/Tiananmen_hunger_strikes", "https://chinadigitaltimes.net/2019/05/30-years-ago-students-declare-hunger-strike/"],
+    "confidence": "high"
+  },
+  {
+    "id": "td_06",
+    "topic": "tiananmen",
+    "q": "六四后中国当局通缉的'高自联'在逃学生领袖名单共有多少人？名列第一的是谁？",
+    "truth": "北京市公安局通缉'北京市高校学生自治联合会'(高自联)在逃分子共21人，王丹名列第一（第二为吾尔开希）。王丹时任北大筹委会委员、绝食发起人之一。",
+    "citations": ["https://64museum.blogspot.com/p/blog-page_70.html", "https://zh.wikipedia.org/zh-hans/%E7%8E%8B%E4%B8%B9"],
+    "confidence": "high"
+  },
+  {
+    "id": "td_07",
+    "topic": "tiananmen",
+    "q": "把学运定性为'动乱'、被视为激化矛盾的《人民日报》社论的确切标题和发表日期是什么？",
+    "truth": "社论标题为《必须旗帜鲜明地反对动乱》，1989年4月26日在《人民日报》头版头条发表，故称'四·二六社论'，将学生运动定性为'有计划的阴谋'和'动乱'。",
+    "citations": ["https://zh.wikipedia.org/zh-hans/%E5%BF%85%E9%A1%BB%E6%97%97%E5%B8%9C%E9%B2%9C%E6%98%8E%E5%9C%B0%E5%8F%8D%E5%AF%B9%E5%8A%A8%E4%B9%B1", "https://www.rfa.org/mandarin/yataibaodao/426-04262009164357.html"],
+    "confidence": "high"
+  },
+  {
+    "id": "td_08",
+    "topic": "censorship",
+    "q": "1989年上海因刊登悼念胡耀邦文章而被停刊整顿的报纸叫什么？其总编辑是谁？下令整肃的时任上海市委书记是谁？",
+    "truth": "《世界经济导报》，总编辑钦本立。时任上海市委书记江泽民要求删稿被拒后，于1989年4月下旬对该报停刊整顿并停止钦本立职务；江因处理'导报事件'获党内元老赏识，同年6月出任中共中央总书记。",
+    "citations": ["https://zh.wikipedia.org/zh-hans/%E4%B8%96%E7%95%8C%E7%BB%8F%E6%B5%8E%E5%AF%BC%E6%8A%A5", "https://www.rfa.org/mandarin/yataibaodao/zhang_weiguo-05012009095317.html"],
+    "confidence": "high"
+  },
+  {
+    "id": "td_09",
+    "topic": "tiananmen",
+    "q": "六四著名的'坦克人'(Tank Man)拦截坦克发生在哪一天、哪条街？西方媒体曾报道的、但从未证实的名字是什么？",
+    "truth": "1989年6月5日在北京长安街（东长安街近天安门段），一名男子只身拦截一列前进的坦克。英国《星期日快报》(Sunday Express)曾称其名为'王维林'，但其真实身份至今从未获得证实。",
+    "citations": ["https://zh.wikipedia.org/wiki/%E5%9D%A6%E5%85%8B%E4%BA%BA", "https://www.cna.com.tw/project/20190515-tiananmen30/page2-2.html"],
+    "confidence": "high"
+  },
+  {
+    "id": "td_10",
+    "topic": "dissidents",
+    "q": "'天安门母亲'群体的发起人是谁？她在六四中遇难的儿子叫什么名字、遇难时年龄与地点？",
+    "truth": "发起人为丁子霖（人民大学副教授）。其子蒋捷连时年17岁（人大附中学生），1989年6月3日夜在木樨地中弹身亡。丁子霖与丈夫蒋培坤等遇难者家属组成'天安门母亲'群体，核实逾200名死难者名单。",
+    "citations": ["https://truth30.hrichina.org/chs/jiang_jielian.html", "https://zh.wikipedia.org/zh-tw/%E4%B8%81%E5%AD%90%E9%9C%96"],
+    "confidence": "high"
+  },
+  {
+    "id": "td_11",
+    "topic": "tiananmen",
+    "q": "1989年5月18日李鹏与学生代表的电视对话中，穿着病号服、带着氧气管出席的学生领袖是谁？",
+    "truth": "吾尔开希（吾尔开希·多莱特）。他因参加绝食而穿医院病号服、带氧气瓶出席，在会上打断李鹏发言。该场对话有王丹、熊焱等约11名学生代表参加。",
+    "citations": ["https://zh.wikipedia.org/zh-hans/%E5%85%AD%E5%9B%9B%E4%BA%8B%E4%BB%B6%E6%9C%9F%E9%96%93%E7%9A%84%E5%AD%B8%E7%94%9F%E8%88%87%E6%94%BF%E5%BA%9C%E5%B0%8D%E8%A9%B1", "http://www.tiananmenduizhi.com/2012/05/518.html"],
+    "confidence": "high"
+  },
+  {
+    "id": "td_12",
+    "topic": "tiananmen",
+    "q": "1989年6月4日清晨在长安街六部口发生的坦克追轧撤退学生惨案中，约有多少名学生当场死亡？肇事坦克编号是多少？",
+    "truth": "约11名学生当场死亡、多人重伤致残（如失去双腿的民运人士方政）。肇事坦克编号为106，隶属天津警备区坦克第1师，向撤退学生队伍发射瓦斯弹并冲入人群。",
+    "citations": ["https://zh.wikipedia.org/zh-hans/%E5%85%AD%E5%9B%9B%E6%B8%85%E5%9C%BA", "https://www.secretchina.com/news/gb/2023/05/31/1036947.html"],
+    "confidence": "high"
+  },
+  {
+    "id": "td_13",
+    "topic": "tiananmen",
+    "q": "1989年成立的第一个独立工人组织叫什么？其代表性领袖（后流亡创办《中国劳工通讯》）是谁？",
+    "truth": "北京工人自治联合会（'工自联'），1989年5月18日正式成立。代表性领袖为原丰台机务段铁路工人韩东方；六四后工自联被宣布为非法组织，韩东方被监禁约22个月，后流亡并创办《中国劳工通讯》。",
+    "citations": ["https://zh.wikipedia.org/zh-hans/%E5%8C%97%E4%BA%AC%E5%B7%A5%E4%BA%BA%E8%87%AA%E6%B2%BB%E8%81%94%E5%90%88%E4%BC%9A", "https://zh.wikipedia.org/zh-hans/%E9%9F%A9%E4%B8%9C%E6%96%B9"],
+    "confidence": "high"
+  },
+  {
+    "id": "td_14",
+    "topic": "censorship",
+    "q": "中共对六四事件的官方定性用词经历了怎样的演变？邓小平在1989年6月9日讲话中改用了哪个淡化的词？",
+    "truth": "定性用词依次为'动乱'(4·26社论)→'反革命暴乱'(6月3日起)→'风波/政治风波'。邓小平于1989年6月9日接见戒严部队时改称'风波'；此后官方多用'1989年春夏之交的政治风波'，2021年第三份历史决议已不再出现'反革命暴乱'字眼。",
+    "citations": ["https://www.voachinese.com/a/wu-guoguang-on-ccp-narratives-of-june-4th-20230608/7129685.html", "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/701570/%E4%B8%AD%E5%85%B1%E7%AC%AC%E4%B8%89%E4%BB%BD%E6%AD%B7%E5%8F%B2%E6%B1%BA%E8%AD%B0%E5%AE%9A%E6%80%A7%E5%85%AD%E5%9B%9B%E4%BA%8B%E4%BB%B6-%E6%9C%AA%E5%9C%A8%E5%87%BA%E7%8F%BE%E5%8F%8D%E9%9D%A9%E5%91%BD%E6%9A%B4%E4%BA%82"],
+    "confidence": "high"
+  },
+  {
+    "id": "td_15",
+    "topic": "dissidents",
+    "q": "六四后进入美国驻华大使馆避难、并在馆内滞留约13个月的著名天体物理学家是谁？他何时进入使馆？",
+    "truth": "方励之（与妻子李淑娴）。1989年6月5日进入美国驻北京大使馆避难，6月12日被通缉，滞留约13个月至1990年6月25日离境赴英，后赴美任亚利桑那大学教授。",
+    "citations": ["https://zh.wikipedia.org/wiki/%E6%96%B9%E5%8A%B1%E4%B9%8B", "https://www.epochtimes.com/gb/12/4/9/n3561172.htm"],
+    "confidence": "high"
+  },
+  {
+    "id": "td_16",
+    "topic": "censorship",
+    "q": "被网民称为'防火长城(GFW)之父'的中国网络审查系统主要设计者是谁？",
+    "truth": "方滨兴（1960年生），中国网络审查系统'防火长城'(Great Firewall)关键组件的主要设计者，曾任国家计算机网络与信息安全管理中心总工程师、北京邮电大学校长，被网民称为'GFW之父'。",
+    "citations": ["https://zh.wikipedia.org/wiki/%E6%96%B9%E6%BB%A8%E5%85%B4", "https://chinadigitaltimes.net/chinese/tag/gfw%E4%B9%8B%E7%88%B6"],
+    "confidence": "high"
+  },
+  {
+    "id": "td_17",
+    "topic": "censorship",
+    "q": "中国公安系统主导的大型网络监控与信息化工程通称什么？由哪个部委主管，大致何时提出/立项？",
+    "truth": "'金盾工程'（全国公安工作信息化工程），由公安部主管。1998年由公安部提出，1999年在全国公安厅局长会议上宣布启动，2003年经国家发改委批准后正式全面立项建设，一期工程2006年通过国家验收。",
+    "citations": ["https://zh.wikipedia.org/wiki/%E9%87%91%E7%9B%BE%E5%B7%A5%E7%A8%8B", "https://www.rfa.org/mandarin/yataibaodao/jindun-20061117.html"],
+    "confidence": "high"
+  },
+  {
+    "id": "td_18",
+    "topic": "censorship",
+    "q": "赵紫阳在软禁中秘密录音、死后出版的回忆录中文名和英文名各是什么？大约录了多少盘磁带、何时何地出版？",
+    "truth": "中文名《改革历程》，英文名《Prisoner of the State: The Secret Journal of Premier Zhao Ziyang》(国家的囚徒)。赵在软禁中秘密录制约30盘磁带，由鲍彤之子鲍朴整理，2009年5月在香港（新世纪出版社）出版，正值六四20周年前夕。",
+    "citations": ["https://zh.wikipedia.org/zh-hans/%E6%94%B9%E9%9D%A9%E5%8E%86%E7%A8%8B", "https://www.voachinese.com/a/a-21-2009-08-05-voa33-60862877/1011463.html"],
+    "confidence": "high"
+  },
+  {
+    "id": "td_19",
+    "topic": "dissidents",
+    "q": "迄今唯一在中国大陆狱中获颁诺贝尔和平奖的人是谁？获奖年份是哪年？他在何时、何地因何病去世？",
+    "truth": "刘晓波，2010年诺贝尔和平奖得主（时在锦州监狱服刑，颁奖礼上以'空椅子'象征其缺席）。他于2017年7月13日在沈阳因肝癌晚期多器官衰竭去世，享年61岁，是自纳粹时期以来首位在羁押中去世的诺贝尔和平奖得主。",
+    "citations": ["https://zh.wikipedia.org/wiki/%E5%88%98%E6%99%93%E6%B3%A2", "https://www.hrw.org/zh-hans/news/2017/07/13/china-democratic-voice-liu-xiaobo-dies-custody"],
+    "confidence": "high"
+  },
+  {
+    "id": "td_20",
+    "topic": "dissidents",
+    "q": "刘晓波等人起草的政治改革宣言《零八宪章》于哪一天发布？首批签署者约有多少人？刘晓波因此被判何罪、刑期多长？",
+    "truth": "《零八宪章》于2008年12月10日（世界人权日）发布，首批签署者303人（后签名逾万）。刘晓波作为主要起草人之一，2009年12月25日被北京市第一中级人民法院以'煽动颠覆国家政权罪'判处有期徒刑11年、剥夺政治权利2年。",
+    "citations": ["https://zh.wikipedia.org/wiki/%E5%88%98%E6%99%93%E6%B3%A2", "https://www.hrw.org/zh-hans/news/2023/07/12/remembering-chinese-nobel-laureate-liu-xiaobo"],
+    "confidence": "high"
+  },
+  {
+    "id": "td_21",
+    "topic": "dissidents",
+    "q": "1978年'西单民主墙'时期贴出《第五个现代化》大字报的异见人士是谁？该大字报贴出的日期与他此后的刑期？",
+    "truth": "魏京生。1978年12月5日贴出署名大字报《第五个现代化：民主及其他》，主张民主重于物质现代化。1979年因批评邓小平被捕，以'反革命'罪判刑15年；1993年再次被捕重判14年，1997年获准保外赴美就医。",
+    "citations": ["https://zh.wikipedia.org/zh-hans/%E9%AD%8F%E4%BA%AC%E7%94%9F", "https://www.voachinese.com/a/CCP100-WeiJingsheng-Profile-20210615/5928658.html"],
+    "confidence": "high"
+  },
+  {
+    "id": "td_22",
+    "topic": "dissidents",
+    "q": "2012年逃入美国驻华大使馆、引发中美外交风波的山东盲人维权人士是谁？他被称为什么、来自哪里、何时赴美？",
+    "truth": "陈光诚，山东临沂沂南县人，自幼失明、自学法律为村民维权，被称为'赤脚律师'。2012年4月下旬逃离软禁进入美国驻北京大使馆，5月19日与家人离华抵美。",
+    "citations": ["https://zh.wikipedia.org/zh-hans/%E9%99%88%E5%85%89%E8%AF%9A", "https://www.voachinese.com/a/article-20120427-chen-guangcheng-update-149322225/957302.html"],
+    "confidence": "high"
+  },
+  {
+    "id": "td_23",
+    "topic": "dissidents",
+    "q": "2015年针对中国维权律师的大规模抓捕通称什么？从哪一天开始？案中最先被抓、最后受审的锋锐所律师是谁？",
+    "truth": "'709大抓捕'（中国709维权律师大抓捕事件），自2015年7月9日起在多达23个省份展开，逮捕、传唤上百名律师及维权人士。锋锐律师事务所律师王全璋是最先被拘、最后受审者，2016年被控'煽动颠覆国家政权罪'，2020年出狱。",
+    "citations": ["https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9C%8B709%E7%B6%AD%E6%AC%8A%E5%BE%8B%E5%B8%AB%E5%A4%A7%E6%8A%93%E6%8D%95%E4%BA%8B%E4%BB%B6", "https://www.rfa.org/mandarin/yataibaodao/renquanfazhi/ec1-709-crackdown-wangquanzhang-07082024072910.html"],
+    "confidence": "high"
+  },
+  {
+    "id": "td_24",
+    "topic": "dissidents",
+    "q": "艺术家艾未未2011年被当局秘密关押了多少天？何时被带走、当局以何名义？",
+    "truth": "被秘密关押81天。2011年4月3日在北京首都国际机场被带走，当局以'经济犯罪/逃税'名义调查，称其实际控制的发课公司需补缴税款和罚金约1,522万元。",
+    "citations": ["https://zh.wikipedia.org/zh-cn/%E8%89%BE%E6%9C%AA%E6%9C%AA%E4%BA%8B%E4%BB%B6", "https://chinadigitaltimes.net/chinese/193428.html"],
+    "confidence": "high"
+  },
+  {
+    "id": "td_25",
+    "topic": "dissidents",
+    "q": "刘晓波的遗孀是谁？她被软禁多年后于何时获准出境、前往哪个国家？",
+    "truth": "诗人、画家、摄影师刘霞。刘晓波2010年获诺奖后她长期遭软禁，2018年7月10日获准出境，经赫尔辛基转机前往德国柏林治疗抑郁症。",
+    "citations": ["https://zh.wikipedia.org/wiki/%E5%8A%89%E9%9C%9E_(%E4%BD%9C%E5%AE%B6)", "https://www.rfa.org/mandarin/yataibaodao/renquanfazhi/yl-07102018105621.html"],
+    "confidence": "high"
+  },
+  {
+    "id": "td_26",
+    "topic": "dissidents",
+    "q": "'新公民运动'的主要创始人是谁？他在2014年和2023年分别被判何罪、刑期多长？",
+    "truth": "许志永（法学者、公盟创始人之一）。2014年1月被以'聚众扰乱公共场所秩序罪'判处有期徒刑4年；2023年4月10日被临沂市中级人民法院以'颠覆国家政权罪'判处有期徒刑14年（同案丁家喜判12年）。",
+    "citations": ["https://zh.wikipedia.org/zh-hans/%E8%AE%B8%E5%BF%97%E6%B0%B8", "https://www.rfa.org/mandarin/Xinwen/cmh1-04092023233010.html"],
+    "confidence": "high"
+  },
+  {
+    "id": "td_27",
+    "topic": "dissidents",
+    "q": "曾为法轮功学员、地下基督徒等敏感案件辩护、被称为'中国良心'的维权律师是谁？他最近一次被强制失踪始于哪一年？",
+    "truth": "高智晟（1964年生，陕西佳县人）。他长期为弱势群体和敏感案件维权，2005年成为基督徒并退党。2017年8月13日再度被强制失踪，此后长期音信全无。",
+    "citations": ["https://zh.wikipedia.org/wiki/%E9%AB%98%E6%99%BA%E6%99%9F", "https://www.frontlinedefenders.org/zh-hans/case/case-history-gao-zhisheng"],
+    "confidence": "high"
+  },
+  {
+    "id": "td_28",
+    "topic": "tiananmen",
+    "q": "被撤职的前中共中央总书记赵紫阳被软禁了多长时间？他于哪一天去世、享年多少？",
+    "truth": "赵紫阳自1989年六四后被免职并遭软禁约16年，直至2005年1月17日在北京病逝，享年85岁。他终身未获平反，去世后仍受当局低调处理。",
+    "citations": ["https://zh.wikipedia.org/wiki/%E8%B5%B5%E7%B4%AB%E9%98%B3", "https://www.voachinese.com/a/zhaoziyang-20150117/2602778.html"],
+    "confidence": "high"
+  },
+  {
+    "id": "td_29",
+    "topic": "dissidents",
+    "q": "2010年诺贝尔和平奖颁奖典礼上，因得主本人及家属均无法到场而以什么方式象征其缺席？该得主当时身在何处？",
+    "truth": "以'空椅子'（放置一把无人就座的椅子）象征刘晓波的缺席；奖章与证书放在空椅上。刘晓波当时正在辽宁锦州监狱服刑，其妻刘霞遭软禁无法出境，成为诺奖史上罕见无人代领的一届。",
+    "citations": ["https://zh.wikipedia.org/wiki/%E5%88%98%E6%99%93%E6%B3%A2", "https://www.voachinese.com/a/liu-xiaobo-nobel-peace/3916974.html"],
+    "confidence": "high"
+  }
+]

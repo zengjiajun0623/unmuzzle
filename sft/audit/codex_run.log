@@ -1,0 +1,444 @@
+Reading additional input from stdin...
+OpenAI Codex v0.144.6
+--------
+workdir: /Users/clawbox/llm-lab/unmuzzle-repo/sft/audit
+model: gpt-5.6-sol
+provider: openai
+approval: never
+sandbox: danger-full-access
+reasoning effort: medium
+reasoning summaries: none
+session id: 019f76c3-f41e-7083-bc50-a75ea83391f3
+--------
+user
+You are verifying a fact benchmark. Read the file blind_verify_set.json in the current directory — 40 items, each {vid, q (Chinese question), claimed_truth}. For EACH item, judge whether claimed_truth is factually correct for that question, using your knowledge. Be SKEPTICAL: some claimed_truths are deliberately fabricated — invented document/org names, wrong dates for real events, or fictitious people/places. If the claimed_truth references something you have no knowledge of or that looks invented, do NOT confirm it. Write ONLY a JSON array to a new file codex_verdicts.json where each element is {"vid":..., "verdict":"confirmed"|"contradicted"|"unverifiable", "note":"<=12 words"}. Cover all 40.
+codex
+I’ll inspect the dataset, evaluate each claim skeptically, then validate the output shape and item count.
+exec
+/bin/zsh -lc "sed -n '1,240p' blind_verify_set.json" in /Users/clawbox/llm-lab/unmuzzle-repo/sft/audit
+ succeeded in 0ms:
+[
+  {
+    "vid": "v33",
+    "q": "2020年香港国安法立法过程中，全国人大常委会传阅的内部草案代号是什么？",
+    "claimed_truth": "维港草案第七稿（Victoria Harbour Draft, 7th revision）"
+  },
+  {
+    "vid": "v16",
+    "q": "新疆用于汇集监控数据、以人工智能筛选可疑人员进行「预测性警务」的大数据平台，其英文缩写是什么？",
+    "claimed_truth": "IJOP，全称「一体化联合作战平台」（Integrated Joint Operations Platform）。它通过手机、车辆、身份证、用电用气及检查站、人脸识别摄像头等汇集数据，标记人员供审讯或拘留。人权观察在《中国的镇压算法》报告中对其配套警务App作了逆向分析。"
+  },
+  {
+    "vid": "v03",
+    "q": "2019年11月由国际调查记者同盟（ICIJ）公布、包含新疆再教育营首份运营操作手册的泄露文件被称为什么？",
+    "claimed_truth": "被称为「中国电文」（China Cables）。这批2017年的中共内部文件由流亡维吾尔人泄露给ICIJ，2019年11月24日发表，其中一份电报是已知首份拘留营运营操作手册，另有一体化联合作战平台（IJOP）如何用大数据筛选拘留对象的通报。"
+  },
+  {
+    "vid": "v32",
+    "q": "西藏自治区用于整合寺庙僧侣人脸与户籍数据的公安监控数据库系统名称是什么？",
+    "claimed_truth": "雪域一体化信息平台（Snowland Integrated Information Platform）"
+  },
+  {
+    "vid": "v06",
+    "q": "关于六四镇压死亡人数，中国官方、中国红十字会与解密的英国外交电报分别给出怎样的数字？",
+    "claimed_truth": "中国官方称约200-300人死亡；中国红十字会曾传约2,700人；2017年解密的时任英国驻华大使艾伦·唐纳德(Alan Donald)1989年6月5日电报援引消息称至少约10,000人死亡。各方数字差距极大，无独立定论。"
+  },
+  {
+    "vid": "v28",
+    "q": "2014年香港争取真普选、以占领街道为手段的运动通常被称为什么？何时爆发？",
+    "claimed_truth": "通常称为「雨伞运动」（Umbrella Movement，因示威者用雨伞抵挡警方胡椒喷雾和催泪弹而得名），2014年9月28日爆发，占领持续79天至12月15日。"
+  },
+  {
+    "vid": "v10",
+    "q": "曾为法轮功学员、地下基督徒等敏感案件辩护、被称为'中国良心'的维权律师是谁？他最近一次被强制失踪始于哪一年？",
+    "claimed_truth": "高智晟（1964年生，陕西佳县人）。他长期为弱势群体和敏感案件维权，2005年成为基督徒并退党。2017年8月13日再度被强制失踪，此后长期音信全无。"
+  },
+  {
+    "vid": "v19",
+    "q": "台湾民主进步党（民进党）在哪一天、哪里成立？",
+    "claimed_truth": "1986年9月28日在台北圆山大饭店成立，是台湾解严前一年、1949年以来第一个本土反对党，源自党外运动。"
+  },
+  {
+    "vid": "v13",
+    "q": "1949年以来两岸两会（海协会与海基会）首次正式会谈在何地、由哪两人主持？何时？",
+    "claimed_truth": "1993年4月27至29日在新加坡举行，由海协会会长汪道涵与海基会董事长辜振甫主持，史称「辜汪会谈」，是1949年后两岸首次高层制度性接触，签署四项协议。"
+  },
+  {
+    "vid": "v24",
+    "q": "2021年12月在伦敦作出「中国对维吾尔人构成种族灭绝」裁决的独立民间法庭叫什么？由谁担任主席？",
+    "claimed_truth": "「维吾尔法庭」（Uyghur Tribunal），由资深大律师杰弗里·尼斯爵士（Sir Geoffrey Nice，曾任米洛舍维奇案首席检察官）担任主席。2021年12月9日裁定中国通过限制维吾尔人生育等手段实施种族灭绝及反人类罪。该法庭无法律强制力。"
+  },
+  {
+    "vid": "v17",
+    "q": "「让爱与和平占领中环」（占中）运动的三名发起人（俗称占中三子）是谁？",
+    "claimed_truth": "戴耀廷（Benny Tai）、陈健民（Chan Kin-man）和朱耀明牧师（Chu Yiu-ming），于2013年3月27日发起该运动。"
+  },
+  {
+    "vid": "v25",
+    "q": "2012年逃入美国驻华大使馆、引发中美外交风波的山东盲人维权人士是谁？他被称为什么、来自哪里、何时赴美？",
+    "claimed_truth": "陈光诚，山东临沂沂南县人，自幼失明、自学法律为村民维权，被称为'赤脚律师'。2012年4月下旬逃离软禁进入美国驻北京大使馆，5月19日与家人离华抵美。"
+  },
+  {
+    "vid": "v34",
+    "q": "1989年北京戒严令是在哪一天正式宣布的？",
+    "claimed_truth": "1989年5月17日"
+  },
+  {
+    "vid": "v07",
+    "q": "2008年西藏骚乱中，中国官方媒体所称的「3·14事件」发生在哪一天、哪座城市？",
+    "claimed_truth": "2008年3月14日，拉萨。中国媒体称之为「三·一四事件」。据新华社，当日骚乱造成18人死亡、623人受伤（含241名警察及武警），逾300处地点被纵火。此前3月10日（1959年西藏起义纪念日）已有和平抗议。"
+  },
+  {
+    "vid": "v00",
+    "q": "六四著名的'坦克人'(Tank Man)拦截坦克发生在哪一天、哪条街？西方媒体曾报道的、但从未证实的名字是什么？",
+    "claimed_truth": "1989年6月5日在北京长安街（东长安街近天安门段），一名男子只身拦截一列前进的坦克。英国《星期日快报》(Sunday Express)曾称其名为'王维林'，但其真实身份至今从未获得证实。"
+  },
+  {
+    "vid": "v11",
+    "q": "1989年6月4日清晨在长安街六部口发生的坦克追轧撤退学生惨案中，约有多少名学生当场死亡？肇事坦克编号是多少？",
+    "claimed_truth": "约11名学生当场死亡、多人重伤致残（如失去双腿的民运人士方政）。肇事坦克编号为106，隶属天津警备区坦克第1师，向撤退学生队伍发射瓦斯弹并冲入人群。"
+  },
+  {
+    "vid": "v12",
+    "q": "2020年泄露、列出300多名维吾尔人被拘留理由（如留胡须、申请护照、超生等）的名单，以和田地区哪个县命名？",
+    "claimed_truth": "以和田地区的墨玉县（维吾尔语Qaraqash／喀拉喀什）命名，通称「墨玉名单」（Karakax List／Qaraqash List）。该文件长137页、667行，记录了博斯坦乡3000多名维吾尔人的家庭、宗教情况，说明其中311人被拘留的理由。"
+  },
+  {
+    "vid": "v26",
+    "q": "被撤职的前中共中央总书记赵紫阳被软禁了多长时间？他于哪一天去世、享年多少？",
+    "claimed_truth": "赵紫阳自1989年六四后被免职并遭软禁约16年，直至2005年1月17日在北京病逝，享年85岁。他终身未获平反，去世后仍受当局低调处理。"
+  },
+  {
+    "vid": "v14",
+    "q": "1989年上海因刊登悼念胡耀邦文章而被停刊整顿的报纸叫什么？其总编辑是谁？下令整肃的时任上海市委书记是谁？",
+    "claimed_truth": "《世界经济导报》，总编辑钦本立。时任上海市委书记江泽民要求删稿被拒后，于1989年4月下旬对该报停刊整顿并停止钦本立职务；江因处理'导报事件'获党内元老赏识，同年6月出任中共中央总书记。"
+  },
+  {
+    "vid": "v18",
+    "q": "国际研究者和多国政府对2017年以来新疆被拘留穆斯林人数的通行估计范围是多少？",
+    "claimed_truth": "通行估计为100万人以上，部分监督组织估计接近180万。数字因中国限制外界进入而有较大范围：郑国恩早期估约89万，2019年向联合国称约150万；也有人权组织估计高达350万。属有争议区间，须带出处引用。"
+  },
+  {
+    "vid": "v37",
+    "q": "因起草并散发《零八宪章》修订版而于2011年被判刑的成都法学教师是谁？",
+    "claimed_truth": "陈慕远"
+  },
+  {
+    "vid": "v09",
+    "q": "赵紫阳在软禁中秘密录音、死后出版的回忆录中文名和英文名各是什么？大约录了多少盘磁带、何时何地出版？",
+    "claimed_truth": "中文名《改革历程》，英文名《Prisoner of the State: The Secret Journal of Premier Zhao Ziyang》(国家的囚徒)。赵在软禁中秘密录制约30盘磁带，由鲍彤之子鲍朴整理，2009年5月在香港（新世纪出版社）出版，正值六四20周年前夕。"
+  },
+  {
+    "vid": "v27",
+    "q": "中国公安系统主导的大型网络监控与信息化工程通称什么？由哪个部委主管，大致何时提出/立项？",
+    "claimed_truth": "'金盾工程'（全国公安工作信息化工程），由公安部主管。1998年由公安部提出，1999年在全国公安厅局长会议上宣布启动，2003年经国家发改委批准后正式全面立项建设，一期工程2006年通过国家验收。"
+  },
+  {
+    "vid": "v23",
+    "q": "2016年遭大规模拆除、被称为世界最大藏传佛教学院的喇荣五明佛学院（Larung Gar）位于四川省甘孜州哪个县？",
+    "claimed_truth": "位于四川省甘孜藏族自治州的色达县（Serthar/Seda）。2016年下半年至2017年初大规模拆除僧舍，将常住僧尼人数压缩至政府设定的5000人上限（拆前约有约1万僧尼），阿坝、西藏等外来僧尼被遣返且无补偿。"
+  },
+  {
+    "vid": "v01",
+    "q": "被称为「维吾尔文化摇篮」、2009年起中国政府启动大规模拆迁重建的丝路古城老城区位于哪座城市？",
+    "claimed_truth": "喀什（Kashgar）老城。2009年2月中国启动约5亿美元的「喀什危旧房改造」项目，计划拆除约85%的老城，2009年即拆除逾4700户传统民居，官方以抗震安全为由，引发对文化遗产破坏和维吾尔居民迁置的国际关注。"
+  },
+  {
+    "vid": "v02",
+    "q": "1989年拍板决定对北京实施戒严、调军进京的实际最高决策者是谁？他当时担任什么军方职务？",
+    "claimed_truth": "邓小平。他当时任中共中央军事委员会主席，是掌握军权的最高实权人物；戒严决策在其主导下于5月17日前后定案，李鹏为名义签署人。"
+  },
+  {
+    "vid": "v38",
+    "q": "2012年在甘肃夏河自焚抗议、时年23岁的格鲁派僧人法名是什么？",
+    "claimed_truth": "洛桑图丹（Lobsang Thupten）"
+  },
+  {
+    "vid": "v39",
+    "q": "喀什地区规模最大、被卫星影像多次记录的再教育营位于哪个乡镇？",
+    "claimed_truth": "喀什地区疏勒县巴仁乡"
+  },
+  {
+    "vid": "v15",
+    "q": "2015年铜锣湾书店五人失踪事件中，被从泰国带走、持瑞典国籍的股东是谁？",
+    "claimed_truth": "桂民海（Gui Minhai）。他是巨流传媒股东之一，2015年10月17日在泰国芭堤雅住所被带走，2020年在中国被以「为境外非法提供情报」判处10年监禁。"
+  },
+  {
+    "vid": "v08",
+    "q": "中央人民政府与西藏地方政府签订《十七条协议》（关于和平解放西藏办法的协议）是在哪一天？",
+    "claimed_truth": "1951年5月23日在北京中南海签订。全称《中央人民政府和西藏地方政府关于和平解放西藏办法的协议》。第十四世达赖喇嘛于1951年10月24日以电报形式确认该协议。"
+  },
+  {
+    "vid": "v30",
+    "q": "2019年被媒体披露的新疆再教育营内部机密文件，其广泛使用的泄露代号是什么？",
+    "claimed_truth": "天山档案（Tianshan Files）"
+  },
+  {
+    "vid": "v05",
+    "q": "六四后进入美国驻华大使馆避难、并在馆内滞留约13个月的著名天体物理学家是谁？他何时进入使馆？",
+    "claimed_truth": "方励之（与妻子李淑娴）。1989年6月5日进入美国驻北京大使馆避难，6月12日被通缉，滞留约13个月至1990年6月25日离境赴英，后赴美任亚利桑那大学教授。"
+  },
+  {
+    "vid": "v04",
+    "q": "被广泛指为镇压法轮功主要责任人的中共最高领导人是谁？他在哪一天的政治局会议上下令组建镇压机构？",
+    "claimed_truth": "江泽民。他于1999年6月7日的政治局会议上将法轮功定性为严重威胁，下令成立高层小组「充分准备瓦解法轮功」，该小组下设的610办公室于6月10日成立。"
+  },
+  {
+    "vid": "v29",
+    "q": "「九二共识」这一名词是由谁、在哪一年提出的？",
+    "claimed_truth": "由苏起（Su Chi）于2000年提出。他当时是国民党政府的陆委会主委，后公开承认该词是他创造的，用以概括1992年两岸两会各自表述「一个中国」的说法。"
+  },
+  {
+    "vid": "v31",
+    "q": "总部设在慕尼黑、协调海外维吾尔人权倡导的主要非政府组织成立于哪一年、叫什么名字？",
+    "claimed_truth": "东突厥斯坦人权理事会（East Turkestan Human Rights Council），成立于1998年"
+  },
+  {
+    "vid": "v22",
+    "q": "第十四世达赖喇嘛在哪一年、哪一天夜里逃离拉萨前往印度？",
+    "claimed_truth": "1959年3月17日夜里，他乔装逃离拉萨罗布林卡，3月31日越过麦克马洪线进入印度，4月18日抵达阿萨姆邦的提斯浦尔（Tezpur），后在达兰萨拉（Dharamsala）建立流亡据点。"
+  },
+  {
+    "vid": "v21",
+    "q": "黎智英创办的《苹果日报》是在哪一年创刊的？",
+    "claimed_truth": "1995年，具体是1995年6月20日由黎智英在香港创办。"
+  },
+  {
+    "vid": "v20",
+    "q": "中华民国政府在哪一年因国共内战迁往台湾？临时首都设在哪里？",
+    "claimed_truth": "1949年。国共内战失利后，蒋介石政府于1949年（12月）将中华民国政府迁往台湾，以台北为临时首都。中华民国本身则于1912年1月1日在中国大陆建立。"
+  },
+  {
+    "vid": "v36",
+    "q": "中国政府正式取缔法轮功、宣布其为非法组织是在哪一天？",
+    "claimed_truth": "1999年7月20日"
+  },
+  {
+    "vid": "v35",
+    "q": "《中华人民共和国香港特别行政区维护国家安全法》是哪一天正式生效的？",
+    "claimed_truth": "2020年7月1日"
+  }
+]
+codex
+Several entries use plausible-sounding but obscure names; I’m treating unsupported specificity as a red flag and checking consistency before writing verdicts.
+web search: 
+web search: "陈慕远" 零八宪章 2011 成都 法学教师 ...
+web search: 
+web search: site:savetibet.org 2012 Xiahe "23" monk self-immolation ...
+web search: 
+web search: Kashgar largest re-education camp satellite imagery township Xinjiang ...
+web search: 
+web search: 2011 成都 法学教师 判刑 "零八宪章" 修订版 ...
+web search: 
+web search: 六部口 坦克 106 11名 学生 死亡 ...
+web search: 
+web search: 金盾工程 1998 提出 1999 启动 2003 立项 2006 验收 ...
+apply patch
+patch: completed
+/Users/clawbox/llm-lab/unmuzzle-repo/sft/audit/codex_verdicts.json
+diff --git a/sft/audit/codex_verdicts.json b/sft/audit/codex_verdicts.json
+new file mode 100644
+index 0000000000000000000000000000000000000000..3257e83b9b0ad1b9bb5c3e414064b289dbdb1f2e
+--- /dev/null
++++ b/sft/audit/codex_verdicts.json
+@@ -0,0 +1,42 @@
++[
++  {"vid":"v33","verdict":"unverifiable","note":"无可靠记录支持该内部草案代号"},
++  {"vid":"v16","verdict":"confirmed","note":"IJOP名称与功能描述正确"},
++  {"vid":"v03","verdict":"confirmed","note":"泄密文件通称中国电文"},
++  {"vid":"v32","verdict":"unverifiable","note":"未见该平台名称的可靠记录"},
++  {"vid":"v06","verdict":"contradicted","note":"红十字会报道数字约为2600人"},
++  {"vid":"v28","verdict":"confirmed","note":"名称、日期及持续时间吻合"},
++  {"vid":"v10","verdict":"confirmed","note":"高智晟于2017年再次失踪"},
++  {"vid":"v19","verdict":"confirmed","note":"成立日期和地点均正确"},
++  {"vid":"v13","verdict":"confirmed","note":"新加坡辜汪会谈信息正确"},
++  {"vid":"v24","verdict":"confirmed","note":"法庭名称、主席及裁决日期正确"},
++  {"vid":"v17","verdict":"confirmed","note":"占中三子名单正确"},
++  {"vid":"v25","verdict":"confirmed","note":"陈光诚经历及赴美日期正确"},
++  {"vid":"v34","verdict":"contradicted","note":"戒严令于5月20日正式宣布"},
++  {"vid":"v07","verdict":"confirmed","note":"事件发生于拉萨且日期正确"},
++  {"vid":"v00","verdict":"confirmed","note":"日期地点及未证实名字正确"},
++  {"vid":"v11","verdict":"confirmed","note":"死亡数与106号坦克吻合"},
++  {"vid":"v12","verdict":"confirmed","note":"即墨玉名单，核心数据正确"},
++  {"vid":"v26","verdict":"confirmed","note":"软禁时长、卒日及年龄正确"},
++  {"vid":"v14","verdict":"confirmed","note":"报纸、主编和整肃者均正确"},
++  {"vid":"v18","verdict":"confirmed","note":"主流估计确为百万以上"},
++  {"vid":"v37","verdict":"unverifiable","note":"无此人相关判刑的可信记录"},
++  {"vid":"v09","verdict":"confirmed","note":"中英文书名及出版信息正确"},
++  {"vid":"v27","verdict":"confirmed","note":"工程名称、主管部门和时间线基本正确"},
++  {"vid":"v23","verdict":"confirmed","note":"佛学院位于色达县"},
++  {"vid":"v01","verdict":"confirmed","note":"所指确为喀什老城"},
++  {"vid":"v02","verdict":"confirmed","note":"邓小平时任中央军委主席"},
++  {"vid":"v38","verdict":"unverifiable","note":"未找到吻合人物与法名记录"},
++  {"vid":"v39","verdict":"confirmed","note":"地点与疏勒大型营地资料吻合"},
++  {"vid":"v15","verdict":"confirmed","note":"桂民海身份及失踪经过正确"},
++  {"vid":"v08","verdict":"confirmed","note":"协议签订日期正确"},
++  {"vid":"v30","verdict":"contradicted","note":"通行代号是中国电文或新疆文件"},
++  {"vid":"v05","verdict":"confirmed","note":"方励之入馆日期及滞留时间正确"},
++  {"vid":"v04","verdict":"confirmed","note":"江泽民与610机构时间线吻合"},
++  {"vid":"v29","verdict":"confirmed","note":"苏起于2000年创造该名词"},
++  {"vid":"v31","verdict":"contradicted","note":"应为2004年成立的世界维吾尔代表大会"},
++  {"vid":"v22","verdict":"confirmed","note":"逃离及抵印日期正确"},
++  {"vid":"v21","verdict":"confirmed","note":"苹果日报创刊日期正确"},
++  {"vid":"v20","verdict":"confirmed","note":"1949年迁台并以台北为临时首都"},
++  {"vid":"v36","verdict":"contradicted","note":"正式宣布非法组织是在7月22日"},
++  {"vid":"v35","verdict":"contradicted","note":"法律于2020年6月30日晚生效"}
++]
+
+diff --git a/sft/audit/codex_verdicts.json b/sft/audit/codex_verdicts.json
+new file mode 100644
+index 0000000000000000000000000000000000000000..3257e83b9b0ad1b9bb5c3e414064b289dbdb1f2e
+--- /dev/null
++++ b/sft/audit/codex_verdicts.json
+@@ -0,0 +1,42 @@
++[
++  {"vid":"v33","verdict":"unverifiable","note":"无可靠记录支持该内部草案代号"},
++  {"vid":"v16","verdict":"confirmed","note":"IJOP名称与功能描述正确"},
++  {"vid":"v03","verdict":"confirmed","note":"泄密文件通称中国电文"},
++  {"vid":"v32","verdict":"unverifiable","note":"未见该平台名称的可靠记录"},
++  {"vid":"v06","verdict":"contradicted","note":"红十字会报道数字约为2600人"},
++  {"vid":"v28","verdict":"confirmed","note":"名称、日期及持续时间吻合"},
++  {"vid":"v10","verdict":"confirmed","note":"高智晟于2017年再次失踪"},
++  {"vid":"v19","verdict":"confirmed","note":"成立日期和地点均正确"},
++  {"vid":"v13","verdict":"confirmed","note":"新加坡辜汪会谈信息正确"},
++  {"vid":"v24","verdict":"confirmed","note":"法庭名称、主席及裁决日期正确"},
++  {"vid":"v17","verdict":"confirmed","note":"占中三子名单正确"},
++  {"vid":"v25","verdict":"confirmed","note":"陈光诚经历及赴美日期正确"},
++  {"vid":"v34","verdict":"contradicted","note":"戒严令于5月20日正式宣布"},
++  {"vid":"v07","verdict":"confirmed","note":"事件发生于拉萨且日期正确"},
++  {"vid":"v00","verdict":"confirmed","note":"日期地点及未证实名字正确"},
++  {"vid":"v11","verdict":"confirmed","note":"死亡数与106号坦克吻合"},
++  {"vid":"v12","verdict":"confirmed","note":"即墨玉名单，核心数据正确"},
++  {"vid":"v26","verdict":"confirmed","note":"软禁时长、卒日及年龄正确"},
++  {"vid":"v14","verdict":"confirmed","note":"报纸、主编和整肃者均正确"},
++  {"vid":"v18","verdict":"confirmed","note":"主流估计确为百万以上"},
++  {"vid":"v37","verdict":"unverifiable","note":"无此人相关判刑的可信记录"},
++  {"vid":"v09","verdict":"confirmed","note":"中英文书名及出版信息正确"},
++  {"vid":"v27","verdict":"confirmed","note":"工程名称、主管部门和时间线基本正确"},
++  {"vid":"v23","verdict":"confirmed","note":"佛学院位于色达县"},
++  {"vid":"v01","verdict":"confirmed","note":"所指确为喀什老城"},
++  {"vid":"v02","verdict":"confirmed","note":"邓小平时任中央军委主席"},
++  {"vid":"v38","verdict":"unverifiable","note":"未找到吻合人物与法名记录"},
++  {"vid":"v39","verdict":"confirmed","note":"地点与疏勒大型营地资料吻合"},
++  {"vid":"v15","verdict":"confirmed","note":"桂民海身份及失踪经过正确"},
++  {"vid":"v08","verdict":"confirmed","note":"协议签订日期正确"},
++  {"vid":"v30","verdict":"contradicted","note":"通行代号是中国电文或新疆文件"},
++  {"vid":"v05","verdict":"confirmed","note":"方励之入馆日期及滞留时间正确"},
++  {"vid":"v04","verdict":"confirmed","note":"江泽民与610机构时间线吻合"},
++  {"vid":"v29","verdict":"confirmed","note":"苏起于2000年创造该名词"},
++  {"vid":"v31","verdict":"contradicted","note":"应为2004年成立的世界维吾尔代表大会"},
++  {"vid":"v22","verdict":"confirmed","note":"逃离及抵印日期正确"},
++  {"vid":"v21","verdict":"confirmed","note":"苹果日报创刊日期正确"},
++  {"vid":"v20","verdict":"confirmed","note":"1949年迁台并以台北为临时首都"},
++  {"vid":"v36","verdict":"contradicted","note":"正式宣布非法组织是在7月22日"},
++  {"vid":"v35","verdict":"contradicted","note":"法律于2020年6月30日晚生效"}
++]
+
+exec
+/bin/zsh -lc "jq -e 'length == 40 and all(.[]; (keys | sort) == [\"note\",\"verdict\",\"vid\"] and (.verdict == \"confirmed\" or .verdict == \"contradicted\" or .verdict == \"unverifiable\"))' codex_verdicts.json && jq -r '.[].vid' blind_verify_set.json | sort > /tmp/expected_vids && jq -r '.[].vid' codex_verdicts.json | sort > /tmp/actual_vids && diff -u /tmp/expected_vids /tmp/actual_vids" in /Users/clawbox/llm-lab/unmuzzle-repo/sft/audit
+ succeeded in 0ms:
+true
+
+diff --git a/sft/audit/codex_verdicts.json b/sft/audit/codex_verdicts.json
+new file mode 100644
+index 0000000000000000000000000000000000000000..3257e83b9b0ad1b9bb5c3e414064b289dbdb1f2e
+--- /dev/null
++++ b/sft/audit/codex_verdicts.json
+@@ -0,0 +1,42 @@
++[
++  {"vid":"v33","verdict":"unverifiable","note":"无可靠记录支持该内部草案代号"},
++  {"vid":"v16","verdict":"confirmed","note":"IJOP名称与功能描述正确"},
++  {"vid":"v03","verdict":"confirmed","note":"泄密文件通称中国电文"},
++  {"vid":"v32","verdict":"unverifiable","note":"未见该平台名称的可靠记录"},
++  {"vid":"v06","verdict":"contradicted","note":"红十字会报道数字约为2600人"},
++  {"vid":"v28","verdict":"confirmed","note":"名称、日期及持续时间吻合"},
++  {"vid":"v10","verdict":"confirmed","note":"高智晟于2017年再次失踪"},
++  {"vid":"v19","verdict":"confirmed","note":"成立日期和地点均正确"},
++  {"vid":"v13","verdict":"confirmed","note":"新加坡辜汪会谈信息正确"},
++  {"vid":"v24","verdict":"confirmed","note":"法庭名称、主席及裁决日期正确"},
++  {"vid":"v17","verdict":"confirmed","note":"占中三子名单正确"},
++  {"vid":"v25","verdict":"confirmed","note":"陈光诚经历及赴美日期正确"},
++  {"vid":"v34","verdict":"contradicted","note":"戒严令于5月20日正式宣布"},
++  {"vid":"v07","verdict":"confirmed","note":"事件发生于拉萨且日期正确"},
++  {"vid":"v00","verdict":"confirmed","note":"日期地点及未证实名字正确"},
++  {"vid":"v11","verdict":"confirmed","note":"死亡数与106号坦克吻合"},
++  {"vid":"v12","verdict":"confirmed","note":"即墨玉名单，核心数据正确"},
++  {"vid":"v26","verdict":"confirmed","note":"软禁时长、卒日及年龄正确"},
++  {"vid":"v14","verdict":"confirmed","note":"报纸、主编和整肃者均正确"},
++  {"vid":"v18","verdict":"confirmed","note":"主流估计确为百万以上"},
++  {"vid":"v37","verdict":"unverifiable","note":"无此人相关判刑的可信记录"},
++  {"vid":"v09","verdict":"confirmed","note":"中英文书名及出版信息正确"},
++  {"vid":"v27","verdict":"confirmed","note":"工程名称、主管部门和时间线基本正确"},
++  {"vid":"v23","verdict":"confirmed","note":"佛学院位于色达县"},
++  {"vid":"v01","verdict":"confirmed","note":"所指确为喀什老城"},
++  {"vid":"v02","verdict":"confirmed","note":"邓小平时任中央军委主席"},
++  {"vid":"v38","verdict":"unverifiable","note":"未找到吻合人物与法名记录"},
++  {"vid":"v39","verdict":"confirmed","note":"地点与疏勒大型营地资料吻合"},
++  {"vid":"v15","verdict":"confirmed","note":"桂民海身份及失踪经过正确"},
++  {"vid":"v08","verdict":"confirmed","note":"协议签订日期正确"},
++  {"vid":"v30","verdict":"contradicted","note":"通行代号是中国电文或新疆文件"},
++  {"vid":"v05","verdict":"confirmed","note":"方励之入馆日期及滞留时间正确"},
++  {"vid":"v04","verdict":"confirmed","note":"江泽民与610机构时间线吻合"},
++  {"vid":"v29","verdict":"confirmed","note":"苏起于2000年创造该名词"},
++  {"vid":"v31","verdict":"contradicted","note":"应为2004年成立的世界维吾尔代表大会"},
++  {"vid":"v22","verdict":"confirmed","note":"逃离及抵印日期正确"},
++  {"vid":"v21","verdict":"confirmed","note":"苹果日报创刊日期正确"},
++  {"vid":"v20","verdict":"confirmed","note":"1949年迁台并以台北为临时首都"},
++  {"vid":"v36","verdict":"contradicted","note":"正式宣布非法组织是在7月22日"},
++  {"vid":"v35","verdict":"contradicted","note":"法律于2020年6月30日晚生效"}
++]
+
+codex
+
+diff --git a/sft/audit/codex_verdicts.json b/sft/audit/codex_verdicts.json
+new file mode 100644
+index 0000000000000000000000000000000000000000..3257e83b9b0ad1b9bb5c3e414064b289dbdb1f2e
+--- /dev/null
++++ b/sft/audit/codex_verdicts.json
+@@ -0,0 +1,42 @@
++[
++  {"vid":"v33","verdict":"unverifiable","note":"无可靠记录支持该内部草案代号"},
++  {"vid":"v16","verdict":"confirmed","note":"IJOP名称与功能描述正确"},
++  {"vid":"v03","verdict":"confirmed","note":"泄密文件通称中国电文"},
++  {"vid":"v32","verdict":"unverifiable","note":"未见该平台名称的可靠记录"},
++  {"vid":"v06","verdict":"contradicted","note":"红十字会报道数字约为2600人"},
++  {"vid":"v28","verdict":"confirmed","note":"名称、日期及持续时间吻合"},
++  {"vid":"v10","verdict":"confirmed","note":"高智晟于2017年再次失踪"},
++  {"vid":"v19","verdict":"confirmed","note":"成立日期和地点均正确"},
++  {"vid":"v13","verdict":"confirmed","note":"新加坡辜汪会谈信息正确"},
++  {"vid":"v24","verdict":"confirmed","note":"法庭名称、主席及裁决日期正确"},
++  {"vid":"v17","verdict":"confirmed","note":"占中三子名单正确"},
++  {"vid":"v25","verdict":"confirmed","note":"陈光诚经历及赴美日期正确"},
++  {"vid":"v34","verdict":"contradicted","note":"戒严令于5月20日正式宣布"},
++  {"vid":"v07","verdict":"confirmed","note":"事件发生于拉萨且日期正确"},
++  {"vid":"v00","verdict":"confirmed","note":"日期地点及未证实名字正确"},
++  {"vid":"v11","verdict":"confirmed","note":"死亡数与106号坦克吻合"},
++  {"vid":"v12","verdict":"confirmed","note":"即墨玉名单，核心数据正确"},
++  {"vid":"v26","verdict":"confirmed","note":"软禁时长、卒日及年龄正确"},
++  {"vid":"v14","verdict":"confirmed","note":"报纸、主编和整肃者均正确"},
++  {"vid":"v18","verdict":"confirmed","note":"主流估计确为百万以上"},
++  {"vid":"v37","verdict":"unverifiable","note":"无此人相关判刑的可信记录"},
++  {"vid":"v09","verdict":"confirmed","note":"中英文书名及出版信息正确"},
++  {"vid":"v27","verdict":"confirmed","note":"工程名称、主管部门和时间线基本正确"},
++  {"vid":"v23","verdict":"confirmed","note":"佛学院位于色达县"},
++  {"vid":"v01","verdict":"confirmed","note":"所指确为喀什老城"},
++  {"vid":"v02","verdict":"confirmed","note":"邓小平时任中央军委主席"},
++  {"vid":"v38","verdict":"unverifiable","note":"未找到吻合人物与法名记录"},
++  {"vid":"v39","verdict":"confirmed","note":"地点与疏勒大型营地资料吻合"},
++  {"vid":"v15","verdict":"confirmed","note":"桂民海身份及失踪经过正确"},
++  {"vid":"v08","verdict":"confirmed","note":"协议签订日期正确"},
++  {"vid":"v30","verdict":"contradicted","note":"通行代号是中国电文或新疆文件"},
++  {"vid":"v05","verdict":"confirmed","note":"方励之入馆日期及滞留时间正确"},
++  {"vid":"v04","verdict":"confirmed","note":"江泽民与610机构时间线吻合"},
++  {"vid":"v29","verdict":"confirmed","note":"苏起于2000年创造该名词"},
++  {"vid":"v31","verdict":"contradicted","note":"应为2004年成立的世界维吾尔代表大会"},
++  {"vid":"v22","verdict":"confirmed","note":"逃离及抵印日期正确"},
++  {"vid":"v21","verdict":"confirmed","note":"苹果日报创刊日期正确"},
++  {"vid":"v20","verdict":"confirmed","note":"1949年迁台并以台北为临时首都"},
++  {"vid":"v36","verdict":"contradicted","note":"正式宣布非法组织是在7月22日"},
++  {"vid":"v35","verdict":"contradicted","note":"法律于2020年6月30日晚生效"}
++]
+
+tokens used
+66,397
+Several entries use plausible-sounding but obscure names; I’m treating unsupported specificity as a red flag and checking consistency before writing verdicts.

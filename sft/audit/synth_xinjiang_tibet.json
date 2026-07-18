@@ -1,0 +1,242 @@
+[
+  {
+    "id": "xt_00",
+    "topic": "xinjiang",
+    "q": "2019年11月由国际调查记者同盟（ICIJ）公布、包含新疆再教育营首份运营操作手册的泄露文件被称为什么？",
+    "truth": "被称为「中国电文」（China Cables）。这批2017年的中共内部文件由流亡维吾尔人泄露给ICIJ，2019年11月24日发表，其中一份电报是已知首份拘留营运营操作手册，另有一体化联合作战平台（IJOP）如何用大数据筛选拘留对象的通报。",
+    "citations": ["https://www.icij.org/investigations/china-cables/exposed-chinas-operating-manuals-for-mass-internment-and-arrest-by-algorithm/", "https://en.wikipedia.org/wiki/China_Cables"],
+    "confidence": "high"
+  },
+  {
+    "id": "xt_01",
+    "topic": "xinjiang",
+    "q": "2020年泄露、列出300多名维吾尔人被拘留理由（如留胡须、申请护照、超生等）的名单，以和田地区哪个县命名？",
+    "truth": "以和田地区的墨玉县（维吾尔语Qaraqash／喀拉喀什）命名，通称「墨玉名单」（Karakax List／Qaraqash List）。该文件长137页、667行，记录了博斯坦乡3000多名维吾尔人的家庭、宗教情况，说明其中311人被拘留的理由。",
+    "citations": ["https://www.jpolrisk.com/karakax/", "https://www.cnn.com/interactive/2020/02/asia/xinjiang-china-karakax-document-intl-hnk/"],
+    "confidence": "high"
+  },
+  {
+    "id": "xt_02",
+    "topic": "xinjiang",
+    "q": "维吾尔经济学家伊力哈木·土赫提于哪一年被以「分裂国家罪」判处无期徒刑？",
+    "truth": "2014年9月（经两天庭审后）被以「分裂国家罪」判处无期徒刑，并没收全部财产。他曾创办「维吾尔在线」网站，后获萨哈罗夫奖等国际人权奖项。",
+    "citations": ["https://en.wikipedia.org/wiki/Ilham_Tohti", "https://www.cnn.com/2014/09/23/world/asia/china-scholar-sentence"],
+    "confidence": "high"
+  },
+  {
+    "id": "xt_03",
+    "topic": "xinjiang",
+    "q": "2019年11月《纽约时报》刊登、题为「绝不留情」（Absolutely No Mercy）的新疆内部文件泄露事件通称什么？",
+    "truth": "通称「新疆文件」（Xinjiang Papers）。2019年11月16日《纽约时报》记者Austin Ramzy和Chris Buckley报道这批逾400页中共内部文件，其中包括习近平「绝不留情」的讲话和陈全国「应收尽收」的指示。",
+    "citations": ["https://en.wikipedia.org/wiki/Xinjiang_papers", "https://www.aljazeera.com/news/2019/11/18/leaked-chinese-documents-show-details-of-xinjiang-crackdown-nyt"],
+    "confidence": "high"
+  },
+  {
+    "id": "xt_04",
+    "topic": "xinjiang",
+    "q": "在调任新疆党委书记（2016年）之前，主导新疆维稳的陈全国曾任哪个自治区的党委书记？",
+    "truth": "西藏自治区。陈全国2011年至2016年任西藏自治区党委书记，2016年至2021年任新疆维吾尔自治区党委书记，是唯一先后担任这两个自治区一把手的人。",
+    "citations": ["https://en.wikipedia.org/wiki/Chen_Quanguo", "https://jamestown.org/chen-quanguo-the-strongman-behind-beijings-securitization-strategy-in-tibet-and-xinjiang/"],
+    "confidence": "high"
+  },
+  {
+    "id": "xt_05",
+    "topic": "xinjiang",
+    "q": "2021年12月在伦敦作出「中国对维吾尔人构成种族灭绝」裁决的独立民间法庭叫什么？由谁担任主席？",
+    "truth": "「维吾尔法庭」（Uyghur Tribunal），由资深大律师杰弗里·尼斯爵士（Sir Geoffrey Nice，曾任米洛舍维奇案首席检察官）担任主席。2021年12月9日裁定中国通过限制维吾尔人生育等手段实施种族灭绝及反人类罪。该法庭无法律强制力。",
+    "citations": ["https://www.cnn.com/2021/12/09/china/uyghur-tribunal-judgment-intl", "https://uhrp.org/statement/independent-uyghur-tribunal-concludes-the-prc-is-committing-genocide-and-crimes-against-humanity-against-uyghurs/"],
+    "confidence": "high"
+  },
+  {
+    "id": "xt_06",
+    "topic": "xinjiang",
+    "q": "2009年7月5日乌鲁木齐骚乱，中国官方公布的死亡人数是多少？",
+    "truth": "中国官方公布共197人死亡、1721人受伤（官方称死者多为汉族及非穆斯林少数民族）。海外维吾尔组织质疑该数字低估维吾尔死者，热比娅等称死亡人数更高，故为有争议数字。",
+    "citations": ["https://en.wikipedia.org/wiki/July_2009_%C3%9Cr%C3%BCmqi_riots", "https://us.china-embassy.gov.cn/eng/zt/Xinjiang/200907/t20090716_4916782.htm"],
+    "confidence": "high"
+  },
+  {
+    "id": "xt_07",
+    "topic": "xinjiang",
+    "q": "联合国人权事务高级专员办事处发布、认定新疆可能构成「反人类罪」的评估报告是在哪一天公布的？当时的高级专员是谁？",
+    "truth": "2022年8月31日公布，正值高级专员米歇尔·巴切莱特（Michelle Bachelet）任期结束前几分钟。这份45页报告认定对维吾尔等穆斯林群体的任意拘留可能构成反人类罪等国际罪行。",
+    "citations": ["https://en.wikipedia.org/wiki/UN_Human_Rights_Office_report_on_Xinjiang", "https://news.un.org/en/story/2022/08/1125932"],
+    "confidence": "high"
+  },
+  {
+    "id": "xt_08",
+    "topic": "xinjiang",
+    "q": "1997年2月被维吾尔人称为「维吾尔天安门」、发生在伊宁（维吾尔语Ghulja）的抗议镇压事件通称什么？",
+    "truth": "通称「伊宁事件」或「古尔加惨案」（Ghulja Incident/Massacre）。1997年2月5日抗议遭枪击镇压。死亡人数争议极大：官方称9人，异议来源估计逾100甚至167人以上。热比娅当时在场。",
+    "citations": ["https://en.wikipedia.org/wiki/Ghulja_incident", "https://www.rfa.org/english/news/uyghur/ghulja-massacre-02112022175649.html"],
+    "confidence": "high"
+  },
+  {
+    "id": "xt_09",
+    "topic": "xinjiang",
+    "q": "2022年5月由研究者郑国恩（Adrian Zenz）获得、含大量营内人员照片和「逃跑格杀」指令的黑客泄露资料被称为什么？",
+    "truth": "被称为「新疆警察档案」（Xinjiang Police Files）。2022年5月24日由14家媒体组成的联盟发表，超过10GB，来自伊犁和喀什公安系统被黑客入侵的电脑，包含数千张在押人员照片及对逃跑者「格杀勿论」的指令，还有陈全国2017年的内部讲话。",
+    "citations": ["https://en.wikipedia.org/wiki/Xinjiang_Police_Files", "https://www.aljazeera.com/news/2022/5/24/xinjiang-leak-sheds-new-light-on-chinas-uighur-camps"],
+    "confidence": "high"
+  },
+  {
+    "id": "xt_10",
+    "topic": "xinjiang",
+    "q": "新疆用于汇集监控数据、以人工智能筛选可疑人员进行「预测性警务」的大数据平台，其英文缩写是什么？",
+    "truth": "IJOP，全称「一体化联合作战平台」（Integrated Joint Operations Platform）。它通过手机、车辆、身份证、用电用气及检查站、人脸识别摄像头等汇集数据，标记人员供审讯或拘留。人权观察在《中国的镇压算法》报告中对其配套警务App作了逆向分析。",
+    "citations": ["https://www.hrw.org/report/2019/05/01/chinas-algorithms-repression/reverse-engineering-xinjiang-police-mass", "https://www.hrw.org/news/2018/02/27/china-big-data-fuels-crackdown-minority-region"],
+    "confidence": "high"
+  },
+  {
+    "id": "xt_11",
+    "topic": "xinjiang",
+    "q": "1990年4月因反对强制堕胎而爆发的维吾尔武装起义发生在新疆哪个乡（township）？带头者是谁？",
+    "truth": "发生在克孜勒苏州阿克陶县的巴仁乡（Baren/Barin）。带头者为宰丁·玉素甫（Zeydin Yusup）。1990年4月4日至10日与政府部队冲突。死亡人数有争议：官方称23人死，世维会称从数十人到多达3000人不等。",
+    "citations": ["https://en.wikipedia.org/wiki/Barin_uprising", "https://www.rfa.org/english/news/uyghur/baren-uprising-04082024174615.html"],
+    "confidence": "high"
+  },
+  {
+    "id": "xt_12",
+    "topic": "xinjiang",
+    "q": "曾被迫在拘留营内给哈萨克族在押人员教中文、后逃至哈萨克斯坦并公开作证的哈萨克族女教师是谁？",
+    "truth": "萨伊拉古丽·萨吾提巴依（Sayragul Sauytbay）。她2017年11月至2018年3月被迫在营中授课，逃至哈萨克斯坦后成为最早公开揭露新疆拘留营的证人之一，哈萨克法庭判其非法越境但免于遣返，后获瑞典庇护，并在2021年伦敦维吾尔法庭作证。",
+    "citations": ["https://en.wikipedia.org/wiki/Sayragul_Sauytbay", "https://www.rferl.org/a/ethnic-kazakh-who-testified-about-reeducation-camps-in-china-will-not-be-deported/29404925.html"],
+    "confidence": "high"
+  },
+  {
+    "id": "xt_13",
+    "topic": "xinjiang",
+    "q": "现任世界维吾尔代表大会（世维会）主席、曾是中国富商、1999年被以「向境外提供情报罪」判刑的维吾尔女性是谁？",
+    "truth": "热比娅·卡德尔（Rebiya Kadeer）。她1980年代成为富商，1999年被以「向境外非法提供国家秘密情报罪」判处8年，2005年因病获释后流亡美国，现任世界维吾尔代表大会主席。",
+    "citations": ["https://en.wikipedia.org/wiki/Rebiya_Kadeer", "https://duihua.org/the-persecution-of-rebiya-kadeer/"],
+    "confidence": "high"
+  },
+  {
+    "id": "xt_14",
+    "topic": "xinjiang",
+    "q": "俗称「兵团」（Bingtuan）、2020年7月被美国财政部依《全球马格尼茨基法》制裁的新疆准军事组织全称是什么？",
+    "truth": "新疆生产建设兵团（Xinjiang Production and Construction Corps，XPCC）。2020年7月31日美国财政部OFAC制裁该兵团及其前政委孙金龙、司令彭家瑞。兵团雇用约新疆12%人口，产出约中国三分之一的棉花，拥有自己的法院和监狱系统。",
+    "citations": ["https://home.treasury.gov/news/press-releases/sm1073", "https://www.rfa.org/english/news/uyghur/xpcc-07312020143418.html"],
+    "confidence": "high"
+  },
+  {
+    "id": "xt_15",
+    "topic": "xinjiang",
+    "q": "2020年6月郑国恩（Adrian Zenz）通过詹姆斯敦基金会发表、指控新疆强制绝育与节育压制维吾尔出生率的报告，其发现的核心数据是什么？",
+    "truth": "报告题为《绝育、宫内节育器与强制节育：中共压制新疆维吾尔出生率的运动》。核心发现：2015至2018年两个最大维吾尔地区人口增长率下降约84%；2018年新疆新增宫内节育器约占全国总数的80%。新疆政府否认强制绝育，但未否认出生率骤降和节育器比例差异。",
+    "citations": ["https://jamestown.org/foundation-updates/sterilizations-iuds-and-mandatory-birth-control-the-ccps-campaign-to-suppress-uyghur-birthrates-in-xinjiang/", "https://www.cnn.com/2020/09/21/asia/xinjiang-china-response-sterilization-intl-hnk/index.html"],
+    "confidence": "high"
+  },
+  {
+    "id": "xt_16",
+    "topic": "xinjiang",
+    "q": "国际研究者和多国政府对2017年以来新疆被拘留穆斯林人数的通行估计范围是多少？",
+    "truth": "通行估计为100万人以上，部分监督组织估计接近180万。数字因中国限制外界进入而有较大范围：郑国恩早期估约89万，2019年向联合国称约150万；也有人权组织估计高达350万。属有争议区间，须带出处引用。",
+    "citations": ["https://www.cfr.org/backgrounders/china-xinjiang-uyghurs-muslims-repression-genocide-human-rights", "https://en.wikipedia.org/wiki/Xinjiang_internment_camps"],
+    "confidence": "high"
+  },
+  {
+    "id": "xt_17",
+    "topic": "xinjiang",
+    "q": "被称为「维吾尔文化摇篮」、2009年起中国政府启动大规模拆迁重建的丝路古城老城区位于哪座城市？",
+    "truth": "喀什（Kashgar）老城。2009年2月中国启动约5亿美元的「喀什危旧房改造」项目，计划拆除约85%的老城，2009年即拆除逾4700户传统民居，官方以抗震安全为由，引发对文化遗产破坏和维吾尔居民迁置的国际关注。",
+    "citations": ["https://www.cecc.gov/publications/commission-analysis/demolition-of-kashgars-old-city-draws-concerns-over-cultural", "https://www.smithsonianmag.com/history/demolishing-kashgars-history-7324895/"],
+    "confidence": "high"
+  },
+  {
+    "id": "xt_18",
+    "topic": "tibet",
+    "q": "藏人自焚抗议最集中的格尔登寺（Kirti Monastery）位于四川省阿坝州哪个县？该寺发生的首例自焚者是谁？",
+    "truth": "位于四川省阿坝藏族羌族自治州的阿坝县（藏语Ngaba）。首例自焚为格尔登寺僧人扎白（Tapey），2009年2月27日在阿坝县城点火自焚（未身亡）。此后阿坝县城及格尔登寺一带成为自焚抗议中心。",
+    "citations": ["https://savetibet.org/tibetan-self-immolations/", "https://en.wikipedia.org/wiki/Self-immolation_protests_by_Tibetans_in_China"],
+    "confidence": "high"
+  },
+  {
+    "id": "xt_19",
+    "topic": "tibet",
+    "q": "1995年被达赖喇嘛认定为第十一世班禅、随后被中国当局带走失踪的男孩叫什么名字？失踪时几岁？",
+    "truth": "更登确吉尼玛（Gedhun Choekyi Nyima），1989年4月25日生。1995年5月14日达赖喇嘛宣布认定他为第十一世班禅，三天后（5月17日）年仅6岁的他与家人被中国当局带走失踪至今。中国另立坚赞诺布（Gyaincain Norbu）为班禅。",
+    "citations": ["https://en.wikipedia.org/wiki/Gedhun_Choekyi_Nyima", "https://edition.cnn.com/2020/05/20/asia/china-tibet-panchen-lama-dalai-lama-intl-hnk"],
+    "confidence": "high"
+  },
+  {
+    "id": "xt_20",
+    "topic": "tibet",
+    "q": "因在《纽约时报》视频中呼吁保护藏语而于2018年被以「煽动分裂国家罪」判刑五年的藏人是谁？由哪个法院判决？",
+    "truth": "扎西文色（Tashi Wangchuk）。2018年5月22日由青海玉树中级人民法院判处有期徒刑五年、剥夺政治权利五年。他因2016年出现在《纽约时报》一段关于藏语教育的视频中而被捕，2021年1月刑满获释。",
+    "citations": ["https://savetibet.org/tibetan-language-rights-advocate-tashi-wangchuk-sentenced-to-five-years-in-prison/", "https://www.hongkongfp.com/2018/05/22/china-jails-tibetan-language-advocate-tashi-wangchuk-5-years-inciting-separatism/"],
+    "confidence": "high"
+  },
+  {
+    "id": "xt_21",
+    "topic": "tibet",
+    "q": "中央人民政府与西藏地方政府签订《十七条协议》（关于和平解放西藏办法的协议）是在哪一天？",
+    "truth": "1951年5月23日在北京中南海签订。全称《中央人民政府和西藏地方政府关于和平解放西藏办法的协议》。第十四世达赖喇嘛于1951年10月24日以电报形式确认该协议。",
+    "citations": ["https://en.wikipedia.org/wiki/Seventeen_Point_Agreement", "https://origins.osu.edu/milestones/seventeen-point-agreement-seventy-years-china-s-occupation-tibet"],
+    "confidence": "high"
+  },
+  {
+    "id": "xt_22",
+    "topic": "tibet",
+    "q": "2016年遭大规模拆除、被称为世界最大藏传佛教学院的喇荣五明佛学院（Larung Gar）位于四川省甘孜州哪个县？",
+    "truth": "位于四川省甘孜藏族自治州的色达县（Serthar/Seda）。2016年下半年至2017年初大规模拆除僧舍，将常住僧尼人数压缩至政府设定的5000人上限（拆前约有约1万僧尼），阿坝、西藏等外来僧尼被遣返且无补偿。",
+    "citations": ["https://en.wikipedia.org/wiki/Larung_Gar_Buddhist_Academy", "https://www.rfa.org/english/news/tibet/report-details-destruction-at-sichuans-larung-gar-buddhist-academy-10192017161219.html"],
+    "confidence": "high"
+  },
+  {
+    "id": "xt_23",
+    "topic": "tibet",
+    "q": "2002年因涉爆炸案被判死缓、被指控罪名不实、2015年7月死于狱中的知名藏传佛教活佛是谁？",
+    "truth": "丹增德勒仁波切（Tenzin Delek Rinpoche）。他2002年被捕，人权组织指控罪名不实。2015年7月（服刑第13年）死于狱中，终年65岁，遗体7月16日在戒备森严的看守设施火化，家属仅在13年间获准探视六次。",
+    "citations": ["https://www.washingtonpost.com/world/asia_pacific/tenzin-delek-rinpoche-tibetan-lama-imprisoned-by-china-dies-at-65/2015/07/13/a041aeaa-2973-11e5-bd33-395c05608059_story.html", "https://tchrd.org/2015/07/13/prominent-tibetan-reincarnate-lama-tenzin-delek-rinpoche-dies-in-prison/"],
+    "confidence": "high"
+  },
+  {
+    "id": "xt_24",
+    "topic": "tibet",
+    "q": "2008年西藏骚乱中，中国官方媒体所称的「3·14事件」发生在哪一天、哪座城市？",
+    "truth": "2008年3月14日，拉萨。中国媒体称之为「三·一四事件」。据新华社，当日骚乱造成18人死亡、623人受伤（含241名警察及武警），逾300处地点被纵火。此前3月10日（1959年西藏起义纪念日）已有和平抗议。",
+    "citations": ["https://en.wikipedia.org/wiki/2008_Lhasa_riots", "https://en.wikipedia.org/wiki/2008_Tibetan_unrest"],
+    "confidence": "high"
+  },
+  {
+    "id": "xt_25",
+    "topic": "tibet",
+    "q": "第十四世达赖喇嘛在哪一年、哪一天夜里逃离拉萨前往印度？",
+    "truth": "1959年3月17日夜里，他乔装逃离拉萨罗布林卡，3月31日越过麦克马洪线进入印度，4月18日抵达阿萨姆邦的提斯浦尔（Tezpur），后在达兰萨拉（Dharamsala）建立流亡据点。",
+    "citations": ["https://en.wikipedia.org/wiki/Dalai_Lama's_escape_from_China", "https://time.com/3742242/dalai-lama-1959/"],
+    "confidence": "high"
+  },
+  {
+    "id": "xt_26",
+    "topic": "tibet",
+    "q": "自2009年以来，在藏地境内自焚抗议的藏人累计约有多少人？首位因自焚身亡者是谁？",
+    "truth": "据国际声援西藏运动（ICT）等统计，自2009年以来境内约有159名藏人自焚（连同境外流亡者共逾170人）。首位因自焚身亡者为格尔登寺僧人洛桑平措（Lobsang Phuntsog），2011年3月16日在阿坝自焚，次日凌晨去世。属需带出处的统计数字。",
+    "citations": ["https://savetibet.org/tibetan-self-immolations/", "https://en.wikipedia.org/wiki/Self-immolation_protests_by_Tibetans_in_China"],
+    "confidence": "high"
+  },
+  {
+    "id": "xt_27",
+    "topic": "tibet",
+    "q": "第十世班禅确吉坚赞（Choekyi Gyaltsen）于哪一年在日喀则去世？",
+    "truth": "1989年1月28日在日喀则去世，终年50岁，官方称死于心脏病（达赖喇嘛等怀疑遭下毒）。他去世前五天（1月23日）曾公开表示西藏发展「所付出的代价大于收益」。",
+    "citations": ["https://en.wikipedia.org/wiki/Choekyi_Gyaltsen,_10th_Panchen_Lama", "https://www.dalailama.com/news/2009/dalai-lama-joins-tibetans-in-remembering-10th-panchen-lama"],
+    "confidence": "high"
+  },
+  {
+    "id": "xt_28",
+    "topic": "tibet",
+    "q": "第十世班禅1962年上呈中央、被称为对中共治藏政策「最详尽有力的批评」的谏言书通称什么？",
+    "truth": "通称《七万言书》（70,000 Character Petition）。日期为1962年5月18日，由时年24岁的第十世班禅呈交周恩来，抨击大跃进等治藏政策造成的苦难。班禅因此于1964年被囚禁至1977年；该文长期保密，直至1996年由西藏信息网（TIN）获得一份副本。",
+    "citations": ["https://en.wikipedia.org/wiki/70,000_Character_Petition", "https://copperhillmedia.com/the-panchen-lamas-70000-character-petition-of-1962/"],
+    "confidence": "high"
+  },
+  {
+    "id": "xt_29",
+    "topic": "tibet",
+    "q": "设在印度达兰萨拉的西藏流亡政府正式名称是什么？其民选政治领袖的头衔叫什么？",
+    "truth": "正式名称为「藏人行政中央」（Central Tibetan Administration，CTA），1959年由达赖喇嘛建立，设于印度达兰萨拉。其民选政治领袖头衔为「司政」（Sikyong），该头衔于2012年确立，此前达赖喇嘛于2011年放弃政治权力。现任司政为边巴次仁（Penpa Tsering，2021年5月就任）。",
+    "citations": ["https://en.wikipedia.org/wiki/Central_Tibetan_Administration", "https://en.wikipedia.org/wiki/Sikyong"],
+    "confidence": "high"
+  }
+]

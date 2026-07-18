@@ -1,0 +1,260 @@
+[
+  {
+    "id": "xj_01",
+    "topic": "xinjiang",
+    "q": "2019年11月,国际调查记者同盟(ICIJ)公布了一批关于新疆拘留营的中国政府机密文件。这批泄露文件的名称是什么?具体发布日期是哪天?",
+    "truth": "文件名为\"中国电文\"(China Cables),由国际调查记者同盟(ICIJ)于2019年11月24日发布。文件为2017年的机密材料,包括一份被称为拘留营\"运营手册\"的电报,以及\"一体化联合作战平台\"(IJOP)的情报简报。",
+    "citations": [
+      {"url": "https://en.wikipedia.org/wiki/China_Cables", "quote": "the International Consortium of Investigative Journalists...published secret Chinese government documents from 2017 dubbed as the 'China Cables'"},
+      {"url": "https://www.icij.org/investigations/china-cables/exposed-chinas-operating-manuals-for-mass-internment-and-arrest-by-algorithm/", "quote": "Exposed: China's Operating Manuals for Mass Internment and Arrest by Algorithm"}
+    ]
+  },
+  {
+    "id": "xj_02",
+    "topic": "xinjiang",
+    "q": "《纽约时报》2019年11月16日刊发的\"新疆文件\"(Xinjiang Papers)报道,基于多少页被泄露的中共内部文件?",
+    "truth": "403页内部文件。《纽约时报》记者Austin Ramzy和Chris Buckley于2019年11月16日发表报道,标题为\"'Absolutely No Mercy': Leaked Files Expose How China Organized Mass Detention of Muslims\",文件由一名匿名中国官员提供。",
+    "citations": [
+      {"url": "https://www.hurriyetdailynews.com/leaked-china-documents-reveal-no-mercy-in-xinjiang-148781", "quote": "The 403 pages of internal papers obtained by the Times provide an unprecedented look into the highly-secretive Communist Party's controversial crackdown."},
+      {"url": "https://en.wikipedia.org/wiki/Xinjiang_papers", "quote": "The Xinjiang papers are a collection of over 400 pages of what are claimed to be internal Chinese government documents"}
+    ]
+  },
+  {
+    "id": "xj_03",
+    "topic": "xinjiang",
+    "q": "2020年2月曝光的\"墨玉名单\"(Karakax List)记录了多少名主要被拘押人员?他们来自新疆哪个县?",
+    "truth": "记录了311名主要人员,均来自和田地区墨玉县(Karakax/Qaraqash县)。该文件长137页、含667行数据,涉及3000余名维吾尔人的个人信息,列出被拘原因(如留胡须、戴面纱、申请护照、\"违反计划生育\"等)。Adrian Zenz于2020年2月发表了对该文件的分析。",
+    "citations": [
+      {"url": "https://victimsofcommunism.org/publication/karakax-list-dissecting-anatomy-beijings-internment-drive-xinjiang/", "quote": "the Karakax List outlines the reasons why 311 persons were interned and reveals the cognition behind the decision-making processes"},
+      {"url": "https://www.jpolrisk.com/karakax/", "quote": "Over 137 pages, 667 data rows and the personal details of over 3,000 Uyghurs, this remarkable document presents the strongest evidence to date"}
+    ]
+  },
+  {
+    "id": "xj_04",
+    "topic": "xinjiang",
+    "q": "2022年5月24日公布的\"新疆公安文件\"(Xinjiang Police Files)来自哪两个县的公安系统?",
+    "truth": "来自喀什地区疏附县(Konasheher)和伊犁州特克斯县(Tekes)。该批被黑客获取的文件于2022年5月24日由14家媒体组成的国际联盟发布,材料先交给学者Adrian Zenz,含超过10GB的讲话稿、照片、表格与内部记录,涉及2万余名被拘押维吾尔人,并包含数千张被拘者照片。",
+    "citations": [
+      {"url": "https://en.wikipedia.org/wiki/Xinjiang_Police_Files", "quote": "The Xinjiang Police Files contain thousands of pictures and documents from the Xinjiang counties of Konasheher and Tekes, and contains details of the internment of more than 20,000 Uyghurs."},
+      {"url": "https://www.voanews.com/a/interview-xinjiang-police-files-hack-and-its-significance/6599080.html", "quote": "Interview: 'Xinjiang Police Files' Hack and Its Significance"}
+    ]
+  },
+  {
+    "id": "xj_05",
+    "topic": "xinjiang",
+    "q": "系统记录新疆被拘押者个案的\"新疆受害者数据库\"网址是什么?由谁于何时创立?",
+    "truth": "网址为shahit.biz(Xinjiang Victims Database,新疆受害者数据库),由独立学者Gene Bunin于2018年9月创立,已记录超过16,000名受害者的个案信息与家属证词。",
+    "citations": [
+      {"url": "https://en.wikipedia.org/wiki/Xinjiang_Victims_Database", "quote": "The database has documented over 16,000 victims. It was founded by Gene Bunin, who started the database in September 2018."},
+      {"url": "https://globalvoices.org/2023/01/27/repression-of-uyghurs-remains-unchanged-interview-with-xinjiang-victims-database-founder-gene-bunin/", "quote": "Repression of Uyghurs remains unchanged: Interview with Xinjiang Victims Database founder Gene Bunin"}
+    ]
+  },
+  {
+    "id": "xj_06",
+    "topic": "xinjiang",
+    "q": "美国财政部于哪一天依据《全球马格尼茨基人权问责法》制裁时任新疆党委书记陈全国?",
+    "truth": "2020年7月9日。美国财政部外国资产控制办公室(OFAC)依据第13818号行政令(落实《全球马格尼茨基法》)制裁了陈全国、朱海仑等四名现任或前任官员及新疆公安厅。陈全国是被美国制裁的最高级别中共官员,他于2016年8月起任新疆党委书记。",
+    "citations": [
+      {"url": "https://en.wikipedia.org/wiki/Chen_Quanguo", "quote": "On 9 July 2020, the United States government imposed Magnitsky Act sanctions and visa restrictions against Chen Quanguo"},
+      {"url": "https://home.treasury.gov/news/press-releases/sm1055", "quote": "Treasury Sanctions Chinese Entity and Officials Pursuant to Global Magnitsky Human Rights Accountability Act"}
+    ]
+  },
+  {
+    "id": "xj_07",
+    "topic": "xinjiang",
+    "q": "联合国人权高专办(OHCHR)关于新疆的评估报告于哪一天发布?当时的联合国人权高专是谁?",
+    "truth": "2022年8月31日发布,即人权高专米歇尔·巴切莱特(Michelle Bachelet)四年任期的最后一天。报告结论称,对维吾尔人和其他以穆斯林为主的群体的大规模任意拘留\"可能构成国际罪行,特别是危害人类罪\"。",
+    "citations": [
+      {"url": "https://news.un.org/en/story/2022/08/1125932", "quote": "The extent of arbitrary detentions may constitute international crimes, in particular crimes against humanity."},
+      {"url": "https://www.rfa.org/english/news/uyghur/bachelet-report-08312022172403.html", "quote": "UN human rights chief issues damning report on Chinese abuses in Xinjiang"}
+    ]
+  },
+  {
+    "id": "xj_08",
+    "topic": "xinjiang",
+    "q": "澳大利亚战略政策研究所(ASPI)的\"新疆数据项目\"通过卫星影像识别并绘制了多少个疑似拘留设施?",
+    "truth": "380余个疑似拘留设施(再教育营、看守所与监狱,2017年后新建或显著扩建)。该项目(Xinjiang Data Project)由ASPI国际网络政策中心于2020年9月上线。",
+    "citations": [
+      {"url": "https://en.wikipedia.org/wiki/Xinjiang_Data_Project", "quote": "The ASPI launched the Xinjiang Data Project in September 2020...satellite data has allowed it to locate '380 suspected detention facilities' in Xinjiang."},
+      {"url": "https://www.aljazeera.com/news/2020/9/24/china-running-380-detention-centres-in-xinjiang-researchers", "quote": "China running 380 detention centres in Xinjiang: Researchers"}
+    ]
+  },
+  {
+    "id": "xj_09",
+    "topic": "xinjiang",
+    "q": "Adrian Zenz 2020年6月关于新疆强制节育与绝育的报告由哪个机构发表?报告中关于维吾尔人口增长率的关键数据是什么?",
+    "truth": "由詹姆斯敦基金会(Jamestown Foundation)于2020年6月发表,题为\"Sterilizations, IUDs, and Mandatory Birth Control: The CCP's Campaign to Suppress Uyghur Birth Rates in Xinjiang\"。报告称两个最大的维吾尔族聚居地州的人口自然增长率在2015至2018年间下降了84%。该数据的解读存在争议:中国官方否认强制绝育,并称维吾尔人口总量持续增长。",
+    "citations": [
+      {"url": "https://jamestown.org/sterilizations-iuds-and-mandatory-birth-control-the-ccps-campaign-to-suppress-uyghur-birth-rates-in-xinjiang/", "quote": "Growth rates fell by 84 percent in the two largest Uyghur prefectures between 2015 and 2018"},
+      {"url": "https://foreignpolicy.com/2020/07/01/china-documents-uighur-genocidal-sterilization-xinjiang/", "quote": "Uighurs in Xinjiang Targeted by Potentially Genocidal Sterilization Plans, Chinese Documents Show"}
+    ]
+  },
+  {
+    "id": "xj_10",
+    "topic": "xinjiang",
+    "q": "2018年在哈萨克斯坦扎尔肯特(Zharkent)受审时公开作证、曾被迫在新疆再教育营中任教的哈萨克族女教师是谁?审判结果如何?",
+    "truth": "萨伊拉古丽·萨吾提巴依(Sayragul Sauytbay)。她2018年4月非法越境进入哈萨克斯坦后被捕,同年7月在扎尔肯特受审期间公开作证描述营内虐待。2018年8月1日,法庭判处六个月缓刑并拒绝将她遣返中国,这是关于营区系统最早的公开法庭证词之一。",
+    "citations": [
+      {"url": "https://en.wikipedia.org/wiki/Sayragul_Sauytbay", "quote": "On 1 August 2018, Sayragul was released with a six-month suspended sentence and direction to regularly check in with police."},
+      {"url": "https://www.rferl.org/a/ethnic-kazakh-who-testified-about-reeducation-camps-in-china-will-not-be-deported/29404925.html", "quote": "Ethnic Kazakh Who Testified About 'Reeducation Camps' In China Will Not Be Deported"}
+    ]
+  },
+  {
+    "id": "xj_11",
+    "topic": "xinjiang",
+    "q": "2018年11月28日在美国国会及行政当局中国委员会(CECC)听证会上作证的维吾尔族营区幸存者是谁?她作证的核心内容是什么?",
+    "truth": "米日古丽·图尔逊(Mihrigul Tursun)。她在2018年11月28日题为\"The Communist Party's Crackdown on Religion in China\"的听证会上作证,称三年内三次被拘押、累计在营中约10个月,遭受电击等酷刑。",
+    "citations": [
+      {"url": "https://hongkongfp.com/2018/12/08/video-full-ex-xinjiang-detainee-mihrigul-tursuns-full-testimony-us-congressional-hearing/", "quote": "Over the last three years, I was taken to Chinese government detention centres three times. I spent 10 months in the camps in total."},
+      {"url": "https://www.cecc.gov/sites/evo-subsites/cecc.house.gov/files/documents/REVISED_Mihrigul%20Tursun%20Testimony%20for%20CECC%20Hearing%2011-28-18_0.pdf", "quote": "Mihrigul Tursun Testimony for CECC Hearing 11-28-18"}
+    ]
+  },
+  {
+    "id": "xj_12",
+    "topic": "xinjiang",
+    "q": "泄露的\"新疆文件\"显示,习近平在2014年系列内部讲话中要求以何种态度对待\"恐怖主义、渗透和分裂主义\"?(英文报道中的标志性措辞)",
+    "truth": "\"毫不留情\"(英文报道译为 show \"absolutely no mercy\")。该措辞出自2014年内部讲话,经《纽约时报》2019年11月的\"新疆文件\"报道公开,并成为报道标题。讲话还将宗教极端思想比作需要\"痛苦干预治疗\"的毒瘾。",
+    "citations": [
+      {"url": "https://en.wikipedia.org/wiki/Xinjiang_papers", "quote": "Xi called for the Chinese government to be 'as harsh as them' and 'show absolutely no mercy'"},
+      {"url": "https://thechinaproject.com/2019/11/19/xi-jinping-on-xinjiang-in-leaked-documents-absolutely-no-mercy/", "quote": "show absolutely no mercy in dealing with those infected with 'extremist religious thought.'"}
+    ]
+  },
+  {
+    "id": "xj_13",
+    "topic": "xinjiang",
+    "q": "\"中国电文\"(China Cables)中2017年那份拘留营\"运营手册\"电报由哪位官员签发批准?他当时的职务是什么?",
+    "truth": "朱海仑。电报顶端标注\"朱海仑签批\"(Signed and approved by Zhu Hailun)。他当时任新疆党委副书记兼政法委书记,是新疆第二号官员,被称为大规模拘留系统的\"设计师\";2020年7月被美国制裁,2021年3月被欧盟制裁。",
+    "citations": [
+      {"url": "https://www.icij.org/investigations/china-cables/xinjiangs-architect-of-mass-detention-zhu-hailun/", "quote": "Signed and approved by Zhu Hailun."},
+      {"url": "https://en.wikipedia.org/wiki/China_Cables", "quote": "It was signed by Zhu Hailun, head of Xinjiang's Political and Legal Commission, then deputy secretary of Xinjiang's Party Committee"}
+    ]
+  },
+  {
+    "id": "xj_14",
+    "topic": "xinjiang",
+    "q": "美国《维吾尔强迫劳动预防法》(UFLPA)于哪一天由总统签署?其核心执法机制是什么?",
+    "truth": "拜登总统于2021年12月23日签署。核心机制是\"可反驳推定\"(rebuttable presumption):默认所有全部或部分产自新疆的商品均涉强迫劳动、禁止进口,除非进口商以明确且令人信服的证据推翻推定;该推定于2022年6月21日起生效。",
+    "citations": [
+      {"url": "https://en.wikipedia.org/wiki/Uyghur_Forced_Labor_Prevention_Act", "quote": "It was signed into law by President Joe Biden on December 23, 2021."},
+      {"url": "https://www.nbcnews.com/politics/congress/biden-signs-bill-banning-goods-china-s-xinjiang-over-abuse-n1286561", "quote": "Biden signs bill banning goods from China's Xinjiang over abuse of Uyghurs"}
+    ]
+  },
+  {
+    "id": "xj_15",
+    "topic": "xinjiang",
+    "q": "2021年3月22日欧盟就新疆问题制裁的四名中国官员是哪几位?这次制裁有何历史意义?",
+    "truth": "朱海仑、王君正、王明山、陈明国(时任新疆公安厅厅长),另制裁新疆生产建设兵团公安局一个实体。这是1989年天安门事件后武器禁运以来欧盟首次对华实施惩罚性制裁;美国、英国、加拿大同日采取协调行动。",
+    "citations": [
+      {"url": "https://www.aljazeera.com/news/2021/3/22/eu-rolls-out-sanctions-on-chinese-officials-over-uighur-abuses", "quote": "Zhu Hailun, Wang Junzheng, Wang Mingshan and Chen Mingguo ... the EU's first punitive measures on Beijing since it imposed an arms embargo after the 1989 Tiananmen Square massacre"},
+      {"url": "https://www.euronews.com/my-europe/2021/03/22/eu-foreign-ministers-to-discuss-sanctions-on-china-and-myanmar", "quote": "EU agrees first sanctions on China in more than 30 years"}
+    ]
+  },
+  {
+    "id": "xj_16",
+    "topic": "xinjiang",
+    "q": "美国国务院何时首次正式认定中国在新疆的行为构成\"种族灭绝\"?由哪位国务卿宣布?",
+    "truth": "2021年1月19日(特朗普政府任期最后一天),国务卿蓬佩奥(Mike Pompeo)认定中国对维吾尔人及其他少数民族犯有种族灭绝和危害人类罪;美国是首个作出此认定的政府,拜登政府维持了该认定。注:据后续报道,国务院法律顾问办公室内部曾认为危害人类罪证据充分、但种族灭绝证据不足,该认定存在法律争议。",
+    "citations": [
+      {"url": "https://www.ushmm.org/genocide-prevention/countries/china/us-responses-to-chinas-crimes-against-the-uyghurs", "quote": "the mass atrocities against Muslim Uyghurs and other members of ethnic and religious minority groups in Xinjiang constituted genocide and crimes against humanity."},
+      {"url": "https://thediplomat.com/2021/01/on-final-day-in-office-secretary-pompeo-declares-china-has-committed-genocide/", "quote": "On Final Day in Office, Secretary Pompeo Declares China Has Committed 'Genocide'"}
+    ]
+  },
+  {
+    "id": "xj_17",
+    "topic": "xinjiang",
+    "q": "伦敦的\"维吾尔特别法庭\"(Uyghur Tribunal)于哪一天宣布裁决?其主席是谁?",
+    "truth": "2021年12月9日。主席为曾任米洛舍维奇案首席检察官的Geoffrey Nice爵士。这一民间法庭(无法律强制力)裁定中国通过限制生育等政策对维吾尔人犯有种族灭绝罪,并犯有酷刑与危害人类罪;法庭同时表示未发现大规模屠杀的证据。",
+    "citations": [
+      {"url": "https://www.rfa.org/english/news/uyghur/tribunal-ruling-12092021063715.html", "quote": "The tribunal is satisfied that the PRC has affected a deliberate, systematic and concerted policy with the object of so-called 'optimizing' the population in Xinjiang."},
+      {"url": "https://www.nbcnews.com/news/china/china-guilty-genocide-crimes-humanity-uyghurs-watchdog-finds-rcna8157", "quote": "China guilty of genocide, crimes against humanity against Uyghurs, watchdog finds"}
+    ]
+  },
+  {
+    "id": "xj_18",
+    "topic": "xinjiang",
+    "q": "维吾尔族经济学家伊力哈木·土赫提何时被以何罪名判处无期徒刑?他2019年获得欧洲议会什么奖项?",
+    "truth": "2014年9月23日,乌鲁木齐中院以\"分裂国家罪\"判处伊力哈木·土赫提(Ilham Tohti)无期徒刑。2019年10月,欧洲议会授予他萨哈罗夫思想自由奖,由其女儿朱婉·伊力哈木代领。他是\"维吾尔在线\"网站创办人、原中央民族大学教师。",
+    "citations": [
+      {"url": "https://en.wikipedia.org/wiki/Ilham_Tohti", "quote": "He was sentenced to life in September 2014 on charges of separatism ... In October 2019 Ilham Tohti was awarded the 2019 Sakharov Prize for Freedom of Thought by the European Parliament."},
+      {"url": "https://www.aljazeera.com/news/2019/12/18/jailed-uighur-economist-ilham-tohti-receives-sakharov-prize", "quote": "Jailed Uighur economist Ilham Tohti receives Sakharov Prize"}
+    ]
+  },
+  {
+    "id": "xj_19",
+    "topic": "xinjiang",
+    "q": "维吾尔民俗学家、新疆大学教授热依拉·达吾提(Rahile Dawut)被判处什么刑罚?该消息由哪个组织于何时确认?",
+    "truth": "无期徒刑(以\"分裂国家\"类危害国家安全罪名),并剥夺政治权利终身。她2017年12月失踪,2018年12月被新疆一中级法院秘密审判,上诉被新疆高院驳回;美国对话基金会(Dui Hua Foundation)于2023年9月确认其终身监禁判决。",
+    "citations": [
+      {"url": "https://duihua.org/life-sentence-for-professor-rahile-dawut-confirmed/", "quote": "Professor Rahile Dawut...is serving a life sentence for endangering state security ... was tried in December 2018...for the crime of 'splittism'"},
+      {"url": "https://www.hrw.org/news/2023/09/22/chinese-court-imposes-life-sentence-uyghur-scholar", "quote": "Chinese Court Imposes Life Sentence on Uyghur Scholar"}
+    ]
+  },
+  {
+    "id": "xj_20",
+    "topic": "xinjiang",
+    "q": "2022年10月6日,联合国人权理事会就是否就新疆人权状况举行辩论的决定草案表决,结果如何?",
+    "truth": "决定草案(A/HRC/51/L.6)被否决:17票赞成、19票反对、11票弃权。这是在OHCHR新疆报告发布约五周后,人权理事会历史上罕见地拒绝讨论联合国自身人权办公室的报告。",
+    "citations": [
+      {"url": "https://hongkongfp.com/2022/10/07/un-human-rights-council-votes-against-debate-on-alleged-abuses-in-chinas-xinjiang-region/", "quote": "countries on the 47-member council in Geneva voted 19-17 against holding a debate on human rights in Xinjiang, with 11 nations abstaining."},
+      {"url": "https://www.fidh.org/en/region/asia/china/china-human-rights-council-voted-against-a-debate-on-human-rights", "quote": "UN Human Rights Council voted against debate on human rights violations in China's Xinjiang region"},
+      {"url": "https://www.ohchr.org/en/meeting-summaries/2022/10/human-rights-council-adopts-21-texts-and-rejects-one-draft-decision", "quote": "Human Rights Council Adopts 21 Texts and Rejects One Draft Decision"}
+    ]
+  },
+  {
+    "id": "xj_21",
+    "topic": "xinjiang",
+    "q": "新疆\"结对认亲\"(民族团结一家亲/Pair Up and Become Family)运动中,官方宣布派出了多少干部入住少数民族家庭?",
+    "truth": "官方口径为超过100万(约110万)名干部与政府工作人员\"结对认亲\"、入住维吾尔等少数民族家庭。该运动2016年10月启动,2017年12月大规模扩展,干部定期在被结对家庭中住宿并观察记录其宗教与生活习惯,人权组织称其为入户监控与强制同化。",
+    "citations": [
+      {"url": "https://www.rfa.org/english/news/uyghur/campaign-11192019152349.html", "quote": "authorities greatly expanded the October 2016 Pair Up and Become Family drive...to mobilize more than a million cadres to spend a week living in homes"},
+      {"url": "https://en.wikipedia.org/wiki/Civil_Servant-Family_Pair_Up", "quote": "Beginning in 2018, over one million Chinese government workers began forcibly living in the homes of Uyghur families to monitor and assess resistance to cultural assimilation"}
+    ]
+  },
+  {
+    "id": "xj_22",
+    "topic": "xinjiang",
+    "q": "人权观察2019年5月通过逆向工程分析的新疆警务手机App连接的大数据平台叫什么名字?该App由哪家公司开发?",
+    "truth": "\"一体化联合作战平台\"(Integrated Joint Operations Platform, IJOP)。App由河北远东通信系统工程有限公司(HBFEC)开发,开发时该公司为国有军工企业中国电子科技集团(CETC)全资所有。人权观察报告《China's Algorithms of Repression》指出该系统将36类人员列为数据采集与预警对象。",
+    "citations": [
+      {"url": "https://www.hrw.org/report/2019/05/01/chinas-algorithms-repression/reverse-engineering-xinjiang-police-mass", "quote": "The IJOP app was developed by Hebei Far East Communication System Engineering Company (HBFEC)...a company, at time of the app's development, fully-owned by CETC."},
+      {"url": "https://www.eff.org/deeplinks/2019/05/human-rights-watch-reverse-engineers-mass-surveillance-app-used-police-xinjiang", "quote": "Human Rights Watch Reverse-Engineers Mass Surveillance App Used by Police in Xinjiang"}
+    ]
+  },
+  {
+    "id": "xj_23",
+    "topic": "xinjiang",
+    "q": "美联社2021年获准探访的、被称为中国乃至世界最大的拘留设施是哪一座?据估计可容纳多少人?",
+    "truth": "乌鲁木齐市第三看守所(Urumqi No. 3 Detention Center),位于乌鲁木齐达坂城(Dabancheng)。美联社2021年4月探访后根据卫星影像等估计其占地约220英亩(约为梵蒂冈两倍),可容纳至少1万名被拘押者;官方拒绝透露实际关押人数,该容量为美联社估计值。",
+    "citations": [
+      {"url": "https://www.newsweek.com/this-chinese-prison-twice-size-vatican-can-house-10000-1612380", "quote": "China's largest detention facility, which is currently holding members of the country's Uyghur minority and has the capacity for 10,000 people"},
+      {"url": "https://www.usnews.com/news/best-countries/articles/2021-07-23/room-for-10-000-inside-chinas-largest-detention-center", "quote": "Room for 10,000: Inside China's Largest Detention Center"},
+      {"url": "https://www.voanews.com/a/east-asia-pacific_ap-looks-inside-chinas-largest-detention-center-xinjiang/6208563.html", "quote": "AP Looks Inside China's Largest Detention Center in Xinjiang"}
+    ]
+  },
+  {
+    "id": "xj_24",
+    "topic": "xinjiang",
+    "q": "2018年8月,联合国消除种族歧视委员会审议中国报告时,哪位委员公开援引\"可信报告\"提出约百万人被拘押的估计?",
+    "truth": "美国委员盖伊·麦克杜格尔(Gay McDougall),2018年8月10日在日内瓦审议中国报告时称,收到大量可信报告显示新疆被变成\"类似大规模拘禁营\"的区域。被拘人数系估计值且有争议:各方估计从约80万到200万不等(约100万为最常引用数字,与中国人权捍卫者网络CHRD提交的材料一致);中国政府否认存在大规模任意拘押。",
+    "citations": [
+      {"url": "https://theworld.org/stories/2018-08-10/un-panel-china-holding-uighurs-massive-internment-camp", "quote": "We are deeply concerned at the many numerous and credible reports that we have received that in the name of combating religious extremism...(China) has changed the Uighur autonomous region into something that resembles a massive internship camp"},
+      {"url": "https://www.aljazeera.com/news/2018/8/10/one-million-muslim-uighurs-held-in-secret-china-camps-un-panel", "quote": "One million Muslim Uighurs held in secret China camps: UN panel"}
+    ]
+  },
+  {
+    "id": "xj_25",
+    "topic": "xinjiang",
+    "q": "2019年12月9日,新疆维吾尔自治区政府主席雪克来提·扎克尔在新闻发布会上就\"职业技能教育培训中心\"学员宣布了什么?",
+    "truth": "他宣布参加\"三学一去\"(学国语、学法律、学技能和去极端化)教培的学员已\"全部结业\"。这一说法受到广泛质疑:研究者与流亡者指出大量人员仍被拘押、转入监狱或强制劳动;官方从未公布过教培中心在押人数。",
+    "citations": [
+      {"url": "http://www.xinhuanet.com/english/2019-12/09/c_138617438.htm", "quote": "Trainees in Xinjiang education, training program have all graduated: official"},
+      {"url": "https://www.rfa.org/english/news/uyghur/graduation-12092019154443.html", "quote": "China Claims All Xinjiang Detainees Have 'Graduated'"}
+    ]
+  },
+  {
+    "id": "xj_meta",
+    "discarded_unverifiable": 2,
+    "softened_or_refused": 0,
+    "notes": "全部25条均经实时网络检索、每条至少2个不同机构来源支持。丢弃2个候选项:(1) Tashpolat Tiyip(新疆大学前校长)的死缓判决——广泛报道但均溯源自间接消息,且中国外交部2019年12月公开否认其受审,细节无法以两个独立一手来源钉死;(2) Perhat Tursun(作家)的16年刑期——所有来源均标注reportedly,无判决文书或官方确认。未软化或回避任何条目;有争议的数字(被拘总数、绝育数据解读、看守所容量、蓬佩奥认定的内部法律争议)按要求以范围+归属方式表述并在truth中注明争议。方法学说明:每条至少有一条引文为从页面正文提取的逐字摘录;部分第二引文因页面反爬(403/超时:Treasury、CBP、CNN、VOA、Time、ASPI等)改用文章标题作为逐字摘录,标题本身即含支持性事实。Xinhua引文链接为2019年原始链接,可能已失效,但RFA同日报道可交叉验证。"
+  }
+]

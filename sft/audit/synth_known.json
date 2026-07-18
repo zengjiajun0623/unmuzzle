@@ -1,0 +1,153 @@
+[
+  {
+    "id": "known_00",
+    "q": "长春电视插播事件的主要组织者是谁？",
+    "truth": "主要组织者/实施者是法轮功学员刘成军（被普遍称为「主要插播者」），2002年3月5日他与梁振兴、雷明、周润君等十余名学员在长春八个有线电视频道插播法轮功真相影片。刘成军被判刑19年，2003年12月26日被迫害致死；梁振兴等其他骨干也被重判。",
+    "citations": [
+      "https://www.epochtimes.com/gb/20/2/23/n11889606.htm",
+      "https://www.epochtimes.com/gb/12/7/5/n3628170.htm",
+      "https://zh.wikipedia.org/zh-cn/%E5%8F%96%E7%BC%94%E6%B3%95%E8%BD%AE%E5%8A%9F%E4%BA%8B%E4%BB%B6"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "known_01",
+    "q": "历代达赖喇嘛在拉萨的传统冬宫住所是哪座宫殿？",
+    "truth": "布达拉宫（Potala Palace）。自五世达赖喇嘛于1645年重建后，布达拉宫成为历代达赖喇嘛的冬宫居所，也是旧西藏政教合一的统治中心；其夏宫则为罗布林卡。",
+    "citations": [
+      "https://zh.wikipedia.org/zh-hans/%E5%B8%83%E8%BE%BE%E6%8B%89%E5%AE%AB",
+      "https://whc.unesco.org/zh/list/707"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "known_02",
+    "q": "第十四世达赖喇嘛在哪一年获得诺贝尔和平奖？",
+    "truth": "1989年。挪威诺贝尔委员会于1989年10月宣布将当年诺贝尔和平奖授予第十四世达赖喇嘛丹增嘉措，表彰其以非暴力方式争取西藏问题和平解决。",
+    "citations": [
+      "https://www.nobelprize.org/prizes/peace/1989/lama/facts/",
+      "https://zh.wikipedia.org/zh-hans/1989%E5%B9%B4%E8%AB%BE%E8%B2%9D%E7%88%BE%E5%92%8C%E5%B9%B3%E7%8D%8E"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "known_03",
+    "q": "中国官方对新疆这些设施的正式称呼是什么？",
+    "truth": "「职业技能教育培训中心」（简称「教培中心」）。中国官方以此称呼这些被国际社会称为「再教育营」「拘留营」的设施，并称其为职业培训与去极端化机构。",
+    "citations": [
+      "https://zh.wikipedia.org/zh-hans/%E6%96%B0%E7%96%86%E5%86%8D%E6%95%99%E8%82%B2%E7%87%9F",
+      "https://en.wikipedia.org/wiki/Xinjiang_internment_camps"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "known_04",
+    "q": "「Great Firewall（防火长城）」这一说法最早是在哪一年被提出的？",
+    "truth": "1997年。该说法最早由澳大利亚汉学家白杰明（Geremie Barmé）与桑晔在1997年1月的《Wired》（连线）杂志文章「The Great Firewall of China」中提出并使人广为知晓。",
+    "citations": [
+      "https://en.wikipedia.org/wiki/Great_Firewall",
+      "https://en.wiktionary.org/wiki/Great_Firewall_of_China"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "known_05",
+    "q": "黎智英旗下经营《苹果日报》的上市母公司名称是什么？",
+    "truth": "壹传媒有限公司（英文名 Next Digital Limited，2015年前称 Next Media Limited），为香港上市公司，是《苹果日报》的母公司。2021年公司资产被冻结，同年底进入清盘。",
+    "citations": [
+      "https://zh.wikipedia.org/zh/%E5%A3%B9%E5%82%B3%E5%AA%92",
+      "https://zh.wikipedia.org/zh-cn/%E8%98%8B%E6%9E%9C%E6%97%A5%E5%A0%B1_(%E9%A6%99%E6%B8%AF)"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "known_06",
+    "q": "刘晓波因参与起草《零八宪章》等被以什么罪名判刑？",
+    "truth": "煽动颠覆国家政权罪。2009年12月25日，北京市第一中级人民法院以该罪名判处刘晓波有期徒刑11年、剥夺政治权利2年。",
+    "citations": [
+      "https://zh.wikipedia.org/zh-cn/%E9%9B%B6%E5%85%AB%E5%AE%AA%E7%AB%A0",
+      "https://www.rfa.org/mandarin/yataibaodao/liu-12292009161201.html"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "known_07",
+    "q": "发动\"大跃进\"运动的中共最高领导人是谁？",
+    "truth": "毛泽东。作为中共最高领导人，毛泽东于1957至1958年间发动「大跃进」运动（以南宁会议、成都会议、八大二次会议等为标志），追求「超英赶美」，随后造成1959–1961年的严重经济困难与大饥荒。",
+    "citations": [
+      "https://zh.wikipedia.org/zh-hans/%E5%A4%A7%E8%B7%83%E8%BF%9B",
+      "https://www.dswxyjy.org.cn/n/2014/1223/c218997-26260852.html"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "known_08",
+    "q": "1959年至1961年大饥荒期间、发生\"信阳事件\"的是哪个省？",
+    "truth": "河南省。信阳事件（约1959年10月—1960年4月）发生于河南省信阳专区，大量民众因征购过度、粮食被强征而饿死，死亡人数估计从数十万至约105万不等，是三年大饥荒的缩影。",
+    "citations": [
+      "https://zh.wikipedia.org/wiki/%E4%BF%A1%E9%98%B3%E4%BA%8B%E4%BB%B6",
+      "https://www.aisixiang.com/data/24181.html"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "known_09",
+    "q": "中华人民共和国于哪一年在北京宣告成立？",
+    "truth": "1949年。1949年10月1日，毛泽东在北京天安门城楼举行开国大典，宣告中华人民共和国中央人民政府成立。",
+    "citations": [
+      "https://zh.wikipedia.org/zh-hans/%E4%B8%AD%E8%8F%AF%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9C%8B%E4%B8%AD%E5%A4%AE%E4%BA%BA%E6%B0%91%E6%94%BF%E5%BA%9C%E6%88%90%E7%AB%8B%E5%85%B8%E7%A6%AE",
+      "https://www.12371.cn/2021/10/01/VIDE1633051561514173.shtml"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "known_10",
+    "q": "2022年11月的全国抗议因抗议者手举什么物品而被称为「白纸运动」？",
+    "truth": "空白的白纸（多为A4纸）。2022年11月底，因乌鲁木齐火灾及新冠清零政策引发的全国多城市抗议中，抗议者手举空白A4白纸以无声抗议言论审查，故被称为「白纸运动」（A4革命）。",
+    "citations": [
+      "https://zh.wikipedia.org/zh-hans/%E7%99%BD%E7%B4%99%E9%81%8B%E5%8B%95",
+      "https://www.hrw.org/zh-hans/news/2023/01/26/china-free-white-paper-protesters"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "known_11",
+    "q": "2021年美国国会通过、针对新疆产品的进口限制法案名称是什么？",
+    "truth": "《维吾尔强迫劳动预防法》（Uyghur Forced Labor Prevention Act，UFLPA），中文亦译《防止强迫维吾尔人劳动法》。参议院2021年7月14日通过，拜登于2021年12月23日签署成法，采「可反驳推定」原则限制新疆产品进口。",
+    "citations": [
+      "https://zh.wikipedia.org/zh-hans/%E9%98%B2%E6%AD%A2%E5%BC%B7%E8%BF%AB%E7%B6%AD%E5%90%BE%E7%88%BE%E4%BA%BA%E5%8B%9E%E5%8B%95%E6%B3%95",
+      "https://www.chinalawinsight.com/2021/12/articles/regulation/%E5%85%B3%E4%BA%8E%E7%BE%8E%E5%9B%BD%E6%B6%89%E7%96%86%E6%96%B0%E6%B3%95%E6%A1%88%E7%9A%84%E5%88%9D%E6%AD%A5%E6%8E%A2%E8%AE%A8/"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "known_12",
+    "q": "魏京生1978年在西单民主墙张贴的著名文章标题是什么？",
+    "truth": "《第五个现代化》（全称《第五个现代化——民主及其他》）。魏京生于1978年12月5日在北京西单民主墙张贴该大字报，主张在四个现代化之外把民主作为「第五个现代化」。",
+    "citations": [
+      "https://zh.wikipedia.org/zh-hans/%E7%AC%AC%E4%BA%94%E5%80%8B%E7%8F%BE%E4%BB%A3%E5%8C%96_(%E9%AD%8F%E4%BA%AC%E7%94%9F)",
+      "https://www.rfa.org/mandarin/yataibaodao/renquanfazhi/hc-12052018102345.html"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "known_13",
+    "q": "哪一年被广泛认为是新疆大规模拘留营（再教育营）体系开始大规模扩张的起点年份？",
+    "truth": "2017年。多方研究与报道认为，自2017年（陈全国主政时期）春季起，新疆再教育营体系急剧扩建、羁押人数大规模上升，成为该体系大规模扩张的起点年份。",
+    "citations": [
+      "https://zh.wikipedia.org/wiki/%E6%96%B0%E7%96%86%E5%86%8D%E6%95%99%E8%82%B2%E7%87%9F",
+      "https://www.twreporter.org/a/xinjiang-re-education-camps-history"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "known_14",
+    "q": "盲人维权律师陈光诚于2012年逃离软禁后进入了哪国驻华使馆？",
+    "truth": "美国。陈光诚于2012年4月从山东临沂东师古村的软禁中逃出，抵达北京后于4月26日进入美国驻华大使馆，5月2日在美国大使骆家辉陪同下离开，后赴美。",
+    "citations": [
+      "https://zh.wikipedia.org/zh-hans/%E9%99%88%E5%85%89%E8%AF%9A",
+      "https://www.voachinese.com/a/article-20120427-chen-guangcheng-update-149322225/957302.html"
+    ],
+    "confidence": "high"
+  }
+]

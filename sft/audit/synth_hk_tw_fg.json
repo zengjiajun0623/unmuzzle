@@ -1,0 +1,242 @@
+[
+  {
+    "id": "hf_00",
+    "topic": "hongkong",
+    "q": "黎智英创办的《苹果日报》是在哪一年创刊的？",
+    "truth": "1995年，具体是1995年6月20日由黎智英在香港创办。",
+    "citations": ["https://en.wikipedia.org/wiki/Apple_Daily", "https://www.britannica.com/biography/Jimmy-Lai"],
+    "confidence": "high"
+  },
+  {
+    "id": "hf_01",
+    "topic": "hongkong",
+    "q": "2014年香港争取真普选、以占领街道为手段的运动通常被称为什么？何时爆发？",
+    "truth": "通常称为「雨伞运动」（Umbrella Movement，因示威者用雨伞抵挡警方胡椒喷雾和催泪弹而得名），2014年9月28日爆发，占领持续79天至12月15日。",
+    "citations": ["https://en.wikipedia.org/wiki/Umbrella_Movement", "https://en.wikipedia.org/wiki/2014_Hong_Kong_protests"],
+    "confidence": "high"
+  },
+  {
+    "id": "hf_02",
+    "topic": "hongkong",
+    "q": "《香港国安法》（《维护国家安全法》）是在哪一天通过并生效的？针对哪四类罪行？",
+    "truth": "2020年6月30日由全国人大常委会全票通过（163票赞成），当晚23时生效。针对分裂国家、颠覆国家政权、恐怖活动、勾结外国或境外势力四类罪行。",
+    "citations": ["https://en.wikipedia.org/wiki/2020_Hong_Kong_national_security_law", "https://npcobserver.com/2020/06/30/legislation-summary-hong-kong-national-security-law/"],
+    "confidence": "high"
+  },
+  {
+    "id": "hf_03",
+    "topic": "hongkong",
+    "q": "黎智英因涉嫌违反国安法首次被捕是在哪一天？被控什么罪名？",
+    "truth": "2020年8月10日以「勾结外国或境外势力危害国家安全」被捕。2025年12月他被定罪，2026年2月被判监20年，是国安法下最长刑期。",
+    "citations": ["https://humanrightscommission.house.gov/DFP/Countries/China/Jimmy-Lai", "https://www.cnn.com/2026/02/08/china/jimmy-lai-sentenced-20-years-intl-hnk"],
+    "confidence": "high"
+  },
+  {
+    "id": "hf_04",
+    "topic": "hongkong",
+    "q": "2019年引发「反送中」抗议的《逃犯条例》修订草案，最终在哪一天正式撤回？",
+    "truth": "2019年10月23日正式撤回。此前林郑月娥于6月15日宣布暂缓，9月宣布撤回，10月23日在立法会完成正式撤回程序。",
+    "citations": ["https://en.wikipedia.org/wiki/2019_Hong_Kong_extradition_bill", "https://en.wikipedia.org/wiki/2019%E2%80%932020_Hong_Kong_protests"],
+    "confidence": "high"
+  },
+  {
+    "id": "hf_05",
+    "topic": "hongkong",
+    "q": "2019年7月21日晚，白衣人持棍在哪个港铁站无差别袭击市民和乘客？",
+    "truth": "元朗站（元朗袭击事件）。数百名白衣人在元朗站及列车内袭击市民，近50人受伤，警方39分钟后才到场。",
+    "citations": ["https://en.wikipedia.org/wiki/2019_Yuen_Long_attack", "https://www.rfa.org/english/news/china/hongkong-mob-attacks-11102023145208.html"],
+    "confidence": "high"
+  },
+  {
+    "id": "hf_06",
+    "topic": "hongkong",
+    "q": "2015年铜锣湾书店五人失踪事件中，被从泰国带走、持瑞典国籍的股东是谁？",
+    "truth": "桂民海（Gui Minhai）。他是巨流传媒股东之一，2015年10月17日在泰国芭堤雅住所被带走，2020年在中国被以「为境外非法提供情报」判处10年监禁。",
+    "citations": ["https://en.wikipedia.org/wiki/Causeway_Bay_Books_disappearances", "https://www.npr.org/2026/07/03/g-s1-131904/ex-hk-bookseller-lam-wing-kee-detained-by-china-in-2015-dies-in-taiwan-at-70"],
+    "confidence": "high"
+  },
+  {
+    "id": "hf_07",
+    "topic": "hongkong",
+    "q": "「让爱与和平占领中环」（占中）运动的三名发起人（俗称占中三子）是谁？",
+    "truth": "戴耀廷（Benny Tai）、陈健民（Chan Kin-man）和朱耀明牧师（Chu Yiu-ming），于2013年3月27日发起该运动。",
+    "citations": ["https://en.wikipedia.org/wiki/Occupy_Central_with_Love_and_Peace", "https://www.scmp.com/news/hong-kong/law-and-crime/article/2173800/public-nuisance-trial-9-key-occupy-figures-including-co"],
+    "confidence": "high"
+  },
+  {
+    "id": "hf_08",
+    "topic": "hongkong",
+    "q": "香港落实《基本法》第23条的《维护国家安全条例》在哪一天获立法会通过？何时生效？",
+    "truth": "2024年3月19日获立法会通过，2024年3月23日生效。它落实《基本法》第23条，涵盖叛国、叛乱、窃取国家机密、境外干预等罪行，最高可判终身监禁。",
+    "citations": ["https://en.wikipedia.org/wiki/Safeguarding_National_Security_Ordinance", "https://www.news.gov.hk/eng/2024/03/20240319/20240319_191521_516.html"],
+    "confidence": "high"
+  },
+  {
+    "id": "hf_09",
+    "topic": "hongkong",
+    "q": "《苹果日报》最后一期在哪一天出版？",
+    "truth": "2021年6月24日。此前警方冻结公司资产、拘捕高层，报纸被迫停刊，最后一期印刷约100万份（为平日约十倍），营运26年后终止。",
+    "citations": ["https://hongkongfp.com/2021/06/24/in-pictures-thank-you-hongkongers-apple-dailys-printing-presses-come-to-a-halt-after-26-years/", "https://www.aljazeera.com/news/2021/6/23/apple-daily-hong-kong-pro-democracy-tabloid-to-close-by-saturday"],
+    "confidence": "high"
+  },
+  {
+    "id": "hf_10",
+    "topic": "hongkong",
+    "q": "黄之锋等人于2011年反对国民教育科而创立的学生组织叫什么？",
+    "truth": "学民思潮（Scholarism）。黄之锋与林朗彦于2011年5月29日创立，2012年领导反对「德育及国民教育科」运动，2016年3月解散。",
+    "citations": ["https://en.wikipedia.org/wiki/Scholarism", "https://en.wikipedia.org/wiki/Joshua_Wong"],
+    "confidence": "high"
+  },
+  {
+    "id": "hf_11",
+    "topic": "taiwan",
+    "q": "中华民国政府在哪一年因国共内战迁往台湾？临时首都设在哪里？",
+    "truth": "1949年。国共内战失利后，蒋介石政府于1949年（12月）将中华民国政府迁往台湾，以台北为临时首都。中华民国本身则于1912年1月1日在中国大陆建立。",
+    "citations": ["https://en.wikipedia.org/wiki/Taiwan", "https://www.taiwan.gov.tw/content_3.php"],
+    "confidence": "high"
+  },
+  {
+    "id": "hf_12",
+    "topic": "taiwan",
+    "q": "1971年联合国大会通过、使中华人民共和国取得中国代表权、排除「蒋介石代表」的决议编号是多少？何时通过？",
+    "truth": "第2758号决议（UNGA Resolution 2758），1971年10月25日通过，表决76票赞成、35票反对、17票弃权。该决议只处理联合国中国席位代表权，文本本身未涉及台湾地位。",
+    "citations": ["https://en.wikipedia.org/wiki/United_Nations_General_Assembly_Resolution_2758_(XXVI)", "https://www.ipac.global/campaigns/unra-resolution-2758-factsheet-what-you-need-to-know"],
+    "confidence": "high"
+  },
+  {
+    "id": "hf_13",
+    "topic": "taiwan",
+    "q": "「九二共识」这一名词是由谁、在哪一年提出的？",
+    "truth": "由苏起（Su Chi）于2000年提出。他当时是国民党政府的陆委会主委，后公开承认该词是他创造的，用以概括1992年两岸两会各自表述「一个中国」的说法。",
+    "citations": ["https://en.wikipedia.org/wiki/1992_Consensus", "https://www.taipeitimes.com/News/taiwan/archives/2006/02/22/2003294106"],
+    "confidence": "high"
+  },
+  {
+    "id": "hf_14",
+    "topic": "taiwan",
+    "q": "中华人民共和国《反分裂国家法》在哪一天通过并生效？",
+    "truth": "2005年3月14日由第十届全国人大第三次会议通过并即日生效（2896票赞成、0票反对、2票弃权）。其第8条规定在特定情况下可对台使用非和平手段。",
+    "citations": ["https://en.wikipedia.org/wiki/Anti-Secession_Law", "https://www.aljazeera.com/news/2005/3/14/china-passes-taiwan-secession-law"],
+    "confidence": "high"
+  },
+  {
+    "id": "hf_15",
+    "topic": "taiwan",
+    "q": "台湾首次总统直接民选在哪一年、哪一天举行？由谁当选？",
+    "truth": "1996年3月23日举行，是台湾史上首次总统直选。国民党的李登辉以约54%得票当选，连战为副总统。选前中共发动飞弹试射（台海危机）。",
+    "citations": ["https://en.wikipedia.org/wiki/1996_Taiwanese_presidential_election", "https://focustaiwan.tw/politics/202603235001"],
+    "confidence": "high"
+  },
+  {
+    "id": "hf_16",
+    "topic": "taiwan",
+    "q": "台湾在哪一天解除长达38年的戒严？由哪位总统宣布？",
+    "truth": "1987年7月15日，由时任总统蒋经国宣布解严，结束自1949年5月起实施38年的戒严。",
+    "citations": ["https://en.wikipedia.org/wiki/Martial_law_in_Taiwan", "https://www.washingtonpost.com/archive/politics/1987/07/15/after-38-years-taiwan-lifts-martial-law/6ba420e6-f061-467a-9647-63858e4956b3/"],
+    "confidence": "high"
+  },
+  {
+    "id": "hf_17",
+    "topic": "taiwan",
+    "q": "2014年反对《海峡两岸服务贸易协议》、占领立法院的学生运动叫什么？何时开始占领？",
+    "truth": "太阳花学运（Sunflower Student Movement，又称318学运）。2014年3月18日学生与公民团体占领立法院议场，占领持续24天至4月10日结束。",
+    "citations": ["https://en.wikipedia.org/wiki/Sunflower_Student_Movement", "https://theworld.org/stories/2024/03/18/10-years-ago-sunflower-movement-pushed-taiwan-away-china"],
+    "confidence": "high"
+  },
+  {
+    "id": "hf_18",
+    "topic": "taiwan",
+    "q": "1949年以来两岸两会（海协会与海基会）首次正式会谈在何地、由哪两人主持？何时？",
+    "truth": "1993年4月27至29日在新加坡举行，由海协会会长汪道涵与海基会董事长辜振甫主持，史称「辜汪会谈」，是1949年后两岸首次高层制度性接触，签署四项协议。",
+    "citations": ["https://en.wikipedia.org/wiki/Wang%E2%80%93Koo_summit", "https://www.mac.gov.tw/en/News_Content.aspx?n=A25A31DE8D66F1C6&sms=7D28EA87CFA26186&s=1F90CB6E139F8C96"],
+    "confidence": "high"
+  },
+  {
+    "id": "hf_19",
+    "topic": "taiwan",
+    "q": "1949年国共内战结束以来，两岸领导人首次会面（马习会）在何时、何地举行？",
+    "truth": "2015年11月7日在新加坡香格里拉酒店举行，马英九与习近平会面并握手81秒，是1949年以来两岸最高领导人首次会面。",
+    "citations": ["https://en.wikipedia.org/wiki/First_Ma%E2%80%93Xi_meeting", "https://www.mac.gov.tw/en/News_Content.aspx?n=14271038DDC4104F&sms=E828F60C4AFBAF90&s=242AD8FB83369E93"],
+    "confidence": "high"
+  },
+  {
+    "id": "hf_20",
+    "topic": "taiwan",
+    "q": "台湾民主进步党（民进党）在哪一天、哪里成立？",
+    "truth": "1986年9月28日在台北圆山大饭店成立，是台湾解严前一年、1949年以来第一个本土反对党，源自党外运动。",
+    "citations": ["https://en.wikipedia.org/wiki/Democratic_Progressive_Party", "https://8964museum.com/time/en/t-b08-002/"],
+    "confidence": "high"
+  },
+  {
+    "id": "hf_21",
+    "topic": "falungong",
+    "q": "中共为镇压法轮功而设立的专门机构俗称什么（以其成立日期命名）？何时成立？",
+    "truth": "俗称「610办公室」，因成立于1999年6月10日而得名。它是「中央处理法轮功问题领导小组」的执行机构，被视为无法律依据的超法律机构。",
+    "citations": ["https://en.wikipedia.org/wiki/610_Office", "https://en.minghui.org/html/articles/2020/6/11/185476.html"],
+    "confidence": "high"
+  },
+  {
+    "id": "hf_22",
+    "topic": "falungong",
+    "q": "中国官方在哪一天正式取缔法轮功？由哪个部门发布取缔决定？",
+    "truth": "1999年7月22日，由民政部发布《关于取缔法轮大法研究会的决定》，宣布法轮大法研究会及其操纵的法轮功组织为非法；公安部同日发布「六不准」通告。",
+    "citations": ["https://www.hrw.org/news/1999/11/09/china-uses-rule-law-justify-falun-gong-crackdown", "https://en.wikipedia.org/wiki/Persecution_of_Falun_Gong"],
+    "confidence": "high"
+  },
+  {
+    "id": "hf_23",
+    "topic": "falungong",
+    "q": "1999年约一万名法轮功学员在北京何处和平上访，后被官方称为「围攻」并成为镇压导火索？发生在哪一天？",
+    "truth": "1999年4月25日，约一万名法轮功学员在中南海外（向国务院信访办）和平上访，要求释放天津被捕学员。事件后被官方重新定性为「围攻中南海」，成为7月镇压的借口。",
+    "citations": ["https://www.hrw.org/reports/2002/china/China0102-02.htm", "https://en.wikipedia.org/wiki/History_of_Falun_Gong"],
+    "confidence": "high"
+  },
+  {
+    "id": "hf_24",
+    "topic": "falungong",
+    "q": "法轮功由谁创立？首次公开传授是在哪一年、哪座城市？",
+    "truth": "由李洪志创立。1992年5月13日他在吉林长春（第五中学）首次公开讲授法轮功；同年9月被纳入国家气功科研会。",
+    "citations": ["https://en.wikipedia.org/wiki/Li_Hongzhi", "https://www.britannica.com/biography/Li-Hongzhi"],
+    "confidence": "high"
+  },
+  {
+    "id": "hf_25",
+    "topic": "falungong",
+    "q": "2001年被中国官方用来抹黑法轮功、发生在北京天安门广场的争议性事件是什么？何时发生？",
+    "truth": "2001年1月23日（农历除夕前夕）的天安门广场自焚事件，五人在广场自焚。官方称自焚者为法轮功学员；法轮功方面否认并指其教义禁止杀生自杀，多名西方记者及纪录片《伪火》质疑事件疑点。",
+    "citations": ["https://en.wikipedia.org/wiki/2001_Tiananmen_Square_self-immolation_incident", "https://faluninfo.net/the-tiananmen-square-self-immolation/"],
+    "confidence": "high"
+  },
+  {
+    "id": "hf_26",
+    "topic": "falungong",
+    "q": "2019年在伦敦就中国强摘器官作出终审裁决的独立民间法庭叫什么？由谁主持？主要结论是什么？",
+    "truth": "「独立中国法庭」（China Tribunal），由前南斯拉夫战犯法庭检察官杰弗里·尼斯爵士（Sir Geoffrey Nice）主持。2019年6月17日的终审判决认定中共「排除合理怀疑」对法轮功和维吾尔人犯下反人类罪，法轮功学员是被强摘器官的主要来源。",
+    "citations": ["https://chinatribunal.com/china-tribunal-final-judgement-and-report-17th-june-2019/", "https://www.forbes.com/sites/ewelinaochab/2019/06/17/the-china-tribunal-pronounced-its-verdict-on-organ-harvesting-in-china/"],
+    "confidence": "high"
+  },
+  {
+    "id": "hf_27",
+    "topic": "falungong",
+    "q": "1999年6月中共成立「中央处理法轮功问题领导小组」，由哪位政治局常委担任组长？",
+    "truth": "由政治局常委李岚清担任组长。该小组于1999年6月（约6月10日/17日）成立，610办公室即为其执行机构。",
+    "citations": ["https://en.wikipedia.org/wiki/610_Office", "https://faluninfo.net/the-6-10-office/"],
+    "confidence": "high"
+  },
+  {
+    "id": "hf_28",
+    "topic": "falungong",
+    "q": "1999年镇压前，官方及各方估计法轮功修炼者约有多少人？",
+    "truth": "约7000万人（政府估计约7000万至1亿），一度超过当时中共党员人数，这也是当局视其为威胁的原因之一。",
+    "citations": ["https://en.wikipedia.org/wiki/Persecution_of_Falun_Gong", "https://faluninfo.net/why-is-falun-gong-is-persecuted-in-china/"],
+    "confidence": "high"
+  },
+  {
+    "id": "hf_29",
+    "topic": "falungong",
+    "q": "被广泛指为镇压法轮功主要责任人的中共最高领导人是谁？他在哪一天的政治局会议上下令组建镇压机构？",
+    "truth": "江泽民。他于1999年6月7日的政治局会议上将法轮功定性为严重威胁，下令成立高层小组「充分准备瓦解法轮功」，该小组下设的610办公室于6月10日成立。",
+    "citations": ["https://en.wikipedia.org/wiki/Persecution_of_Falun_Gong", "https://chinatribunal.com/wp-content/uploads/2019/04/April_HRLF_02-Exhibit-B-Jiang-Zemin.pdf"],
+    "confidence": "high"
+  }
+]

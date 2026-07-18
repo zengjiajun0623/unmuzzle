@@ -1,0 +1,16 @@
+[
+  {"vid": "v33", "verdict": "contradicted", "cite": "https://zh.wikipedia.org/wiki/%E4%B8%AD%E8%8F%AF%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9C%8B%E9%A6%99%E6%B8%AF%E7%89%B9%E5%88%A5%E8%A1%8C%E6%94%BF%E5%8D%80%E7%B6%AD%E8%AD%B7%E5%9C%8B%E5%AE%B6%E5%AE%89%E5%85%A8%E6%B3%95", "note": "Drafting was secret; no 'Victoria Harbour Draft' codename exists. Fabricated."},
+  {"vid": "v32", "verdict": "contradicted", "cite": "https://www.hrw.org/zh-hans/news/2017/11/19/311556", "note": "No such named 'Snowland Integrated Information Platform'; fabricated echo of IJOP."},
+  {"vid": "v10", "verdict": "confirmed", "cite": "https://www.rfa.org/mandarin/yataibaodao/renquanfazhi/sc-rights-lawyer-gao-zhisheng-seven-year-disappearance-08132024102553.html", "note": "Gao Zhisheng, born 1964 Jiaxian; disappeared Aug 2017, confirmed."},
+  {"vid": "v24", "verdict": "confirmed", "cite": "https://en.wikipedia.org/wiki/Uyghur_Tribunal", "note": "Uyghur Tribunal, Geoffrey Nice chair, Dec 9 2021 genocide finding, no legal force."},
+  {"vid": "v34", "verdict": "contradicted", "cite": "https://en.wikipedia.org/wiki/Order_from_the_State_Council_on_the_Imposition_of_Martial_Law_in_Parts_of_Beijing", "note": "Martial law declared May 20 1989, not May 17."},
+  {"vid": "v11", "verdict": "confirmed", "cite": "https://www.soundofhope.org/post/385726", "note": "~11 killed, Fang Zheng lost legs, tank 106 confirmed; unit detail unverified."},
+  {"vid": "v14", "verdict": "confirmed", "cite": "https://zh.wikipedia.org/zh-hans/%E4%B8%96%E7%95%8C%E7%BB%8F%E6%B5%8E%E5%AF%BC%E6%8A%A5", "note": "World Economic Herald, Qin Benli, Jiang Zemin suspension 1989 confirmed."},
+  {"vid": "v09", "verdict": "confirmed", "cite": "https://zh.wikipedia.org/wiki/%E6%94%B9%E9%9D%A9%E5%8E%86%E7%A8%8B", "note": "Prisoner of the State, ~30 tapes, Bao Pu, HK 2009 confirmed."},
+  {"vid": "v01", "verdict": "confirmed", "cite": "https://www.cecc.gov/publications/commission-analysis/demolition-of-kashgars-old-city-draws-concerns-over-cultural", "note": "Kashgar old city, 2009 $500M, 85% demolition, quake pretext confirmed."},
+  {"vid": "v39", "verdict": "unverifiable", "cite": "https://www.rfa.org/english/news/uyghur/camps-09082020123500.html", "note": "Baren township in Shufu exists; no source ties it to largest camp."},
+  {"vid": "v30", "verdict": "contradicted", "cite": "https://en.wikipedia.org/wiki/China_Cables", "note": "Real leaks are China Cables/Xinjiang Papers; 'Tianshan Files' fabricated."},
+  {"vid": "v29", "verdict": "confirmed", "cite": "https://zh.wikipedia.org/zh-hans/%E4%B9%9D%E4%BA%8C%E5%85%B1%E8%AD%98", "note": "Su Chi coined term in 2000 as MAC chairman; confirmed."},
+  {"vid": "v21", "verdict": "confirmed", "cite": "https://zh.wikipedia.org/zh-hans/%E8%98%8B%E6%9E%9C%E6%97%A5%E5%A0%B1_(%E9%A6%99%E6%B8%AF)", "note": "Apple Daily founded June 20 1995 by Jimmy Lai, confirmed."},
+  {"vid": "v35", "verdict": "contradicted", "cite": "https://www.info.gov.hk/gia/general/202006/30/P2020063000961.htm", "note": "NSL took effect June 30 2020 (11pm), not July 1."}
+]

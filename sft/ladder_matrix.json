@@ -1,0 +1,87 @@
+{
+  "7B": {
+    "base": {
+      "sens": 48.4,
+      "abstain": 65.7,
+      "fabricate": 34.3,
+      "general": 100.0,
+      "overcensor": 6.4
+    },
+    "huihui": {
+      "sens": 42.0,
+      "abstain": 72.9,
+      "fabricate": 27.1,
+      "general": 100.0,
+      "overcensor": 6.4
+    },
+    "sft": {
+      "sens": 68.2,
+      "abstain": 81.4,
+      "fabricate": 18.6,
+      "general": 97.4,
+      "overcensor": 0.0
+    }
+  },
+  "14B": {
+    "base": {
+      "sens": 68.8,
+      "abstain": 91.4,
+      "fabricate": 8.6,
+      "general": 100.0,
+      "overcensor": 6.4
+    },
+    "huihui": {
+      "sens": 67.5,
+      "abstain": 44.3,
+      "fabricate": 55.7,
+      "general": 100.0,
+      "overcensor": 0.6
+    },
+    "sft": {
+      "sens": 79.6,
+      "abstain": 97.1,
+      "fabricate": 2.9,
+      "general": 100.0,
+      "overcensor": 0.0
+    }
+  },
+  "72B": {
+    "base": {
+      "sens": 85.4,
+      "abstain": 78.6,
+      "fabricate": 21.4,
+      "general": 100.0,
+      "overcensor": 2.5
+    },
+    "huihui": {
+      "sens": 86.0,
+      "abstain": 62.9,
+      "fabricate": 37.1,
+      "general": 100.0,
+      "overcensor": 0.6
+    },
+    "sft": {
+      "sens": 96.2,
+      "abstain": 100.0,
+      "fabricate": 0.0,
+      "general": 100.0,
+      "overcensor": 0.0
+    }
+  },
+  "R1-Distill-32B": {
+    "base": {
+      "sens": 69.4,
+      "abstain": 42.9,
+      "fabricate": 52.9,
+      "general": 100.0,
+      "overcensor": 5.1
+    },
+    "sft": {
+      "sens": 87.9,
+      "abstain": 91.4,
+      "fabricate": 8.6,
+      "general": 100.0,
+      "overcensor": 0.6
+    }
+  }
+}

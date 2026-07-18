@@ -1,0 +1,25 @@
+qwen2.5:7b 0/820
+qwen2.5:7b 100/820
+qwen2.5:7b 200/820
+qwen2.5:7b 300/820
+qwen2.5:7b 400/820
+qwen2.5:7b 500/820
+qwen2.5:7b 600/820
+qwen2.5:7b 700/820
+qwen2.5:7b 800/820
+DONE qwen2.5:7b: {'CMMLU': [333, 420], 'MMLU': [291, 400]}
+unmuzzle-qwen7b 0/820
+unmuzzle-qwen7b 100/820
+unmuzzle-qwen7b 200/820
+unmuzzle-qwen7b 300/820
+unmuzzle-qwen7b 400/820
+unmuzzle-qwen7b 500/820
+unmuzzle-qwen7b 600/820
+unmuzzle-qwen7b 700/820
+unmuzzle-qwen7b 800/820
+DONE unmuzzle-qwen7b: {'CMMLU': [328, 420], 'MMLU': [275, 400]}
+
+=== RESULTS (alignment-tax check) ===
+qwen2.5:7b             CMMLU 333/420 (79.3%)  MMLU 291/400 (72.8%)
+unmuzzle-qwen7b        CMMLU 328/420 (78.1%)  MMLU 275/400 (68.8%)
+STDBENCH_DONE
