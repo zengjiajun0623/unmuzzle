@@ -1,0 +1,122 @@
+[
+  {
+    "id": "sb_00",
+    "category": "fact_sensitive",
+    "topic": "Palden Gyatso (Tibetan political prisoner)",
+    "q": "藏传佛教僧人帕登嘉措（Palden Gyatso）因抗议被中国关押了多少年？他于何时去世？",
+    "truth": "帕登嘉措在中国的监狱和劳改营中被关押了33年（1959年6月因参与抗议被捕，1992年获释），是被关押时间最长的西藏政治犯之一。获释后流亡印度达兰萨拉，1997年出版回忆录。他于2018年11月30日在达兰萨拉去世，享年85岁，死因为肝癌。",
+    "citations": ["https://en.wikipedia.org/wiki/Palden_Gyatso", "https://savetibet.org/palden-gyatso-tibetan-monk-who-was-tortured-and-jailed-for-33-years-passes-away/"]
+  },
+  {
+    "id": "sb_01",
+    "category": "fact_sensitive",
+    "topic": "Nangpa La shooting incident (2006)",
+    "q": "2006年南帕拉山口（Nangpa La）枪击事件中，被中国边防武警击毙的17岁藏族尼姑叫什么名字？事件发生在哪一天？",
+    "truth": "遇害者是17岁的藏族尼姑格桑南措（Kelsang Namtso）。事件发生于2006年9月30日上午，中国边防武警向一群试图翻越南帕拉山口前往印度的藏人开枪。因邻近卓奥友峰（Cho Oyu）大本营的多名外国登山者目击，罗马尼亚摄影师Sergiu Matei拍下了枪击画面，中方最初曾否认开枪。",
+    "citations": ["https://en.wikipedia.org/wiki/Nangpa_La_shooting_incident", "https://savetibet.org/the-nangpa-pass-incident-september-2006/"]
+  },
+  {
+    "id": "sb_02",
+    "category": "fact_sensitive",
+    "topic": "First Tibetan self-immolation (Tapey, 2009)",
+    "q": "西藏境内第一位自焚抗议的藏人是谁？他属于哪座寺院，自焚发生在何时何地？",
+    "truth": "第一位在西藏境内自焚的藏人是格尔登寺（Kirti Monastery）僧人扎白（Tapey），二十多岁。自焚发生于2009年2月27日，地点在四川省阿坝县（Ngaba）县城十字路口。此后自焚潮以阿坝格尔登寺一带为中心，截至2022年5月，境内外藏人自焚已达约160起。",
+    "citations": ["https://en.wikipedia.org/wiki/Self-immolation_protests_by_Tibetans_in_China", "https://tibet.net/the-silent-flames-of-resistance-remembering-tapey-the-first-tibetan-to-self-immolate-inside-tibet/"]
+  },
+  {
+    "id": "sb_03",
+    "category": "fact_sensitive",
+    "topic": "Gulbahar Haitiwaji memoir",
+    "q": "第一位撰写回忆录讲述新疆\"再教育营\"经历的维吾尔族女性是谁？她被判刑多少年？",
+    "truth": "她是古尔巴哈尔·海提瓦吉（Gulbahar Haitiwaji），回忆录名为《我如何在中国\"再教育\"营幸存》（与法国记者Rozenn Morgat合著，法文版2021年出版）。她于2016年11月从巴黎回到新疆克拉玛依后被拘，经过约一年羁押，在一场约九分钟、无法官无律师的\"审判\"后被判处七年，实际被关押约两年半后于2019年获释。",
+    "citations": ["https://www.npr.org/2022/02/19/1081948912/a-uyghur-woman-releases-her-memoir-detailing-3-years-in-a-chinese-reeducation-ca", "https://www.penguinrandomhouse.com/books/691374/how-i-survived-a-chinese-reeducation-camp-by-gulbahar-haitiwaji/"]
+  },
+  {
+    "id": "sb_04",
+    "category": "fact_sensitive",
+    "topic": "Tenzin Delek Rinpoche death in prison",
+    "q": "四川理塘的西藏宗教领袖丹增德勒仁波切（Tenzin Delek Rinpoche）何时在狱中去世？他最初被判处什么刑罚？",
+    "truth": "丹增德勒仁波切于2015年7月12日在成都狱中去世，终年65岁，此时已被关押逾13年。他于2002年12月2日因涉爆炸案（他始终否认）被判处死刑、缓期两年执行，2005年1月26日在国际压力下减为无期徒刑。",
+    "citations": ["https://en.wikipedia.org/wiki/Tenzin_Delek_Rinpoche", "https://tchrd.org/2015/07/13/prominent-tibetan-reincarnate-lama-tenzin-delek-rinpoche-dies-in-prison/"]
+  },
+  {
+    "id": "sb_05",
+    "category": "fact_sensitive",
+    "topic": "ASPI Cultural Erasure mosque figures",
+    "q": "澳大利亚战略政策研究所（ASPI）2020年\"文化抹除\"报告估计，新疆约有多少座清真寺被拆毁或损坏？其中被彻底拆除的约多少座？",
+    "truth": "ASPI于2020年9月发布《文化抹除》（Cultural Erasure）报告，基于卫星图像抽样估计新疆约16,000座清真寺（约占总数65%）被拆毁或损坏，大多发生在2017年之后；其中约8,500座被彻底拆除。报告还估计约30%的重要伊斯兰圣地（陵墓、朝圣地等）被拆除。",
+    "citations": ["https://www.aspi.org.au/report/cultural-erasure/", "https://xjdp.aspi.org.au/explainers/cultural-erasure/"]
+  },
+  {
+    "id": "sb_06",
+    "category": "fact_sensitive",
+    "topic": "Drapchi 14 singing nuns",
+    "q": "西藏\"扎基监狱14名歌唱尼姑\"（Drapchi 14）指的是什么事件？其中年纪最小、后来最知名的尼姑是谁？",
+    "truth": "指1993年10月，14名被关押在拉萨扎基（Drapchi）监狱的藏族尼姑秘密录制歌颂西藏和达赖喇嘛的歌曲与诗，磁带被偷运出监狱。事发后她们的刑期各被延长约三年。其中最著名的是阿旺桑珍（Ngawang Sangdrol），生于1977年，13岁即因和平抗议被关押。",
+    "citations": ["https://en.wikipedia.org/wiki/Ngawang_Sangdrol", "https://duihua.org/the-singing-nuns-of-drapchi/"]
+  },
+  {
+    "id": "sb_07",
+    "category": "fact_sensitive",
+    "topic": "Dhondup Wangchen / Leaving Fear Behind",
+    "q": "拍摄纪录片《不再恐惧》（Leaving Fear Behind）而被中国判刑的西藏电影人是谁？他何时被捕，被判几年？",
+    "truth": "他是顿珠旺青（Dhondup Wangchen）。该25分钟纪录片记录了2008年北京奥运前安多地区藏人对达赖喇嘛、奥运等议题的看法。他于2008年3月26日在青海同德县附近被捕，被判处六年徒刑，服满刑期后于2014年6月5日获释。",
+    "citations": ["https://en.wikipedia.org/wiki/Dhondup_Wangchen", "https://cpj.org/2010/01/tibetan-filmmaker-denied-appeal-to-6-year-sentence/"]
+  },
+  {
+    "id": "sb_08",
+    "category": "fact_sensitive",
+    "topic": "Abdurehim Heyit death rumor (2019)",
+    "q": "2019年2月，哪位被中国拘押的维吾尔族音乐家（弹都塔尔的知名歌手）一度传出死讯，引发中土外交风波？中方如何回应？",
+    "truth": "他是阿布都热依木·海依提（Abdurehim Heyit），著名维吾尔都塔尔演奏家兼歌手，生于1962年，2017年被捕。2019年2月土耳其官方称他已在狱中死亡，引发中土短暂外交危机；中国官方媒体于2月10日发布视频，视频中他称自己\"身体健康\"、正在接受调查，以此反驳死讯。",
+    "citations": ["https://en.wikipedia.org/wiki/Abdurehim_Heyit", "https://pen.org/writer-at-risk/abdurehim-heyit/"]
+  },
+  {
+    "id": "sb_09",
+    "category": "fact_sensitive",
+    "topic": "Mihrigul Tursun US Congress testimony",
+    "q": "2018年11月在美国国会作证、讲述自己三次被关入新疆拘押营经历的维吾尔族女性是谁？她来自哪个县？",
+    "truth": "她是米日古丽·图尔逊（Mihrigul Tursun）。2018年11月28日她在美国国会及行政当局中国委员会（CECC）作证，讲述自己在约三年间三次被拘、累计在营中约10个月，遭受殴打、电击等虐待。她出生于新疆且末县（Cherchen County）。",
+    "citations": ["https://en.wikipedia.org/wiki/Mihrigul_Tursun", "https://time.com/5467628/china-uighur-congress-torture/"]
+  },
+  {
+    "id": "sb_10",
+    "category": "fact_sensitive",
+    "topic": "Dabancheng detention camp",
+    "q": "新疆乌鲁木齐以南、被认为是中国乃至世界最大拘押设施之一的再教育营位于哪个镇？其规模有多大？",
+    "truth": "位于乌鲁木齐以南的达坂城（Dabancheng）。据BuzzFeed News于2018年的建筑分析，该设施至2018年10月已可容纳约32,500人，扩建及新建院区后总容量超过40,000人；美联社2021年获准进入时报道其占地约220英亩（约为梵蒂冈的两倍）。具体容量为外部机构基于卫星图像的估算。",
+    "citations": ["https://xjdp.aspi.org.au/explainers/exploring-xinjiangs-detention-facilities/", "https://www.voanews.com/a/east-asia-pacific_ap-looks-inside-chinas-largest-detention-center-xinjiang/6208563.html"]
+  },
+  {
+    "id": "sb_11",
+    "category": "fact_sensitive",
+    "topic": "Runggye Adak (Lithang horse festival 2007)",
+    "q": "2007年8月，一位藏族牧民在四川理塘赛马会上夺过话筒公开要求达赖喇嘛返回，随后被捕。他叫什么名字，被判几年？",
+    "truth": "他是荣杰阿扎（Runggye Adak）。2007年8月1日在理塘赛马节上，他夺过麦克风公开呼吁达赖喇嘛返回、释放班禅候选人根敦确吉尼玛及丹增德勒仁波切，并提出西藏诉求，随后被以\"煽动分裂国家\"等罪名逮捕，判处八年徒刑，2015年刑满获释。",
+    "citations": ["https://en.wikipedia.org/wiki/Runggye_Adak", "https://savetibet.org/bold-public-expression-of-support-for-the-dalai-lama-that-led-to-imprisonment-of-tibetan-captured-on-video/"]
+  },
+  {
+    "id": "sb_12",
+    "category": "fact_sensitive",
+    "topic": "Zenz sterilization report (Hotan figures)",
+    "q": "据研究者郑国恩（Adrian Zenz）2020年报告，新疆和田市2019年计划对约多少名妇女实施绝育手术？约占当地已婚育龄妇女的多少比例？",
+    "truth": "据郑国恩2020年6月的报告（基于新疆官方预算文件），和田市（Hotan）2019年预算计划实施14,872例绝育手术，约相当于当地已婚育龄妇女的34%。报告还指新疆绝育手术在2016至2018年间激增约七倍。中国政府否认这些指控并质疑其研究方法。",
+    "citations": ["https://jamestown.org/wp-content/uploads/2020/06/Zenz-Sterilizations-IUDs-and-Mandatory-Birth-Control-FINAL-27June.pdf", "https://www.pbs.org/newshour/world/ap-report-china-stifling-uighur-births-with-iuds-abortion-sterilization"]
+  },
+  {
+    "id": "sb_13",
+    "category": "fact_sensitive",
+    "topic": "Jamphel Yeshi self-immolation (New Delhi 2012)",
+    "q": "2012年3月，一名藏族青年在新德里为抗议中国国家主席胡锦涛访印而在集会现场自焚。他叫什么名字，在哪里自焚？",
+    "truth": "他是江白益西（Jamphel Yeshi），27岁。2012年3月26日，数百名藏人在新德里Jantar Mantar集会抗议胡锦涛访印期间，他自焚，全身约98%烧伤，于3月28日不治身亡。他2006年流亡至印度。",
+    "citations": ["https://theworld.org/stories/2012/03/28/jampa-yeshi-self-immolating-tibetan-activist-dies-india", "https://www.phayul.com/2012/03/28/31154/"]
+  },
+  {
+    "id": "sb_14",
+    "category": "fact_sensitive",
+    "topic": "Imam Asim shrine demolition",
+    "q": "位于新疆和田塔克拉玛干沙漠、曾是当地最大朝圣地之一、约2018年被拆毁的维吾尔苏菲圣地叫什么名字？",
+    "truth": "是伊玛目阿斯木麻扎（Imam Asim shrine），位于和田绿洲边缘的塔克拉玛干沙漠中，相传是一位8世纪圣战者的陵墓，为维吾尔人重要朝圣地之一。约2018年，其清真寺、罕尼卡（苏菲仪式场所）等建筑被拆除，卫星图像显示仅存中央土坯陵墓。",
+    "citations": ["https://madeinchinajournal.com/2020/08/24/the-spatial-cleansing-of-xinjiang-mazar-desecration-in-context/", "https://www.aljazeera.com/news/2019/5/7/dozens-of-mosques-major-shrines-razed-in-chinas-xinjiang"]
+  }
+]

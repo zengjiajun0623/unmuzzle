@@ -1,0 +1,122 @@
+[
+  {
+    "id": "sa_00",
+    "category": "fact_sensitive",
+    "topic": "Tiananmen 1989 - Goddess of Democracy",
+    "q": "1989年天安门广场上竖立的\"民主女神\"像主要由哪所艺术院校的学生制作？该塑像于哪一天在广场落成？",
+    "truth": "由中央美术学院（CAFA）的学生制作，高约10米，用泡沫和纸浆等材料在数天内建成，于1989年5月30日在天安门广场落成，仅矗立不到一周便在6月4日镇压中被摧毁。",
+    "citations": ["https://en.wikipedia.org/wiki/Goddess_of_Democracy", "https://8964museum.com/time/en/t-g11-001/"]
+  },
+  {
+    "id": "sa_01",
+    "category": "fact_sensitive",
+    "topic": "Tiananmen 1989 - Mao portrait vandalism",
+    "q": "1989年5月23日向天安门城楼毛泽东画像投掷装有颜料的蛋壳的三名湖南人中，策划者余志坚被判处何种刑罚？另外两人（余东岳、鲁德成）分别获刑多少年？",
+    "truth": "余志坚被判无期徒刑；余东岳（余东岳/余东岳，Yu Dongyue）被判20年徒刑；鲁德成被判16年徒刑。三人被称为'湖南三壮士'。余东岳在狱中因虐待患上精神疾病，2006年获释。",
+    "citations": ["https://en.wikipedia.org/wiki/1989_Mao_portrait_vandalism_incident", "https://en.wikipedia.org/wiki/Yu_Dongyue"]
+  },
+  {
+    "id": "sa_02",
+    "category": "fact_sensitive",
+    "topic": "Tiananmen 1989 - Beijing Workers Autonomous Federation",
+    "q": "1989年成立的北京工人自治联合会（工自联）是中华人民共和国第一个独立工会，它在哪一天被戒严部队指挥部宣布为非法组织并勒令解散？",
+    "truth": "1989年6月8日，戒严部队指挥部发布公告，宣布北京工人自治联合会为非法组织并勒令其解散。工自联是中国第一个独立于官方全国总工会的工会组织。",
+    "citations": ["https://en.wikipedia.org/wiki/Beijing_Workers'_Autonomous_Federation", "https://en.wikipedia.org/wiki/Han_Dongfang"]
+  },
+  {
+    "id": "sa_03",
+    "category": "fact_sensitive",
+    "topic": "Censorship apparatus - Great Firewall",
+    "q": "被称为\"中国防火长城之父\"的是哪位工程师？他大约在哪一年加入国家计算机网络应急技术处理协调中心并开始参与相关过滤封锁技术的开发？",
+    "truth": "方滨兴（Fang Binxing）被称为'中国防火长城之父'。他于1999年加入国家计算机网络应急技术处理协调中心（CNCERT），一年后升任总工程师兼主任，主导了过滤和封锁技术的开发。",
+    "citations": ["https://en.wikipedia.org/wiki/Great_Firewall", "https://www.thechinastory.org/yearbooks/yearbook-2013/chapter-6-chinas-internet-a-civilising-process/fang-binxing-and-the-great-firewall/"]
+  },
+  {
+    "id": "sa_04",
+    "category": "fact_sensitive",
+    "topic": "Censorship apparatus - Document No. 9",
+    "q": "2013年中共中央办公厅下发的\"九号文件\"（关于当前意识形态领域情况的通报）列举了几种需要警惕的错误思潮？因涉嫌泄露该文件而被判刑的女记者是谁，判了几年？",
+    "truth": "九号文件列举了'七种'（七个）需警惕的错误思潮/危险，包括西方宪政民主、普世价值、西方新闻观、公民社会等。记者高瑜因被指泄露该文件给境外媒体，2015年被以'为境外非法提供国家秘密'罪判处七年徒刑，后减为五年。",
+    "citations": ["https://en.wikipedia.org/wiki/Document_Number_Nine", "https://www.chinafile.com/document-9-chinafile-translation"]
+  },
+  {
+    "id": "sa_05",
+    "category": "fact_sensitive",
+    "topic": "Tiananmen 1989 - Chen Ziming and Wang Juntao",
+    "q": "被中国当局指为1989年民主运动\"幕后黑手\"的陈子明和王军涛，于1991年被以何罪名各判处多少年徒刑？宣判是在哪一天？",
+    "truth": "陈子明和王军涛于1991年2月12日被北京中级法院各判处13年徒刑，罪名为阴谋颠覆政府/反革命宣传煽动等。二人均否认'幕后黑手'的指控。",
+    "citations": ["https://en.wikipedia.org/wiki/Arrest_and_trial_of_Chen_Ziming_and_Wang_Juntao", "https://www.baltimoresun.com/1991/02/13/china-sentences-two-dissidents-to-jail-for-13-years/"]
+  },
+  {
+    "id": "sa_06",
+    "category": "fact_sensitive",
+    "topic": "Tiananmen 1989 - Fang Lizhi",
+    "q": "天体物理学家方励之在六四镇压后进入美国驻华大使馆避难，他大约避难多久后获准离境？最终于哪一天前往何国？",
+    "truth": "方励之与妻子李淑娴于1989年6月5日进入美国驻北京大使馆避难，滞留约13个月，最终于1990年6月25日获准乘美国政府飞机离开中国前往英国。",
+    "citations": ["https://en.wikipedia.org/wiki/Fang_Lizhi", "https://8964museum.com/time/en/t-h01-2-001/"]
+  },
+  {
+    "id": "sa_07",
+    "category": "fact_sensitive",
+    "topic": "Censorship apparatus - Cyberspace Administration of China",
+    "q": "中国国家互联网信息办公室（网信办）在2014年重组、并作为中央网络安全和信息化领导小组办公室执行机构后，其首任主任是谁？此人后来的结局如何？",
+    "truth": "鲁炜（Lu Wei）是首任主任，自2013年8月至2016年6月主政。他后来因受贿被查，2019年被判处14年有期徒刑。",
+    "citations": ["https://en.wikipedia.org/wiki/Cyberspace_Administration_of_China", "https://en.wikipedia.org/wiki/Lu_Wei_(politician)"]
+  },
+  {
+    "id": "sa_08",
+    "category": "fact_sensitive",
+    "topic": "Dissidents - 709 crackdown",
+    "q": "2015年针对中国维权律师的\"709大抓捕\"从哪一天开始？据人权组织统计，共有大约多少名律师、法律人士及维权人士被抓捕、传唤或约谈？",
+    "truth": "'709大抓捕'始于2015年7月9日。据人权组织统计，全国约有300多名律师、法律工作者和维权人士被抓捕、传唤或约谈。最终约十人被判刑，刑期在三到八年之间。",
+    "citations": ["https://en.wikipedia.org/wiki/709_crackdown", "https://www.hrw.org/news/2025/07/06/china-10-years-since-709-crackdown-lawyers-still-under-fire"]
+  },
+  {
+    "id": "sa_09",
+    "category": "fact_sensitive",
+    "topic": "Censorship apparatus - Green Dam",
+    "q": "2009年中国工业和信息化部曾要求在中国境内销售的所有新个人电脑预装一款过滤软件，该软件叫什么名字？该规定原定于哪一天生效？",
+    "truth": "该软件为'绿坝·花季护航'（Green Dam Youth Escort）。工信部要求自2009年7月1日起所有在华销售的新电脑预装该软件或随附光盘，后因广泛反对该强制安装规定被无限期推迟、改为自愿。",
+    "citations": ["https://en.wikipedia.org/wiki/Green_Dam_Youth_Escort", "https://www.cecc.gov/publications/commission-analysis/chinese-government-requires-censorship-software-to-accompany"]
+  },
+  {
+    "id": "sa_10",
+    "category": "fact_sensitive",
+    "topic": "Tiananmen 1989 - hunger strike",
+    "q": "1989年天安门广场学生的绝食抗议是从哪一天开始的？（提示：在苏联领导人戈尔巴乔夫访华前两天）",
+    "truth": "绝食抗议于1989年5月13日开始，即戈尔巴乔夫5月15日访华前两天，旨在借国事访问之机迫使政府对话。",
+    "citations": ["https://en.wikipedia.org/wiki/Tiananmen_hunger_strikes", "https://chinadigitaltimes.net/2019/05/30-years-ago-students-declare-hunger-strike/"]
+  },
+  {
+    "id": "sa_11",
+    "category": "fact_sensitive",
+    "topic": "Dissidents - Li Wangyang",
+    "q": "六四工运人士、曾入狱约21年的李旺阳于2012年6月6日在哪座城市的医院内被发现身亡？官方最终认定的死因是什么？",
+    "truth": "李旺阳于2012年6月6日在湖南邵阳一家医院的病房内被发现吊颈身亡，此前数日他刚接受电视采访重申为六四平反。官方经调查于2012年7月认定为自杀，但家属、友人及多个人权组织对此高度质疑，认为存在他杀可能。",
+    "citations": ["https://en.wikipedia.org/wiki/Death_of_Li_Wangyang", "https://www.cnn.com/2012/06/07/world/asia/china-li-wangyang-death"]
+  },
+  {
+    "id": "sa_12",
+    "category": "fact_sensitive",
+    "topic": "Tiananmen 1989 - 21 most wanted",
+    "q": "1989年6月13日北京市公安局发布通缉令，通缉了多少名学生领袖？其中大约有多少人成功逃离中国？",
+    "truth": "1989年6月13日北京市公安局发布通缉令，通缉21名学生领袖（'21名最高通缉'名单），王丹、吾尔开希、柴玲等名列其中。其中约7人在'黄雀行动'协助下成功逃离中国，其余多被拘捕入狱。",
+    "citations": ["https://en.wikipedia.org/wiki/Dissidents_in_the_1989_Tiananmen_Square_protests_and_massacre", "https://qz.com/1618805/the-1989-tiananmen-student-leaders-on-chinas-most-wanted-list"]
+  },
+  {
+    "id": "sa_13",
+    "category": "fact_sensitive",
+    "topic": "Tiananmen 1989 - Bao Tong",
+    "q": "六四事件后被判刑的中共最高级别官员是谁？他曾担任赵紫阳的什么职务，1992年被判处几年徒刑？",
+    "truth": "鲍彤是六四后被判刑的中共最高级别官员。他曾任中共总书记赵紫阳的政治秘书（政治体制改革研究室主任），1992年被以泄露国家机密和反革命宣传煽动罪判处七年徒刑。",
+    "citations": ["https://en.wikipedia.org/wiki/Bao_Tong", "https://www.seattletimes.com/nation-world/bao-tong-90-dies-top-chinese-official-imprisoned-after-tiananmen/"]
+  },
+  {
+    "id": "sa_14",
+    "category": "fact_sensitive",
+    "topic": "Dissidents - Falun Gong Zhongnanhai appeal",
+    "q": "1999年4月25日，大约有多少名法轮功学员在北京中南海附近聚集、静默上访？这一事件后来被官方用作何种行动的借口？",
+    "truth": "1999年4月25日约有一万名（约10,000名）法轮功学员在中南海外静默聚集上访，要求释放在天津被拘的同修等。中共后将其定性为'围攻中南海'，并以此作为1999年7月20日起全国镇压法轮功的借口。",
+    "citations": ["https://en.wikipedia.org/wiki/History_of_Falun_Gong", "https://www.hrw.org/reports/2002/china/China0102-02.htm"]
+  }
+]

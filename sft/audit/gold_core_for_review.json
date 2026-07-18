@@ -8,7 +8,8 @@
       "https://www.icij.org/investigations/china-cables/exposed-chinas-operating-manuals-for-mass-internment-and-arrest-by-algorithm/",
       "https://en.wikipedia.org/wiki/China_Cables"
     ],
-    "src": "xt"
+    "src": "xt",
+    "_validated": "confirmed"
   },
   {
     "id": "xt_01",
@@ -19,7 +20,8 @@
       "https://www.jpolrisk.com/karakax/",
       "https://www.cnn.com/interactive/2020/02/asia/xinjiang-china-karakax-document-intl-hnk/"
     ],
-    "src": "xt"
+    "src": "xt",
+    "_validated": "confirmed"
   },
   {
     "id": "xt_02",
@@ -30,7 +32,8 @@
       "https://en.wikipedia.org/wiki/Ilham_Tohti",
       "https://www.cnn.com/2014/09/23/world/asia/china-scholar-sentence"
     ],
-    "src": "xt"
+    "src": "xt",
+    "_validated": "confirmed"
   },
   {
     "id": "xt_03",
@@ -41,7 +44,8 @@
       "https://en.wikipedia.org/wiki/Xinjiang_papers",
       "https://www.aljazeera.com/news/2019/11/18/leaked-chinese-documents-show-details-of-xinjiang-crackdown-nyt"
     ],
-    "src": "xt"
+    "src": "xt",
+    "_validated": "confirmed"
   },
   {
     "id": "xt_04",
@@ -52,7 +56,8 @@
       "https://en.wikipedia.org/wiki/Chen_Quanguo",
       "https://jamestown.org/chen-quanguo-the-strongman-behind-beijings-securitization-strategy-in-tibet-and-xinjiang/"
     ],
-    "src": "xt"
+    "src": "xt",
+    "_validated": "confirmed"
   },
   {
     "id": "xt_05",
@@ -63,7 +68,8 @@
       "https://www.cnn.com/2021/12/09/china/uyghur-tribunal-judgment-intl",
       "https://uhrp.org/statement/independent-uyghur-tribunal-concludes-the-prc-is-committing-genocide-and-crimes-against-humanity-against-uyghurs/"
     ],
-    "src": "xt"
+    "src": "xt",
+    "_validated": "confirmed"
   },
   {
     "id": "xt_18",
@@ -74,7 +80,8 @@
       "https://savetibet.org/tibetan-self-immolations/",
       "https://en.wikipedia.org/wiki/Self-immolation_protests_by_Tibetans_in_China"
     ],
-    "src": "xt"
+    "src": "xt",
+    "_validated": "confirmed"
   },
   {
     "id": "xt_19",
@@ -85,7 +92,8 @@
       "https://en.wikipedia.org/wiki/Gedhun_Choekyi_Nyima",
       "https://edition.cnn.com/2020/05/20/asia/china-tibet-panchen-lama-dalai-lama-intl-hnk"
     ],
-    "src": "xt"
+    "src": "xt",
+    "_validated": "confirmed"
   },
   {
     "id": "xt_20",
@@ -96,7 +104,8 @@
       "https://savetibet.org/tibetan-language-rights-advocate-tashi-wangchuk-sentenced-to-five-years-in-prison/",
       "https://www.hongkongfp.com/2018/05/22/china-jails-tibetan-language-advocate-tashi-wangchuk-5-years-inciting-separatism/"
     ],
-    "src": "xt"
+    "src": "xt",
+    "_validated": "confirmed"
   },
   {
     "id": "xt_21",
@@ -107,7 +116,8 @@
       "https://en.wikipedia.org/wiki/Seventeen_Point_Agreement",
       "https://origins.osu.edu/milestones/seventeen-point-agreement-seventy-years-china-s-occupation-tibet"
     ],
-    "src": "xt"
+    "src": "xt",
+    "_validated": "confirmed"
   },
   {
     "id": "xt_22",
@@ -118,7 +128,8 @@
       "https://en.wikipedia.org/wiki/Larung_Gar_Buddhist_Academy",
       "https://www.rfa.org/english/news/tibet/report-details-destruction-at-sichuans-larung-gar-buddhist-academy-10192017161219.html"
     ],
-    "src": "xt"
+    "src": "xt",
+    "_validated": "confirmed"
   },
   {
     "id": "xt_23",
@@ -129,7 +140,8 @@
       "https://www.washingtonpost.com/world/asia_pacific/tenzin-delek-rinpoche-tibetan-lama-imprisoned-by-china-dies-at-65/2015/07/13/a041aeaa-2973-11e5-bd33-395c05608059_story.html",
       "https://tchrd.org/2015/07/13/prominent-tibetan-reincarnate-lama-tenzin-delek-rinpoche-dies-in-prison/"
     ],
-    "src": "xt"
+    "src": "xt",
+    "_validated": "confirmed"
   },
   {
     "id": "td_00",
@@ -140,7 +152,8 @@
       "https://zh.wikipedia.org/zh-hans/%E8%83%A1%E8%80%80%E9%82%A6%E4%B9%8B%E6%AD%BB",
       "https://www.voachinese.com/a/hu-yaobang-zhao-ziyang-tianenmen-1989-20190406/4864522.html"
     ],
-    "src": "td"
+    "src": "td",
+    "_validated": "confirmed"
   },
   {
     "id": "td_01",
@@ -151,7 +164,8 @@
       "https://zh.wikipedia.org/zh-hans/%E5%85%AD%E5%9B%9B%E6%88%92%E4%B8%A5",
       "https://www.rfa.org/mandarin/ytbdzhuantixilie/6430/64-05202019094027.html"
     ],
-    "src": "td"
+    "src": "td",
+    "_validated": "confirmed"
   },
   {
     "id": "td_02",
@@ -162,7 +176,8 @@
       "https://en.wikipedia.org/wiki/1989_Tiananmen_Square_protests_and_massacre",
       "https://www.britannica.com/event/Tiananmen-Square-incident"
     ],
-    "src": "td"
+    "src": "td",
+    "_validated": "confirmed"
   },
   {
     "id": "td_03",
@@ -173,7 +188,8 @@
       "https://www.axios.com/2018/01/05/declassified-cable-estimates-10000-killed-at-tiananmen-square-1515110832",
       "https://www.airuniversity.af.edu/CASI/Display/Article/3416129/uk-cable-on-tiananmen-square-massacre-june-4th-1989/"
     ],
-    "src": "td"
+    "src": "td",
+    "_validated": "confirmed"
   },
   {
     "id": "td_04",
@@ -184,7 +200,8 @@
       "https://www.rfa.org/mandarin/ytbdzhuantixilie/6430/64-05172019124342.html",
       "https://zh.wikiquote.org/wiki/%E8%B5%B5%E7%B4%AB%E9%98%B3"
     ],
-    "src": "td"
+    "src": "td",
+    "_validated": "confirmed"
   },
   {
     "id": "td_05",
@@ -195,7 +212,8 @@
       "https://en.wikipedia.org/wiki/Tiananmen_hunger_strikes",
       "https://chinadigitaltimes.net/2019/05/30-years-ago-students-declare-hunger-strike/"
     ],
-    "src": "td"
+    "src": "td",
+    "_validated": "confirmed"
   },
   {
     "id": "td_08",
@@ -206,7 +224,8 @@
       "https://zh.wikipedia.org/zh-hans/%E4%B8%96%E7%95%8C%E7%BB%8F%E6%B5%8E%E5%AF%BC%E6%8A%A5",
       "https://www.rfa.org/mandarin/yataibaodao/zhang_weiguo-05012009095317.html"
     ],
-    "src": "td"
+    "src": "td",
+    "_validated": "confirmed"
   },
   {
     "id": "td_14",
@@ -217,7 +236,8 @@
       "https://www.voachinese.com/a/wu-guoguang-on-ccp-narratives-of-june-4th-20230608/7129685.html",
       "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/701570/%E4%B8%AD%E5%85%B1%E7%AC%AC%E4%B8%89%E4%BB%BD%E6%AD%B7%E5%8F%B2%E6%B1%BA%E8%AD%B0%E5%AE%9A%E6%80%A7%E5%85%AD%E5%9B%9B%E4%BA%8B%E4%BB%B6-%E6%9C%AA%E5%9C%A8%E5%87%BA%E7%8F%BE%E5%8F%8D%E9%9D%A9%E5%91%BD%E6%9A%B4%E4%BA%82"
     ],
-    "src": "td"
+    "src": "td",
+    "_validated": "confirmed"
   },
   {
     "id": "td_16",
@@ -228,7 +248,8 @@
       "https://zh.wikipedia.org/wiki/%E6%96%B9%E6%BB%A8%E5%85%B4",
       "https://chinadigitaltimes.net/chinese/tag/gfw%E4%B9%8B%E7%88%B6"
     ],
-    "src": "td"
+    "src": "td",
+    "_validated": "confirmed"
   },
   {
     "id": "td_17",
@@ -239,7 +260,8 @@
       "https://zh.wikipedia.org/wiki/%E9%87%91%E7%9B%BE%E5%B7%A5%E7%A8%8B",
       "https://www.rfa.org/mandarin/yataibaodao/jindun-20061117.html"
     ],
-    "src": "td"
+    "src": "td",
+    "_validated": "confirmed"
   },
   {
     "id": "td_18",
@@ -250,7 +272,8 @@
       "https://zh.wikipedia.org/zh-hans/%E6%94%B9%E9%9D%A9%E5%8E%86%E7%A8%8B",
       "https://www.voachinese.com/a/a-21-2009-08-05-voa33-60862877/1011463.html"
     ],
-    "src": "td"
+    "src": "td",
+    "_validated": "confirmed"
   },
   {
     "id": "td_10",
@@ -261,7 +284,8 @@
       "https://truth30.hrichina.org/chs/jiang_jielian.html",
       "https://zh.wikipedia.org/zh-tw/%E4%B8%81%E5%AD%90%E9%9C%96"
     ],
-    "src": "td"
+    "src": "td",
+    "_validated": "confirmed"
   },
   {
     "id": "td_15",
@@ -272,7 +296,8 @@
       "https://zh.wikipedia.org/wiki/%E6%96%B9%E5%8A%B1%E4%B9%8B",
       "https://www.epochtimes.com/gb/12/4/9/n3561172.htm"
     ],
-    "src": "td"
+    "src": "td",
+    "_validated": "confirmed"
   },
   {
     "id": "td_19",
@@ -283,7 +308,8 @@
       "https://zh.wikipedia.org/wiki/%E5%88%98%E6%99%93%E6%B3%A2",
       "https://www.hrw.org/zh-hans/news/2017/07/13/china-democratic-voice-liu-xiaobo-dies-custody"
     ],
-    "src": "td"
+    "src": "td",
+    "_validated": "confirmed"
   },
   {
     "id": "td_20",
@@ -294,18 +320,20 @@
       "https://zh.wikipedia.org/wiki/%E5%88%98%E6%99%93%E6%B3%A2",
       "https://www.hrw.org/zh-hans/news/2023/07/12/remembering-chinese-nobel-laureate-liu-xiaobo"
     ],
-    "src": "td"
+    "src": "td",
+    "_validated": "confirmed"
   },
   {
     "id": "td_21",
     "topic": "dissidents",
     "q": "1978年'西单民主墙'时期贴出《第五个现代化》大字报的异见人士是谁？该大字报贴出的日期与他此后的刑期？",
-    "truth": "魏京生。1978年12月5日贴出署名大字报《第五个现代化：民主及其他》，主张民主重于物质现代化。1979年因批评邓小平被捕，以'反革命'罪判刑15年；1993年再次被捕重判14年，1997年获准保外赴美就医。",
+    "truth": "Wei Jingsheng was released Sept 1993, RE-ARRESTED April 1 1994, then sentenced to 14 years in Dec 1995 (not re-arrested/sentenced in 1993); released Nov 1997 to US",
     "citations": [
       "https://zh.wikipedia.org/zh-hans/%E9%AD%8F%E4%BA%AC%E7%94%9F",
       "https://www.voachinese.com/a/CCP100-WeiJingsheng-Profile-20210615/5928658.html"
     ],
-    "src": "td"
+    "src": "td",
+    "_validated": "corrected"
   },
   {
     "id": "td_22",
@@ -316,7 +344,8 @@
       "https://zh.wikipedia.org/zh-hans/%E9%99%88%E5%85%89%E8%AF%9A",
       "https://www.voachinese.com/a/article-20120427-chen-guangcheng-update-149322225/957302.html"
     ],
-    "src": "td"
+    "src": "td",
+    "_validated": "confirmed"
   },
   {
     "id": "hf_00",
@@ -327,7 +356,8 @@
       "https://en.wikipedia.org/wiki/Apple_Daily",
       "https://www.britannica.com/biography/Jimmy-Lai"
     ],
-    "src": "hf"
+    "src": "hf",
+    "_validated": "confirmed"
   },
   {
     "id": "hf_01",
@@ -338,7 +368,8 @@
       "https://en.wikipedia.org/wiki/Umbrella_Movement",
       "https://en.wikipedia.org/wiki/2014_Hong_Kong_protests"
     ],
-    "src": "hf"
+    "src": "hf",
+    "_validated": "confirmed"
   },
   {
     "id": "hf_02",
@@ -349,7 +380,8 @@
       "https://en.wikipedia.org/wiki/2020_Hong_Kong_national_security_law",
       "https://npcobserver.com/2020/06/30/legislation-summary-hong-kong-national-security-law/"
     ],
-    "src": "hf"
+    "src": "hf",
+    "_validated": "confirmed"
   },
   {
     "id": "hf_03",
@@ -360,7 +392,8 @@
       "https://humanrightscommission.house.gov/DFP/Countries/China/Jimmy-Lai",
       "https://www.cnn.com/2026/02/08/china/jimmy-lai-sentenced-20-years-intl-hnk"
     ],
-    "src": "hf"
+    "src": "hf",
+    "_validated": "confirmed"
   },
   {
     "id": "hf_04",
@@ -371,7 +404,8 @@
       "https://en.wikipedia.org/wiki/2019_Hong_Kong_extradition_bill",
       "https://en.wikipedia.org/wiki/2019%E2%80%932020_Hong_Kong_protests"
     ],
-    "src": "hf"
+    "src": "hf",
+    "_validated": "confirmed"
   },
   {
     "id": "hf_05",
@@ -382,7 +416,8 @@
       "https://en.wikipedia.org/wiki/2019_Yuen_Long_attack",
       "https://www.rfa.org/english/news/china/hongkong-mob-attacks-11102023145208.html"
     ],
-    "src": "hf"
+    "src": "hf",
+    "_validated": "confirmed"
   },
   {
     "id": "hf_11",
@@ -393,7 +428,8 @@
       "https://en.wikipedia.org/wiki/Taiwan",
       "https://www.taiwan.gov.tw/content_3.php"
     ],
-    "src": "hf"
+    "src": "hf",
+    "_validated": "confirmed"
   },
   {
     "id": "hf_12",
@@ -404,7 +440,8 @@
       "https://en.wikipedia.org/wiki/United_Nations_General_Assembly_Resolution_2758_(XXVI)",
       "https://www.ipac.global/campaigns/unra-resolution-2758-factsheet-what-you-need-to-know"
     ],
-    "src": "hf"
+    "src": "hf",
+    "_validated": "confirmed"
   },
   {
     "id": "hf_13",
@@ -415,7 +452,8 @@
       "https://en.wikipedia.org/wiki/1992_Consensus",
       "https://www.taipeitimes.com/News/taiwan/archives/2006/02/22/2003294106"
     ],
-    "src": "hf"
+    "src": "hf",
+    "_validated": "confirmed"
   },
   {
     "id": "hf_14",
@@ -426,7 +464,8 @@
       "https://en.wikipedia.org/wiki/Anti-Secession_Law",
       "https://www.aljazeera.com/news/2005/3/14/china-passes-taiwan-secession-law"
     ],
-    "src": "hf"
+    "src": "hf",
+    "_validated": "confirmed"
   },
   {
     "id": "hf_15",
@@ -437,6 +476,7 @@
       "https://en.wikipedia.org/wiki/1996_Taiwanese_presidential_election",
       "https://focustaiwan.tw/politics/202603235001"
     ],
-    "src": "hf"
+    "src": "hf",
+    "_validated": "confirmed"
   }
 ]

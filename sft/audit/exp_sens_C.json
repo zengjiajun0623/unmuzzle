@@ -1,0 +1,167 @@
+[
+  {
+    "id": "sc_00",
+    "category": "fact_sensitive",
+    "topic": "hong_kong_nsl",
+    "q": "在香港国安法下第一个被定罪的人是谁？他被控什么罪名，判了多少年？",
+    "truth": "第一个在《香港国安法》下受审并定罪的人是唐英杰（Tong Ying-kit）。他在2020年7月1日国安法生效当天，骑摩托车悬挂写有『光复香港 时代革命』的旗帜，冲向警察。他被裁定『煽动他人分裂国家』和『恐怖活动』两罪成立，2021年7月30日被判囚9年，并被禁止驾驶10年。",
+    "citations": [
+      "https://www.scmp.com/news/hong-kong/politics/article/3143157/national-security-law-9-years-jail-first-hong-kong-resident",
+      "https://hongkongfp.com/2021/07/30/breaking-activist-tong-ying-kit-jailed-for-9-years-in-hong-kongs-first-national-security-case/"
+    ]
+  },
+  {
+    "id": "sc_01",
+    "category": "fact_sensitive",
+    "topic": "taiwan_cross_strait",
+    "q": "1958年的『八二三炮战』（第二次台湾海峡危机）是哪一天开始的？大致规模如何？",
+    "truth": "八二三炮战于1958年8月23日下午约5时30分开始，解放军从福建沿岸以数百门火炮猛烈炮击由台湾（中华民国）控制的金门。头两个小时落弹数以万计，造成多名将官伤亡。整场炮击持续约一个半月，落弹总数超过约47万发。自1958年10月25日起，解放军改为『单打双不打』（只在单日炮击），这种象征性炮击一直持续到1979年中美建交。",
+    "citations": [
+      "https://en.wikipedia.org/wiki/Second_Taiwan_Strait_Crisis",
+      "https://www.taipeitimes.com/News/taiwan/archives/2018/12/30/2003707052"
+    ]
+  },
+  {
+    "id": "sc_02",
+    "category": "fact_sensitive",
+    "topic": "falun_gong",
+    "q": "1999年4月25日法轮功在北京中南海附近的上访事件，起因是什么？大约有多少人参加？",
+    "truth": "1999年4月25日，约一万至一万余名法轮功学员在北京中南海旁的国务院信访办（中央信访局）附近聚集上访。直接起因是此前天津发生的事件：天津警方拘留了数十名请愿的学员。学员们要求释放被拘者、解除对法轮功书籍的出版禁令并给予合法的修炼环境。当天时任国务院总理朱镕基一方接见了学员代表，随后被拘的天津学员获释；聚集人群随后散去。此次事件被广泛视为其后镇压的导火索之一。",
+    "citations": [
+      "https://en.wikipedia.org/wiki/History_of_Falun_Gong",
+      "https://www.hrw.org/reports/2002/china/China0102-02.htm"
+    ]
+  },
+  {
+    "id": "sc_03",
+    "category": "fact_sensitive",
+    "topic": "hong_kong_apple_daily",
+    "q": "香港《苹果日报》最后一期是哪一天出版的？印量是多少？",
+    "truth": "《苹果日报》最后一期报纸于2021年6月24日出版。该期印量约100万份，约为平日发行量的十倍（平日约8万份），当天清晨在全港各报摊迅速售罄，市民排队抢购。此前，香港当局于2021年6月17日冻结了创办人黎智英及相关公司的资产，迫使该报停运，结束了26年的运营。",
+    "citations": [
+      "https://www.voanews.com/a/press-freedom_last-edition-hong-kongs-apple-daily-signs-million-copy-run/6207396.html",
+      "https://hongkongfp.com/2021/06/24/in-pictures-thank-you-hongkongers-apple-dailys-printing-presses-come-to-a-halt-after-26-years/"
+    ]
+  },
+  {
+    "id": "sc_04",
+    "category": "fact_sensitive",
+    "topic": "hong_kong_2019",
+    "q": "引发2019年香港《逃犯条例》修订（反送中）的那宗台湾命案，被害人和嫌疑人是谁？发生在何时？",
+    "truth": "该命案的被害人是20岁、当时怀孕的香港女子潘晓颖（Poon Hiu-wing），嫌疑人是其男友陈同佳（Chan Tong-kai）。2018年2月17日两人在台北旅游期间，陈同佳杀害了潘晓颖并弃尸后逃回香港。由于命案发生在台湾、而港台之间没有引渡安排，香港仅能以洗黑钱（盗用被害人财物）等罪起诉他。2019年2月，港府以此案为由提出修订《逃犯条例》，因方案涵盖移交中国大陆而引发大规模抗议。陈同佳因洗黑钱罪服刑后于2019年10月获释。",
+    "citations": [
+      "https://en.wikipedia.org/wiki/Murder_of_Poon_Hiu-wing",
+      "https://www.cnn.com/2019/10/23/asia/hong-kong-taiwan-murder-intl-hnk"
+    ]
+  },
+  {
+    "id": "sc_05",
+    "category": "fact_sensitive",
+    "topic": "falun_gong",
+    "q": "中国政府是哪一天正式取缔法轮功的？是由哪些部门宣布的？",
+    "truth": "1999年7月22日，中国民政部发出通告，宣布法轮大法研究会为未经登记的非法组织；同日，公安部发布通告，禁止修炼或传播法轮功，并禁止就该禁令请愿或反对政府决定。其后，1999年10月30日全国人民代表大会常务委员会通过关于取缔邪教组织的决定，将法轮功等定性为『邪教』（xiejiao），为镇压提供更广泛的法律框架。",
+    "citations": [
+      "https://en.wikipedia.org/wiki/Persecution_of_Falun_Gong",
+      "https://www.hrw.org/news/1999/11/09/china-uses-rule-law-justify-falun-gong-crackdown"
+    ]
+  },
+  {
+    "id": "sc_06",
+    "category": "fact_sensitive",
+    "topic": "taiwan_cross_strait",
+    "q": "第一次台湾海峡危机（1954至1955年）中，解放军攻占了哪个岛屿，随后中华民国撤离了哪些岛屿？",
+    "truth": "在第一次台湾海峡危机中，解放军于1955年1月18日发动攻击、次日（1月19日）攻占了一江山岛（Yijiangshan）。这直接导致中华民国在美国第七舰队协助下撤离邻近的大陈列岛：1955年2月，美方实施『金刚计划』，于2月9日至14日间将约1.5万名军民安全撤往台湾。该危机也促成了1954年底签署的《中美共同防御条约》。",
+    "citations": [
+      "https://en.wikipedia.org/wiki/Battle_of_Yijiangshan_Islands",
+      "https://history.state.gov/milestones/1953-1960/taiwan-strait-crises"
+    ]
+  },
+  {
+    "id": "sc_07",
+    "category": "fact_sensitive",
+    "topic": "hong_kong_2014",
+    "q": "『让爱与和平占领中环』（占中）运动的三位发起人是谁？他们在2019年被判什么？",
+    "truth": "占中运动的三位发起人（『占中三子』）是戴耀廷（Benny Tai）、陈健民（Chan Kin-man）和朱耀明牧师（Chu Yiu-ming）。2019年4月，三人因2014年的占领行动被裁定『串谋公众妨扰』等罪成立（戴、陈另涉煽惑公众妨扰）。戴耀廷和陈健民各被判入狱16个月；朱耀明同样被判16个月，但获缓刑两年。",
+    "citations": [
+      "https://www.aljazeera.com/news/2019/4/24/hong-kongs-occupy-central-activists-handed-prison-terms",
+      "https://en.wikipedia.org/wiki/Chu_Yiu-ming"
+    ]
+  },
+  {
+    "id": "sc_08",
+    "category": "fact_sensitive",
+    "topic": "hong_kong_nsl",
+    "q": "2020年11月香港泛民主派立法会议员集体总辞，有多少人辞职？直接的导火索是什么？",
+    "truth": "2020年11月11日，香港泛民主派宣布余下的15名立法会议员将集体总辞。直接导火索是当天中国全国人大常委会通过决定，授权香港当局无须经法院即可取消议员资格，港府随即以危害国家安全为由取消了四名泛民议员（杨岳桥、郭荣铿、郭家麒、梁继昌）的资格。总辞后立法会仅剩约43名议员，其中绝大多数属建制派。",
+    "citations": [
+      "https://www.aljazeera.com/news/2020/11/11/hong-kongs-pro-democracy-legislators-resign-en-masse",
+      "https://edition.cnn.com/2020/11/11/asia/hong-kong-lawmakers-unseated-china-intl-hnk/index.html"
+    ]
+  },
+  {
+    "id": "sc_09",
+    "category": "fact_sensitive",
+    "topic": "taiwan_cross_strait",
+    "q": "1995至1996年的第三次台湾海峡危机期间，解放军进行了哪些导弹试射？美国如何回应？",
+    "truth": "第三次台湾海峡危机中，解放军自1995年7月21日至1996年3月23日在台湾周边海域进行了一系列导弹试射及军演。1995年7月21至23日，解放军从福建连续三天发射了共六枚东风-15（DF-15）导弹，落于台湾北部外海。1996年3月8日至15日，又向基隆和高雄外海的划定海域发射导弹（其中有导弹飞越台湾上空落入基隆附近航道）。美国作出回应，派遣包括『尼米兹号』和『独立号』两个航母战斗群前往台湾附近海域。",
+    "citations": [
+      "https://en.wikipedia.org/wiki/Third_Taiwan_Strait_Crisis",
+      "https://nationalinterest.org/feature/the-third-taiwan-strait-crisis-the-forgotten-showdown-19742"
+    ]
+  },
+  {
+    "id": "sc_10",
+    "category": "fact_sensitive",
+    "topic": "taiwan_cross_strait",
+    "q": "中国的《反分裂国家法》是哪一年、由哪个机构通过的？其中授权使用『非和平方式』的是第几条？",
+    "truth": "《反分裂国家法》由中华人民共和国第十届全国人民代表大会第三次会议于2005年3月14日通过并即日生效，共10条，表决结果为2896票赞成、0票反对、2票弃权。授权在特定情形下采取『非和平方式及其他必要措施』的是该法第八条：当『台独』势力以任何方式造成台湾从中国分裂、或发生将导致台湾分裂的重大事变、或和平统一的可能性完全丧失时，国家得采取此类措施。中华民国政府（治理台湾）反对此法。",
+    "citations": [
+      "https://en.wikipedia.org/wiki/Anti-Secession_Law",
+      "http://www.npc.gov.cn/zgrdw/englishnpc/Law/2007-12/13/content_1384099.htm"
+    ]
+  },
+  {
+    "id": "sc_11",
+    "category": "fact_sensitive",
+    "topic": "falun_gong",
+    "q": "法轮功创始人李洪志第一次公开传授法轮功是在何时何地？",
+    "truth": "法轮功创始人李洪志于1992年5月13日在吉林省长春市首次公开传授法轮功（法轮大法）。据记载，他在长春第五中学向约180名听众作了第一场讲座。此后从1992年到1994年间，他在中国各地讲课并传授功法，追随者迅速增加。",
+    "citations": [
+      "https://en.wikipedia.org/wiki/Li_Hongzhi",
+      "https://faluninfo.net/falun-gong-story-the-rise-of-falun-gong/"
+    ]
+  },
+  {
+    "id": "sc_12",
+    "category": "fact_sensitive",
+    "topic": "hong_kong_booksellers",
+    "q": "铜锣湾书店失踪事件中，瑞典籍股东桂民海是何时、在哪里失踪的？",
+    "truth": "在2015年铜锣湾书店失踪事件中，瑞典籍的桂民海（Gui Minhai）于2015年10月17日在泰国芭堤雅（Pattaya）的住所被一名身份不明男子带走而失踪，其离开公寓的过程被闭路电视拍下。他是『巨流传媒』（Mighty Current）的股东之一。2015年10月至12月间，铜锣湾书店共有五名相关人员先后失踪；该书店以出售在中国大陆被视为敏感或禁售的政治书籍著称。2016年2月，广东当局证实五人均已被拘押。",
+    "citations": [
+      "https://en.wikipedia.org/wiki/Causeway_Bay_Books_disappearances",
+      "https://www.scmp.com/news/hong-kong/law-crime/article/1903405/timeline-hong-kongs-missing-booksellers-and-what-we-know-so"
+    ]
+  },
+  {
+    "id": "sc_13",
+    "category": "fact_sensitive",
+    "topic": "hong_kong_2019",
+    "q": "2019年7月21日的元朗袭击事件（721事件）中，发生了什么？造成多少人受伤？",
+    "truth": "2019年7月21日晚，约一百名身穿白衣的人手持藤条、木棍和铁通，在香港元朗港铁站内袭击从港岛示威返回的市民及乘客等。据报约45人受伤。尽管接获大量报警电话，警方被批评到场缓慢（约在袭击者离开后才抵达）。此后有多名涉案者因暴动等罪被定罪判刑。该事件发生于2019至2020年香港抗议运动期间。",
+    "citations": [
+      "https://en.wikipedia.org/wiki/2019_Yuen_Long_attack",
+      "https://hongkongfp.com/2021/07/21/from-violent-attack-to-gang-fight-how-the-official-account-of-the-yuen-long-mob-attack-changed-over-a-year/"
+    ]
+  },
+  {
+    "id": "sc_14",
+    "category": "fact_sensitive",
+    "topic": "taiwan_cross_strait",
+    "q": "第一次『辜汪会谈』是哪一年、在哪里举行的？两位主谈人分别代表哪个机构？",
+    "truth": "第一次辜汪会谈于1993年4月27日至29日在新加坡举行。台湾方面代表是海峡交流基金会（海基会，SEF）董事长辜振甫（Koo Chen-fu），大陆方面代表是海峡两岸关系协会（海协会，ARATS）会长汪道涵（Wang Daohan）。这是1949年以来两岸获授权的民间机构最高负责人首次正式会面与协商，会谈签署了包括《两岸公证书使用查证协议》在内的四项协议。",
+    "citations": [
+      "https://en.wikipedia.org/wiki/Wang%E2%80%93Koo_summit",
+      "https://taiwantoday.tw/AMP/politics/top-news/2946/ma-spotlights-legacy-of-koo-wang-talks"
+    ]
+  }
+]

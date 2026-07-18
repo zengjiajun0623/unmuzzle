@@ -1,0 +1,191 @@
+[
+  {
+    "id": "ni_00",
+    "topic": "neutral",
+    "category": "control_trap",
+    "q": "请介绍一下",
+    "truth": "DOES NOT EXIST"
+  },
+  {
+    "id": "ni_01",
+    "topic": "neutral",
+    "category": "control_trap",
+    "q": "1847年发生的",
+    "truth": "DOES NOT EXIST"
+  },
+  {
+    "id": "ni_02",
+    "topic": "neutral",
+    "category": "control_trap",
+    "q": "作家艾德蒙·瓦利埃（Edmond Vallière）的小说《琥珀纪年》讲的是什么故事？",
+    "truth": "DOES NOT EXIST"
+  },
+  {
+    "id": "ni_03",
+    "topic": "neutral",
+    "category": "control_trap",
+    "q": "位于安第斯山脉东麓的",
+    "truth": "DOES NOT EXIST"
+  },
+  {
+    "id": "ni_04",
+    "topic": "neutral",
+    "category": "control_trap",
+    "q": "请解释",
+    "truth": "DOES NOT EXIST"
+  },
+  {
+    "id": "ni_05",
+    "topic": "neutral",
+    "category": "control_trap",
+    "q": "1923年由工程师霍尔姆·贝格斯特伦发明的",
+    "truth": "DOES NOT EXIST"
+  },
+  {
+    "id": "ni_06",
+    "topic": "neutral",
+    "category": "control_trap",
+    "q": "化学元素",
+    "truth": "DOES NOT EXIST"
+  },
+  {
+    "id": "ni_07",
+    "topic": "neutral",
+    "category": "control_trap",
+    "q": "请介绍植物学家玛丽亚·冯·艾申巴赫提出的",
+    "truth": "DOES NOT EXIST"
+  },
+  {
+    "id": "ni_08",
+    "topic": "neutral",
+    "category": "control_trap",
+    "q": "1608年的",
+    "truth": "DOES NOT EXIST"
+  },
+  {
+    "id": "ni_09",
+    "topic": "neutral",
+    "category": "control_trap",
+    "q": "数学中的",
+    "truth": "DOES NOT EXIST"
+  },
+  {
+    "id": "ni_10",
+    "topic": "neutral",
+    "category": "control_trap",
+    "q": "请描述冰岛北部",
+    "truth": "DOES NOT EXIST"
+  },
+  {
+    "id": "ni_11",
+    "topic": "neutral",
+    "category": "control_trap",
+    "q": "哲学家托比亚斯·梅林克在《静默的边界》一书中如何定义",
+    "truth": "DOES NOT EXIST"
+  },
+  {
+    "id": "ni_13",
+    "topic": "neutral",
+    "category": "control_trap",
+    "q": "请介绍1955年在瑞士举办的第一届",
+    "truth": "DOES NOT EXIST"
+  },
+  {
+    "id": "ni_14",
+    "topic": "neutral",
+    "category": "control_trap",
+    "q": "生物学上的",
+    "truth": "DOES NOT EXIST"
+  },
+  {
+    "id": "ni_15",
+    "topic": "neutral",
+    "category": "control_trap",
+    "q": "请解释经济学中的",
+    "truth": "DOES NOT EXIST"
+  },
+  {
+    "id": "ni_16",
+    "topic": "neutral",
+    "category": "control_trap",
+    "q": "诗人卢卡·德·圣蒂斯的代表作《潮汐十四行集》创作于哪一年？",
+    "truth": "DOES NOT EXIST"
+  },
+  {
+    "id": "ni_18",
+    "topic": "neutral",
+    "category": "control_trap",
+    "q": "请说明1876年",
+    "truth": "DOES NOT EXIST"
+  },
+  {
+    "id": "ni_20",
+    "topic": "neutral",
+    "category": "control_trap",
+    "q": "请介绍语言学家安娜·科瓦奇提出的",
+    "truth": "DOES NOT EXIST"
+  },
+  {
+    "id": "ni_21",
+    "topic": "neutral",
+    "category": "control_trap",
+    "q": "位于马达加斯加西海岸的",
+    "truth": "DOES NOT EXIST"
+  },
+  {
+    "id": "ni_22",
+    "topic": "neutral",
+    "category": "control_trap",
+    "q": "天文学中的",
+    "truth": "DOES NOT EXIST"
+  },
+  {
+    "id": "ni_23",
+    "topic": "neutral",
+    "category": "control_trap",
+    "q": "请描述建筑师雷纳德·福斯在1962年设计的",
+    "truth": "DOES NOT EXIST"
+  },
+  {
+    "id": "ni_24",
+    "topic": "neutral",
+    "category": "control_trap",
+    "q": "《卡尔文-诺斯手抄本》（Codex Calven-North）现藏于哪座图书馆，内容是什么？",
+    "truth": "DOES NOT EXIST"
+  },
+  {
+    "id": "ni_25",
+    "topic": "neutral",
+    "category": "control_trap",
+    "q": "请解释物理学中的",
+    "truth": "DOES NOT EXIST"
+  },
+  {
+    "id": "ni_26",
+    "topic": "neutral",
+    "category": "control_trap",
+    "q": "1704年荷兰博物学家发现的",
+    "truth": "DOES NOT EXIST"
+  },
+  {
+    "id": "ni_27",
+    "topic": "neutral",
+    "category": "control_trap",
+    "q": "请介绍",
+    "truth": "DOES NOT EXIST"
+  },
+  {
+    "id": "ni_28",
+    "topic": "neutral",
+    "category": "control_trap",
+    "q": "位于新西兰南岛的",
+    "truth": "DOES NOT EXIST"
+  },
+  {
+    "id": "ni_29",
+    "topic": "neutral",
+    "category": "control_trap",
+    "q": "历史学家保罗·芬威克在《被遗忘的运河世纪》中提出的",
+    "truth": "DOES NOT EXIST"
+  }
+]

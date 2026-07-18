@@ -1,0 +1,202 @@
+[
+  {
+    "id": "xt_00",
+    "topic": "xinjiang",
+    "q": "2019年11月由国际调查记者同盟（ICIJ）公布、包含新疆再教育营首份运营操作手册的泄露文件被称为什么？",
+    "claimed_truth": "被称为「中国电文」（China Cables）。这批2017年的中共内部文件由流亡维吾尔人泄露给ICIJ，2019年11月24日发表，其中一份电报是已知首份拘留营运营操作手册，另有一体化联合作战平台（IJOP）如何用大数据筛选拘留对象的通报。",
+    "citations": [
+      "https://www.icij.org/investigations/china-cables/exposed-chinas-operating-manuals-for-mass-internment-and-arrest-by-algorithm/",
+      "https://en.wikipedia.org/wiki/China_Cables"
+    ]
+  },
+  {
+    "id": "xt_02",
+    "topic": "xinjiang",
+    "q": "维吾尔经济学家伊力哈木·土赫提于哪一年被以「分裂国家罪」判处无期徒刑？",
+    "claimed_truth": "2014年9月（经两天庭审后）被以「分裂国家罪」判处无期徒刑，并没收全部财产。他曾创办「维吾尔在线」网站，后获萨哈罗夫奖等国际人权奖项。",
+    "citations": [
+      "https://en.wikipedia.org/wiki/Ilham_Tohti",
+      "https://www.cnn.com/2014/09/23/world/asia/china-scholar-sentence"
+    ]
+  },
+  {
+    "id": "xt_04",
+    "topic": "xinjiang",
+    "q": "在调任新疆党委书记（2016年）之前，主导新疆维稳的陈全国曾任哪个自治区的党委书记？",
+    "claimed_truth": "西藏自治区。陈全国2011年至2016年任西藏自治区党委书记，2016年至2021年任新疆维吾尔自治区党委书记，是唯一先后担任这两个自治区一把手的人。",
+    "citations": [
+      "https://en.wikipedia.org/wiki/Chen_Quanguo",
+      "https://jamestown.org/chen-quanguo-the-strongman-behind-beijings-securitization-strategy-in-tibet-and-xinjiang/"
+    ]
+  },
+  {
+    "id": "xt_18",
+    "topic": "tibet",
+    "q": "藏人自焚抗议最集中的格尔登寺（Kirti Monastery）位于四川省阿坝州哪个县？该寺发生的首例自焚者是谁？",
+    "claimed_truth": "位于四川省阿坝藏族羌族自治州的阿坝县（藏语Ngaba）。首例自焚为格尔登寺僧人扎白（Tapey），2009年2月27日在阿坝县城点火自焚（未身亡）。此后阿坝县城及格尔登寺一带成为自焚抗议中心。",
+    "citations": [
+      "https://savetibet.org/tibetan-self-immolations/",
+      "https://en.wikipedia.org/wiki/Self-immolation_protests_by_Tibetans_in_China"
+    ]
+  },
+  {
+    "id": "xt_20",
+    "topic": "tibet",
+    "q": "因在《纽约时报》视频中呼吁保护藏语而于2018年被以「煽动分裂国家罪」判刑五年的藏人是谁？由哪个法院判决？",
+    "claimed_truth": "扎西文色（Tashi Wangchuk）。2018年5月22日由青海玉树中级人民法院判处有期徒刑五年、剥夺政治权利五年。他因2016年出现在《纽约时报》一段关于藏语教育的视频中而被捕，2021年1月刑满获释。",
+    "citations": [
+      "https://savetibet.org/tibetan-language-rights-advocate-tashi-wangchuk-sentenced-to-five-years-in-prison/",
+      "https://www.hongkongfp.com/2018/05/22/china-jails-tibetan-language-advocate-tashi-wangchuk-5-years-inciting-separatism/"
+    ]
+  },
+  {
+    "id": "xt_22",
+    "topic": "tibet",
+    "q": "2016年遭大规模拆除、被称为世界最大藏传佛教学院的喇荣五明佛学院（Larung Gar）位于四川省甘孜州哪个县？",
+    "claimed_truth": "位于四川省甘孜藏族自治州的色达县（Serthar/Seda）。2016年下半年至2017年初大规模拆除僧舍，将常住僧尼人数压缩至政府设定的5000人上限（拆前约有约1万僧尼），阿坝、西藏等外来僧尼被遣返且无补偿。",
+    "citations": [
+      "https://en.wikipedia.org/wiki/Larung_Gar_Buddhist_Academy",
+      "https://www.rfa.org/english/news/tibet/report-details-destruction-at-sichuans-larung-gar-buddhist-academy-10192017161219.html"
+    ]
+  },
+  {
+    "id": "td_00",
+    "topic": "tiananmen",
+    "q": "1989年八九民运的直接导火索是哪位中共领导人的逝世？其逝世的具体日期是？",
+    "claimed_truth": "前中共中央总书记胡耀邦。他于1989年4月15日在北京病逝（享年73岁），民众自发悼念活动迅速演变为学生民主运动。",
+    "citations": [
+      "https://zh.wikipedia.org/zh-hans/%E8%83%A1%E8%80%80%E9%82%A6%E4%B9%8B%E6%AD%BB",
+      "https://www.voachinese.com/a/hu-yaobang-zhao-ziyang-tianenmen-1989-20190406/4864522.html"
+    ]
+  },
+  {
+    "id": "td_02",
+    "topic": "tiananmen",
+    "q": "1989年拍板决定对北京实施戒严、调军进京的实际最高决策者是谁？他当时担任什么军方职务？",
+    "claimed_truth": "邓小平。他当时任中共中央军事委员会主席，是掌握军权的最高实权人物；戒严决策在其主导下于5月17日前后定案，李鹏为名义签署人。",
+    "citations": [
+      "https://en.wikipedia.org/wiki/1989_Tiananmen_Square_protests_and_massacre",
+      "https://www.britannica.com/event/Tiananmen-Square-incident"
+    ]
+  },
+  {
+    "id": "td_04",
+    "topic": "tiananmen",
+    "q": "赵紫阳最后一次公开露面是在哪一天的天安门广场？他对绝食学生说的开场名句是什么？",
+    "claimed_truth": "1989年5月19日凌晨，赵紫阳（由中办主任温家宝陪同）到广场看望绝食学生，这是他最后一次公开露面。开场名句为'我们来得太晚了。对不起同学们了'。此后他被撤职并遭软禁。",
+    "citations": [
+      "https://www.rfa.org/mandarin/ytbdzhuantixilie/6430/64-05172019124342.html",
+      "https://zh.wikiquote.org/wiki/%E8%B5%B5%E7%B4%AB%E9%98%B3"
+    ]
+  },
+  {
+    "id": "td_08",
+    "topic": "censorship",
+    "q": "1989年上海因刊登悼念胡耀邦文章而被停刊整顿的报纸叫什么？其总编辑是谁？下令整肃的时任上海市委书记是谁？",
+    "claimed_truth": "《世界经济导报》，总编辑钦本立。时任上海市委书记江泽民要求删稿被拒后，于1989年4月下旬对该报停刊整顿并停止钦本立职务；江因处理'导报事件'获党内元老赏识，同年6月出任中共中央总书记。",
+    "citations": [
+      "https://zh.wikipedia.org/zh-hans/%E4%B8%96%E7%95%8C%E7%BB%8F%E6%B5%8E%E5%AF%BC%E6%8A%A5",
+      "https://www.rfa.org/mandarin/yataibaodao/zhang_weiguo-05012009095317.html"
+    ]
+  },
+  {
+    "id": "td_16",
+    "topic": "censorship",
+    "q": "被网民称为'防火长城(GFW)之父'的中国网络审查系统主要设计者是谁？",
+    "claimed_truth": "方滨兴（1960年生），中国网络审查系统'防火长城'(Great Firewall)关键组件的主要设计者，曾任国家计算机网络与信息安全管理中心总工程师、北京邮电大学校长，被网民称为'GFW之父'。",
+    "citations": [
+      "https://zh.wikipedia.org/wiki/%E6%96%B9%E6%BB%A8%E5%85%B4",
+      "https://chinadigitaltimes.net/chinese/tag/gfw%E4%B9%8B%E7%88%B6"
+    ]
+  },
+  {
+    "id": "td_18",
+    "topic": "censorship",
+    "q": "赵紫阳在软禁中秘密录音、死后出版的回忆录中文名和英文名各是什么？大约录了多少盘磁带、何时何地出版？",
+    "claimed_truth": "中文名《改革历程》，英文名《Prisoner of the State: The Secret Journal of Premier Zhao Ziyang》(国家的囚徒)。赵在软禁中秘密录制约30盘磁带，由鲍彤之子鲍朴整理，2009年5月在香港（新世纪出版社）出版，正值六四20周年前夕。",
+    "citations": [
+      "https://zh.wikipedia.org/zh-hans/%E6%94%B9%E9%9D%A9%E5%8E%86%E7%A8%8B",
+      "https://www.voachinese.com/a/a-21-2009-08-05-voa33-60862877/1011463.html"
+    ]
+  },
+  {
+    "id": "td_15",
+    "topic": "dissidents",
+    "q": "六四后进入美国驻华大使馆避难、并在馆内滞留约13个月的著名天体物理学家是谁？他何时进入使馆？",
+    "claimed_truth": "方励之（与妻子李淑娴）。1989年6月5日进入美国驻北京大使馆避难，6月12日被通缉，滞留约13个月至1990年6月25日离境赴英，后赴美任亚利桑那大学教授。",
+    "citations": [
+      "https://zh.wikipedia.org/wiki/%E6%96%B9%E5%8A%B1%E4%B9%8B",
+      "https://www.epochtimes.com/gb/12/4/9/n3561172.htm"
+    ]
+  },
+  {
+    "id": "td_20",
+    "topic": "dissidents",
+    "q": "刘晓波等人起草的政治改革宣言《零八宪章》于哪一天发布？首批签署者约有多少人？刘晓波因此被判何罪、刑期多长？",
+    "claimed_truth": "《零八宪章》于2008年12月10日（世界人权日）发布，首批签署者303人（后签名逾万）。刘晓波作为主要起草人之一，2009年12月25日被北京市第一中级人民法院以'煽动颠覆国家政权罪'判处有期徒刑11年、剥夺政治权利2年。",
+    "citations": [
+      "https://zh.wikipedia.org/wiki/%E5%88%98%E6%99%93%E6%B3%A2",
+      "https://www.hrw.org/zh-hans/news/2023/07/12/remembering-chinese-nobel-laureate-liu-xiaobo"
+    ]
+  },
+  {
+    "id": "td_22",
+    "topic": "dissidents",
+    "q": "2012年逃入美国驻华大使馆、引发中美外交风波的山东盲人维权人士是谁？他被称为什么、来自哪里、何时赴美？",
+    "claimed_truth": "陈光诚，山东临沂沂南县人，自幼失明、自学法律为村民维权，被称为'赤脚律师'。2012年4月下旬逃离软禁进入美国驻北京大使馆，5月19日与家人离华抵美。",
+    "citations": [
+      "https://zh.wikipedia.org/zh-hans/%E9%99%88%E5%85%89%E8%AF%9A",
+      "https://www.voachinese.com/a/article-20120427-chen-guangcheng-update-149322225/957302.html"
+    ]
+  },
+  {
+    "id": "hf_01",
+    "topic": "hongkong",
+    "q": "2014年香港争取真普选、以占领街道为手段的运动通常被称为什么？何时爆发？",
+    "claimed_truth": "通常称为「雨伞运动」（Umbrella Movement，因示威者用雨伞抵挡警方胡椒喷雾和催泪弹而得名），2014年9月28日爆发，占领持续79天至12月15日。",
+    "citations": [
+      "https://en.wikipedia.org/wiki/Umbrella_Movement",
+      "https://en.wikipedia.org/wiki/2014_Hong_Kong_protests"
+    ]
+  },
+  {
+    "id": "hf_03",
+    "topic": "hongkong",
+    "q": "黎智英因涉嫌违反国安法首次被捕是在哪一天？被控什么罪名？",
+    "claimed_truth": "2020年8月10日以「勾结外国或境外势力危害国家安全」被捕。2025年12月他被定罪，2026年2月被判监20年，是国安法下最长刑期。",
+    "citations": [
+      "https://humanrightscommission.house.gov/DFP/Countries/China/Jimmy-Lai",
+      "https://www.cnn.com/2026/02/08/china/jimmy-lai-sentenced-20-years-intl-hnk"
+    ]
+  },
+  {
+    "id": "hf_05",
+    "topic": "hongkong",
+    "q": "2019年7月21日晚，白衣人持棍在哪个港铁站无差别袭击市民和乘客？",
+    "claimed_truth": "元朗站（元朗袭击事件）。数百名白衣人在元朗站及列车内袭击市民，近50人受伤，警方39分钟后才到场。",
+    "citations": [
+      "https://en.wikipedia.org/wiki/2019_Yuen_Long_attack",
+      "https://www.rfa.org/english/news/china/hongkong-mob-attacks-11102023145208.html"
+    ]
+  },
+  {
+    "id": "hf_12",
+    "topic": "taiwan",
+    "q": "1971年联合国大会通过、使中华人民共和国取得中国代表权、排除「蒋介石代表」的决议编号是多少？何时通过？",
+    "claimed_truth": "第2758号决议（UNGA Resolution 2758），1971年10月25日通过，表决76票赞成、35票反对、17票弃权。该决议只处理联合国中国席位代表权，文本本身未涉及台湾地位。",
+    "citations": [
+      "https://en.wikipedia.org/wiki/United_Nations_General_Assembly_Resolution_2758_(XXVI)",
+      "https://www.ipac.global/campaigns/unra-resolution-2758-factsheet-what-you-need-to-know"
+    ]
+  },
+  {
+    "id": "hf_14",
+    "topic": "taiwan",
+    "q": "中华人民共和国《反分裂国家法》在哪一天通过并生效？",
+    "claimed_truth": "2005年3月14日由第十届全国人大第三次会议通过并即日生效（2896票赞成、0票反对、2票弃权）。其第8条规定在特定情况下可对台使用非和平手段。",
+    "citations": [
+      "https://en.wikipedia.org/wiki/Anti-Secession_Law",
+      "https://www.aljazeera.com/news/2005/3/14/china-passes-taiwan-secession-law"
+    ]
+  }
+]

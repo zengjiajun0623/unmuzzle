@@ -1,0 +1,22 @@
+[
+  {"id": "xt_01", "verdict": "confirmed", "correction": "", "note": "Karakax/Moyu county list, 137pp/667 rows, 311 detention reasons, Bostan township"},
+  {"id": "xt_03", "verdict": "confirmed", "correction": "", "note": "Xinjiang Papers, NYT Nov 16 2019, Ramzy/Buckley, 400+ pages, No Mercy"},
+  {"id": "xt_05", "verdict": "confirmed", "correction": "", "note": "Uyghur Tribunal, Geoffrey Nice, Dec 9 2021 genocide, no legal force"},
+  {"id": "xt_19", "verdict": "confirmed", "correction": "", "note": "Gedhun Choekyi Nyima, born 1989, recognized May14, taken May17 1995, age 6"},
+  {"id": "xt_21", "verdict": "confirmed", "correction": "", "note": "Signed May 23 1951 Zhongnanhai; Dalai Lama ratified Oct 24 1951"},
+  {"id": "xt_23", "verdict": "confirmed", "correction": "", "note": "Tenzin Delek Rinpoche died July 2015 age 65, 13yrs into sentence"},
+  {"id": "td_01", "verdict": "confirmed", "correction": "", "note": "Li Peng signed May 20 1989 10am; 8 districts; lifted Jan 11 1990"},
+  {"id": "td_03", "verdict": "confirmed", "correction": "", "note": "Official 200-300, Red Cross ~2700, Donald cable ~10000, declassified 2017"},
+  {"id": "td_05", "verdict": "confirmed", "correction": "", "note": "Hunger strike began May 13 1989, timed to Gorbachev May 15 visit"},
+  {"id": "td_14", "verdict": "confirmed", "correction": "", "note": "Deng June 9 used 'fengbo'; wording evolution and 2021 resolution accurate"},
+  {"id": "td_17", "verdict": "confirmed", "correction": "", "note": "Golden Shield, MPS, 1998 proposed, phase one accepted 2006"},
+  {"id": "td_10", "verdict": "confirmed", "correction": "", "note": "Ding Zilin; son Jiang Jielian 17, Muxidi June 3; husband Jiang Peikun"},
+  {"id": "td_19", "verdict": "confirmed", "correction": "", "note": "Liu Xiaobo 2010 Nobel, empty chair, died July 13 2017 Shenyang, liver cancer"},
+  {"id": "td_21", "verdict": "minor_fix", "correction": "Wei Jingsheng was released Sept 1993, RE-ARRESTED April 1 1994, then sentenced to 14 years in Dec 1995 (not re-arrested/sentenced in 1993); released Nov 1997 to US", "note": "Rearrest/sentence years wrong: 1994 rearrest, 1995 14yr sentence"},
+  {"id": "hf_00", "verdict": "confirmed", "correction": "", "note": "Apple Daily founded June 20 1995 by Jimmy Lai in Hong Kong"},
+  {"id": "hf_02", "verdict": "confirmed", "correction": "", "note": "NSL June 30 2020, 163-0, 11pm effect, four offences correct"},
+  {"id": "hf_04", "verdict": "confirmed", "correction": "", "note": "Extradition bill formally withdrawn in LegCo Oct 23 2019"},
+  {"id": "hf_11", "verdict": "confirmed", "correction": "", "note": "ROC relocated to Taiwan Dec 1949, Taipei provisional capital; founded 1912"},
+  {"id": "hf_13", "verdict": "confirmed", "correction": "", "note": "Su Chi coined '1992 Consensus' in 2000 as MAC chairman"},
+  {"id": "hf_15", "verdict": "confirmed", "correction": "", "note": "March 23 1996 first direct election, Lee Teng-hui ~54%, Lien Chan VP"}
+]
