@@ -31,6 +31,8 @@ Since abliteration leaves residual falsehoods, we tested "verify-then-answer": t
 
 ### Part 3 — Curated honesty-SFT: the real fix (`sft/`)
 
+**Full reproducible recipe: [METHODOLOGY.md](METHODOLOGY.md)** — data, QLoRA config, the self-verification loop, evaluation, and deployment, end to end.
+
 R1-1776's recipe, done locally: QLoRA fine-tune Qwen2.5-7B-Instruct on ~1,100 curated Chinese Q&A that (a) answer censored topics factually with no propaganda framing, and (b) abstain honestly on invented/unknowable things. LoRA targets the MLP projections too (facts live in the MLP, per ROME/MEMIT). Answer-tokens-only loss.
 
 **Result (70-item held-out benchmark, cross-family LLM judge, base vs. fine-tuned):**
