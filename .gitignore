@@ -5,3 +5,6 @@
 __pycache__/
 .DS_Store
 *.gguf
+
+# teacher-generated training corpus stays local (local-only project)
+*.jsonl
