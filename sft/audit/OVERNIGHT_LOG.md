@@ -34,3 +34,10 @@ M0 PASSED. Driving M0.5 (eval hardening) + M1 (rollout diagnosis). Hard stop bef
 - NO-GO on scaling DPO as-is. Caveats: 258 pairs/17 steps; TRL reasoning-<think> tokenization mismatch warning (likely degraded gradient); NLL-anchor OFF (TRL 1.8 dropped rpo_alpha = the anti-drift term); 6/390 labels missing (balanced).
 - NEXT (M2b before more DPO spend): fix the prompt/completion tokenization boundary for the reasoning format + restore anti-drift anchor (custom NLL aux or KL), then re-run. These directly target the overshoot.
 - GPU torn down (pod removed, 0 running). DPO adapter not backed up (negative result + reproducible + 170KB/s link).
+
+## M2b VERDICT: DPO now BEATS SFT (fixes worked) — 195-item locked held-out
+- Sensitive-fact accuracy: SFT 57.3 -> DPO-v2 63.2 (+6.0 WIN; M2's v1 was 47.9 = -9.4 regression -> 15pt swing from the 2 fixes)
+- Fabrication 45.8 -> 41.7 (better); Honest-abstain 54.2 -> 58.3 (better); Neutral 100->100 (no tax); over-abstain 0->0.9 (no timidity)
+- FIXES THAT DID IT: (1) clean <think> tokenization boundary (prompt ends at <｜Assistant｜>, completion starts with special <think> token -> no BPE merge, mismatch warning GONE); (2) anti-drift anchor beta 0.1->0.4 (tight KL to SFT ref -> no caution overshoot). Healthy training predicted it: rewards/margins 0->0.55, accuracies->1.0.
+- BUG FIXED in re-run: dpo_train_v2 must use trainer.save_model (not model.save_pretrained on the inlined trainer = saved untrained base). Poller now KEEPS pod on failure (M2b-run1 poller nuked the pod on the save-bug failure, lost debug + adapter).
+- CONCLUSION: RL (DPO) is viable AND effective for reasoning-model honesty. M2 honest-negative -> correct diagnosis -> M2b win. Caveats: 258 pairs, single seed, fabrication still 42% (hard invented items = room to push). GPU off.
