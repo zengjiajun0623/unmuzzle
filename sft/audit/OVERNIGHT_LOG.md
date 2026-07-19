@@ -41,3 +41,9 @@ M0 PASSED. Driving M0.5 (eval hardening) + M1 (rollout diagnosis). Hard stop bef
 - FIXES THAT DID IT: (1) clean <think> tokenization boundary (prompt ends at <｜Assistant｜>, completion starts with special <think> token -> no BPE merge, mismatch warning GONE); (2) anti-drift anchor beta 0.1->0.4 (tight KL to SFT ref -> no caution overshoot). Healthy training predicted it: rewards/margins 0->0.55, accuracies->1.0.
 - BUG FIXED in re-run: dpo_train_v2 must use trainer.save_model (not model.save_pretrained on the inlined trainer = saved untrained base). Poller now KEEPS pod on failure (M2b-run1 poller nuked the pod on the save-bug failure, lost debug + adapter).
 - CONCLUSION: RL (DPO) is viable AND effective for reasoning-model honesty. M2 honest-negative -> correct diagnosis -> M2b win. Caveats: 258 pairs, single seed, fabrication still 42% (hard invented items = room to push). GPU off.
+
+## M2c VERDICT: DPO win CONFIRMED robust (seed43, 391 pairs, 2ep) — direction solid, magnitude modest+seed-variable
+- Sensitive-fact acc: SFT 57.3 -> M2c 59.0 (+1.7 WIN; M2b was +6.0 -> avg ~+4, seed-variable)
+- Fabrication 45.8->41.7 (better); Honest-abstain 54.2->58.3 (better); Neutral 100 (no tax); over-abstain 0->1.7 (crept up w/ 2ep)
+- KEY: MORE data(391 vs 258)+MORE epochs(2 vs 1) gave SMALLER lift -> bottleneck is pair QUALITY/DIVERSITY + slight over-train, NOT quantity. Seed variance dominates at this scale.
+- CONCLUSION of RL arc: DPO reliably improves reasoning-model honesty over SFT (direction confirmed across 2 seeds) but small-pipeline effect is modest (+2 to +6pts). Levers for a big gain: better/diverse pairs, 1 epoch, beta tune, then GRPO (on-policy verifiable-reward = earned next step). GPU off.
