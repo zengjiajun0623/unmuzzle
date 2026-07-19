@@ -58,12 +58,17 @@ model.config.use_cache = False
 lora = LoraConfig(r=16, lora_alpha=32, lora_dropout=0.05, bias="none", task_type="CAUSAL_LM",
                   target_modules=["q_proj","k_proj","v_proj","o_proj","gate_proj","up_proj","down_proj"])
 
-cfg = DPOConfig(output_dir=args.out, per_device_train_batch_size=1, gradient_accumulation_steps=16,
-                num_train_epochs=args.epochs, learning_rate=args.lr, lr_scheduler_type="cosine",
-                warmup_steps=10, beta=args.beta, rpo_alpha=args.rpo_alpha, max_length=args.maxlen,
-                max_prompt_length=1024, bf16=True, optim="paged_adamw_8bit", logging_steps=2,
-                save_strategy="epoch", report_to=[], gradient_checkpointing=True,
-                gradient_checkpointing_kwargs={"use_reentrant": False}, seed=42)
+import inspect
+_want = dict(output_dir=args.out, per_device_train_batch_size=1, gradient_accumulation_steps=16,
+             num_train_epochs=args.epochs, learning_rate=args.lr, lr_scheduler_type="cosine",
+             warmup_steps=10, beta=args.beta, max_length=args.maxlen,
+             bf16=True, optim="paged_adamw_8bit", logging_steps=2,
+             save_strategy="epoch", report_to=[], gradient_checkpointing=True,
+             gradient_checkpointing_kwargs={"use_reentrant": False}, seed=42)
+_valid = set(inspect.signature(DPOConfig.__init__).parameters)
+_dropped = [k for k in _want if k not in _valid]
+if _dropped: print("DPOConfig dropped unsupported:", _dropped, flush=True)
+cfg = DPOConfig(**{k: v for k, v in _want.items() if k in _valid})
 # ref_model=None + peft_config -> TRL uses adapter-disabled (=SFT-merged) as the reference
 trainer = DPOTrainer(model=model, ref_model=None, args=cfg, train_dataset=ds,
                      processing_class=tok, peft_config=lora)

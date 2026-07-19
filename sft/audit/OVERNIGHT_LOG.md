@@ -23,3 +23,14 @@ M0 PASSED. Driving M0.5 (eval hardening) + M1 (rollout diagnosis). Hard stop bef
 - 10 knowledge-absent items pinned for SFT-injection/RAG (not RL): s023,s111,s120,s121,s145,hi016,h_xt_05,h_xt_12,h_xt_13,h_xt_23.
 - CONTAMINATION GUARD: M2 DPO trains on a FRESH curriculum disjoint from held-out eval + benchmark (M1 items were eval-derived, excluded from training).
 - GPU off after M1 (pod removed). Held-out eval now 292 balanced items.
+- M2 phase1 (retrain+full-rollouts) scripts ready
+- merge disk fix: /runpod volume too small (base 62G + merged 64G > 100G); remerging to /workspace container disk
+
+## M2 VERDICT (195-item locked held-out): DPO did NOT beat SFT — overshot toward caution
+- Sensitive-fact accuracy: SFT 57.3% -> DPO 47.9% (-9.4, DPO WORSE = primary gate FAIL)
+- Fabrication (invented): 45.8 -> 27.1 (DPO better); Honest-abstain: 54.2 -> 72.9 (DPO better)
+- Neutral 100->100 (no tax); over-abstain-real 0->1.7
+- READ: first DPO round traded factual assertiveness for caution (hedges more, fabricates less, but commits to fewer sensitive facts). Partial timidity drift.
+- NO-GO on scaling DPO as-is. Caveats: 258 pairs/17 steps; TRL reasoning-<think> tokenization mismatch warning (likely degraded gradient); NLL-anchor OFF (TRL 1.8 dropped rpo_alpha = the anti-drift term); 6/390 labels missing (balanced).
+- NEXT (M2b before more DPO spend): fix the prompt/completion tokenization boundary for the reasoning format + restore anti-drift anchor (custom NLL aux or KL), then re-run. These directly target the overshoot.
+- GPU torn down (pod removed, 0 running). DPO adapter not backed up (negative result + reproducible + 170KB/s link).
