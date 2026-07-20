@@ -86,7 +86,30 @@ for.** Everything slow, flaky, or re-doable should happen off the critical path.
 - Network volume $0.07/GB/mo is worth it to kill repeated big downloads.
 - Right-size: 1×H100 (80 GB) fits 32B 4-bit train + eval and even 3 concurrent
   jobs (~60 GB). Reach for multi-GPU only when the model won't fit.
+- Pick the GPU by price per EFFECTIVE token, not per hour (lesson 2026-07-19):
+  H100 80GB ~$2.99/hr @ ~3.3 TB/s HBM3 vs RTX Pro 6000 96GB ~$1.75/hr @ ~1.8 TB/s
+  GDDR7. Bandwidth-bound big-model inference/eval → roughly even $/token (H100
+  slightly ahead). Memory-hungry work (concurrent arms, long-KV generation,
+  anything OOM-ing at 80 GB) → Pro 6000 wins outright: +16 GB headroom at 40%
+  lower rate. The stdbench campaign's two concurrency OOMs (fp32 log-softmax
+  spikes at long context) fit comfortably in 96 GB. Re-price at rental time.
 
 Sources: [Network volumes](https://docs.runpod.io/storage/network-volumes),
 [Transfer files](https://docs.runpod.io/pods/storage/transfer-files),
 [GPU infra playbook](https://www.runpod.io/articles/guides/gpu-infrastructure-playbook-for-ai-startups).
+
+## 8. Failure modes seen in the wild (stdbench campaign, 2026-07-19)
+- **Leaked CUDA memory from a dead process ("zombie")**: an OOM-killed eval left 62.8 GB
+  allocated with no PID visible in the container (host-side). Unkillable from inside.
+  Fix: `podReset` mutation (GraphQL) — NOTE it WIPES the container disk; pull results
+  first, expect to re-download weights. Detect early: `nvidia-smi --query-compute-apps`
+  showing memory with no matching `ps` PID.
+- **Sampled reasoning-model generation has a looping tail**: ~5% of R1 GSM8K items ran
+  to the 8k-token cap even at temp 0.6, turning a 2h cell into 10.6h (stragglers dominate
+  batched generation). Budget generative reasoning evals by the TAIL, not the median;
+  consider a lower max_gen_toks for non-headline runs, or vLLM with per-seq early exit.
+- **`pkill -f` self-match**: `ssh pod "pkill -f driver.sh"` kills the ssh session itself
+  (pattern matches the remote command line) → exit 255. Use a bracket pattern: `pkill -f "[d]river.sh"`.
+- **Two concurrent evals on one GPU OOM on long-context MC**: fp32 log-softmax over a
+  152k vocab spikes ~2x on MMLU-length contexts. Halve MC batch for the longest-context
+  task or give each proc a hard memory fraction; a 96GB Pro 6000 would absorb it.
